@@ -1,0 +1,143 @@
+Lisas-Air-2:40450156_code lisamuller$ ./hello_world_traffic.sh
+Started at 18
+First Interval
+{"message": "hello world"}
+real    0m0.424s
+user    0m0.031s
+sys     0m0.016s
+Sleep for 10 min
+{"message": "hello world"}
+real    0m0.533s
+user    0m0.021s
+sys     0m0.012s
+Sleep for 10 min
+{"message": "hello world"}
+real    0m0.408s
+user    0m0.032s
+sys     0m0.015s
+Sleep for 10 min
+{"message": "hello world"}
+real    0m0.425s
+user    0m0.032s
+sys     0m0.014s
+Sleep for 10 min
+{"message": "hello world"}
+real    0m0.422s
+user    0m0.033s
+sys     0m0.016s
+Sleep for 10 min
+{"message": "hello world"}
+real    0m0.425s
+user    0m0.032s
+sys     0m0.015s
+Sleep for 10 min
+{"message": "hello world"}
+real    0m0.420s
+user    0m0.032s
+sys     0m0.013s
+Sleep for 10 min
+{"message": "hello world"}
+real    0m0.636s
+user    0m0.030s
+sys     0m0.011s
+Sleep for 10 min
+{"message": "hello world"}
+real    0m1.341s
+user    0m0.032s
+sys     0m0.015s
+Sleep for 10 min
+{"message": "hello world"}
+real    0m0.433s
+user    0m0.034s
+sys     0m0.016s
+Sleep for 10 min
+{"message": "hello world"}
+real    0m1.142s
+user    0m0.032s
+sys     0m0.014s
+Sleep for 10 min
+{"message": "hello world"}
+real    0m0.407s
+user    0m0.031s
+sys     0m0.011s
+Sleep for 10 min
+{"message": "hello world"}
+real    0m0.548s
+user    0m0.033s
+sys     0m0.016s
+Sleep for 10 min
+{"message": "hello world"}
+real    0m0.426s
+user    0m0.027s
+sys     0m0.012s
+Sleep for 10 min
+{"message": "hello world"}
+real    0m0.423s
+user    0m0.022s
+sys     0m0.010s
+Sleep for 10 min
+{"message": "hello world"}
+real    0m0.406s
+user    0m0.032s
+sys     0m0.014s
+Sleep for 10 min
+{"message": "hello world"}
+real    0m0.466s
+user    0m0.032s
+sys     0m0.014s
+Sleep for 10 min
+{"message": "hello world"}
+real    0m0.424s
+user    0m0.032s
+sys     0m0.014s
+Sleep for 10 min
+{"message": "hello world"}
+real    0m0.425s
+user    0m0.032s
+sys     0m0.016s
+Sleep for 10 min
+{"message": "hello world"}
+real    0m0.429s
+user    0m0.032s
+sys     0m0.015s
+Sleep for 10 min
+{"message": "hello world"}
+real    0m0.407s
+user    0m0.030s
+sys     0m0.011s
+Sleep for 10 min
+{"message": "hello world"}
+real    0m0.419s
+user    0m0.032s
+sys     0m0.013s
+Sleep for 10 min
+{"message": "hello world"}
+real    0m0.436s
+user    0m0.032s
+sys     0m0.013s
+Sleep for 10 min
+{"message": "hello world"}
+real    0m0.656s
+user    0m0.032s
+sys     0m0.014s
+Sleep for 10 min
+{"message": "hello world"}
+real    0m0.494s
+user    0m0.032s
+sys     0m0.014s
+Sleep for 10 min
+{"message": "hello world"}
+real    0m0.398s
+user    0m0.031s
+sys     0m0.012s
+Sleep for 10 min
+{"message": "hello world"}
+real    0m0.895s
+user    0m0.022s
+sys     0m0.015s
+Sleep for 10 min
+{"message": "hello world"}
+real    0m0.450s
+user    0m0.027s
+sys     0m0.012s
+Sleep for 10 min

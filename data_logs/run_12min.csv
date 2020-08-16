@@ -1,0 +1,1072 @@
+@timestamp,@message
+2020-07-27 15:54:24.599,"END RequestId: 1630c01f-94ec-4f53-8ee5-dd1d35fa450c
+"
+2020-07-27 15:54:24.599,"REPORT RequestId: 1630c01f-94ec-4f53-8ee5-dd1d35fa450c	Duration: 1688.47 ms	Billed Duration: 1700 ms	Memory Size: 128 MB	Max Memory Used: 78 MB	Init Duration: 306.38 ms	
+"
+2020-07-27 15:54:22.940,"b'3.236.98.89
+'
+"
+2020-07-27 15:54:22.940,"us-east-1
+"
+2020-07-27 15:54:22.920,"169.254.116.133
+"
+2020-07-27 15:54:22.920,"169.254.76.1
+"
+2020-07-27 15:54:22.912,"MemTotal:192480kB,MemFree:63464kB,MemAvailable:140816kB,Buffers:9048kB,Cached:71728kB,SwapCached:0kB,Active:52040kB,Inactive:57412kB,Active(anon):28704kB,Inactive(anon):44kB,Active(file):23336kB,Inactive(file):57368kB,Unevictable:0kB,Mlocked:0kB,SwapTotal:0kB,SwapFree:0kB,Dirty:72kB,Writeback:0kB,AnonPages:28752kB,Mapped:37768kB,Shmem:44kB,Slab:12456kB,SReclaimable:4152kB,SUnreclaim:8304kB,KernelStack:1288kB,PageTables:1040kB,NFS_Unstable:0kB,Bounce:0kB,WritebackTmp:0kB,CommitLimit:96240kB,Committed_AS:396624kB,VmallocTotal:34359738367kB,VmallocUsed:0kB,VmallocChunk:0kB,AnonHugePages:0kB,ShmemHugePages:0kB,ShmemPmdMapped:0kB,HugePages_Total:0,HugePages_Free:0,HugePages_Rsvd:0,HugePages_Surp:0,Hugepagesize:2048kB,DirectMap4k:16384kB,DirectMap2M:196608kB
+"
+2020-07-27 15:54:22.912,"processor: 0;vendor_id: GenuineIntel;cpu family: 6;model: 62;model name: Intel(R) Xeon(R) Processor @ 2.50GHz;stepping: 4;microcode: 0x1;cpu MHz: 2500.012;cache size: 33792 KB;physical id: 0;siblings: 2;core id: 0;cpu cores: 2;apicid: 0;initial apicid: 0;fpu: yes;fpu_exception: yes;cpuid level: 13;wp: yes;flags: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx rdtscp lm constant_tsc rep_good nopl xtopology nonstop_tsc cpuid tsc_known_freq pni pclmulqdq ssse3 cx16 pcid sse4_1 sse4_2 x2apic popcnt tsc_deadline_timer aes xsave avx f16c rdrand hypervisor lahf_lm cpuid_fault pti ssbd ibrs ibpb stibp fsgsbase tsc_adjust smep erms smap xsaveopt arat md_clear arch_capabilities;bugs: cpu_meltdown spectre_v1 spectre_v2 spec_store_bypass l1tf mds swapgs;bogomips: 5000.02;clflush size: 64;cache_alignment: 64;address sizes: 46 bits physical, 48 bits virtual;power management:;;processor: 1;vendor_id: GenuineIntel;cpu family: 6;model: 62;model name: Intel(R) Xeon(R) Processor @ 2.50GHz;stepping: 4;microcode: 0x1;cpu MHz: 2500.012;cache size: 33792 KB;physical id: 0;siblings: 2;core id: 1;cpu cores: 2;apicid: 1;initial apicid: 1;fpu: yes;fpu_exception: yes;cpuid level: 13;wp: yes;flags: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx rdtscp lm constant_tsc rep_good nopl xtopology nonstop_tsc cpuid tsc_known_freq pni pclmulqdq ssse3 cx16 pcid sse4_1 sse4_2 x2apic popcnt tsc_deadline_timer aes xsave avx f16c rdrand hypervisor lahf_lm cpuid_fault pti ssbd ibrs ibpb stibp fsgsbase tsc_adjust smep erms smap xsaveopt arat md_clear arch_capabilities;bugs: cpu_meltdown spectre_v1 spectre_v2 spec_store_bypass l1tf mds swapgs;bogomips: 5000.02;clflush size: 64;cache_alignment: 64;address sizes: 46 bits physical, 48 bits virtual;power management:;;
+"
+2020-07-27 15:54:22.912,"1001.29,2001.36
+"
+2020-07-27 15:54:22.910,"START RequestId: 1630c01f-94ec-4f53-8ee5-dd1d35fa450c Version: $LATEST
+"
+2020-07-27 15:54:22.816,"END RequestId: 240e57e2-624e-4ef8-8d65-d90650270f37
+"
+2020-07-27 15:54:22.816,"REPORT RequestId: 240e57e2-624e-4ef8-8d65-d90650270f37	Duration: 294.88 ms	Billed Duration: 300 ms	Memory Size: 128 MB	Max Memory Used: 79 MB	
+"
+2020-07-27 15:54:22.538,"b'35.173.57.192
+'
+"
+2020-07-27 15:54:22.538,"us-east-1
+"
+2020-07-27 15:54:22.524,"169.254.237.165
+"
+2020-07-27 15:54:22.524,"169.254.76.1
+"
+2020-07-27 15:54:22.523,"processor: 0;vendor_id: GenuineIntel;cpu family: 6;model: 62;model name: Intel(R) Xeon(R) Processor @ 2.50GHz;stepping: 4;microcode: 0x1;cpu MHz: 2500.010;cache size: 33792 KB;physical id: 0;siblings: 2;core id: 0;cpu cores: 2;apicid: 0;initial apicid: 0;fpu: yes;fpu_exception: yes;cpuid level: 13;wp: yes;flags: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx rdtscp lm constant_tsc rep_good nopl xtopology nonstop_tsc cpuid tsc_known_freq pni pclmulqdq ssse3 cx16 pcid sse4_1 sse4_2 x2apic popcnt tsc_deadline_timer aes xsave avx f16c rdrand hypervisor lahf_lm cpuid_fault pti ssbd ibrs ibpb stibp fsgsbase tsc_adjust smep erms smap xsaveopt arat md_clear arch_capabilities;bugs: cpu_meltdown spectre_v1 spectre_v2 spec_store_bypass l1tf mds swapgs;bogomips: 5000.02;clflush size: 64;cache_alignment: 64;address sizes: 46 bits physical, 48 bits virtual;power management:;;processor: 1;vendor_id: GenuineIntel;cpu family: 6;model: 62;model name: Intel(R) Xeon(R) Processor @ 2.50GHz;stepping: 4;microcode: 0x1;cpu MHz: 2500.010;cache size: 33792 KB;physical id: 0;siblings: 2;core id: 1;cpu cores: 2;apicid: 1;initial apicid: 1;fpu: yes;fpu_exception: yes;cpuid level: 13;wp: yes;flags: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx rdtscp lm constant_tsc rep_good nopl xtopology nonstop_tsc cpuid tsc_known_freq pni pclmulqdq ssse3 cx16 pcid sse4_1 sse4_2 x2apic popcnt tsc_deadline_timer aes xsave avx f16c rdrand hypervisor lahf_lm cpuid_fault pti ssbd ibrs ibpb stibp fsgsbase tsc_adjust smep erms smap xsaveopt arat md_clear arch_capabilities;bugs: cpu_meltdown spectre_v1 spectre_v2 spec_store_bypass l1tf mds swapgs;bogomips: 5000.02;clflush size: 64;cache_alignment: 64;address sizes: 46 bits physical, 48 bits virtual;power management:;;
+"
+2020-07-27 15:54:22.523,"2024.00,4045.22
+"
+2020-07-27 15:54:22.522,"MemTotal:192480kB,MemFree:47688kB,MemAvailable:131904kB,Buffers:11464kB,Cached:74944kB,SwapCached:0kB,Active:65592kB,Inactive:57532kB,Active(anon):36708kB,Inactive(anon):52kB,Active(file):28884kB,Inactive(file):57480kB,Unevictable:0kB,Mlocked:0kB,SwapTotal:0kB,SwapFree:0kB,Dirty:0kB,Writeback:0kB,AnonPages:36728kB,Mapped:39212kB,Shmem:52kB,Slab:14364kB,SReclaimable:5444kB,SUnreclaim:8920kB,KernelStack:1280kB,PageTables:1100kB,NFS_Unstable:0kB,Bounce:0kB,WritebackTmp:0kB,CommitLimit:96240kB,Committed_AS:404728kB,VmallocTotal:34359738367kB,VmallocUsed:0kB,VmallocChunk:0kB,AnonHugePages:0kB,ShmemHugePages:0kB,ShmemPmdMapped:0kB,HugePages_Total:0,HugePages_Free:0,HugePages_Rsvd:0,HugePages_Surp:0,Hugepagesize:2048kB,DirectMap4k:16384kB,DirectMap2M:196608kB
+"
+2020-07-27 15:54:22.519,"START RequestId: 240e57e2-624e-4ef8-8d65-d90650270f37 Version: $LATEST
+"
+2020-07-27 15:42:21.749,"END RequestId: 27dc3a96-fd76-4a44-b5e1-ef9792e35274
+"
+2020-07-27 15:42:21.749,"REPORT RequestId: 27dc3a96-fd76-4a44-b5e1-ef9792e35274	Duration: 1710.32 ms	Billed Duration: 1800 ms	Memory Size: 128 MB	Max Memory Used: 78 MB	Init Duration: 327.65 ms	
+"
+2020-07-27 15:42:20.072,"b'35.173.57.192
+'
+"
+2020-07-27 15:42:20.072,"us-east-1
+"
+2020-07-27 15:42:20.050,"169.254.237.165
+"
+2020-07-27 15:42:20.050,"169.254.76.1
+"
+2020-07-27 15:42:20.040,"MemTotal:192480kB,MemFree:63444kB,MemAvailable:140332kB,Buffers:9108kB,Cached:71188kB,SwapCached:0kB,Active:52480kB,Inactive:56760kB,Active(anon):28936kB,Inactive(anon):52kB,Active(file):23544kB,Inactive(file):56708kB,Unevictable:0kB,Mlocked:0kB,SwapTotal:0kB,SwapFree:0kB,Dirty:68kB,Writeback:0kB,AnonPages:28956kB,Mapped:37820kB,Shmem:52kB,Slab:12824kB,SReclaimable:4124kB,SUnreclaim:8700kB,KernelStack:1296kB,PageTables:1064kB,NFS_Unstable:0kB,Bounce:0kB,WritebackTmp:0kB,CommitLimit:96240kB,Committed_AS:396872kB,VmallocTotal:34359738367kB,VmallocUsed:0kB,VmallocChunk:0kB,AnonHugePages:0kB,ShmemHugePages:0kB,ShmemPmdMapped:0kB,HugePages_Total:0,HugePages_Free:0,HugePages_Rsvd:0,HugePages_Surp:0,Hugepagesize:2048kB,DirectMap4k:16384kB,DirectMap2M:196608kB
+"
+2020-07-27 15:42:20.040,"processor: 0;vendor_id: GenuineIntel;cpu family: 6;model: 62;model name: Intel(R) Xeon(R) Processor @ 2.50GHz;stepping: 4;microcode: 0x1;cpu MHz: 2500.010;cache size: 33792 KB;physical id: 0;siblings: 2;core id: 0;cpu cores: 2;apicid: 0;initial apicid: 0;fpu: yes;fpu_exception: yes;cpuid level: 13;wp: yes;flags: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx rdtscp lm constant_tsc rep_good nopl xtopology nonstop_tsc cpuid tsc_known_freq pni pclmulqdq ssse3 cx16 pcid sse4_1 sse4_2 x2apic popcnt tsc_deadline_timer aes xsave avx f16c rdrand hypervisor lahf_lm cpuid_fault pti ssbd ibrs ibpb stibp fsgsbase tsc_adjust smep erms smap xsaveopt arat md_clear arch_capabilities;bugs: cpu_meltdown spectre_v1 spectre_v2 spec_store_bypass l1tf mds swapgs;bogomips: 5000.02;clflush size: 64;cache_alignment: 64;address sizes: 46 bits physical, 48 bits virtual;power management:;;processor: 1;vendor_id: GenuineIntel;cpu family: 6;model: 62;model name: Intel(R) Xeon(R) Processor @ 2.50GHz;stepping: 4;microcode: 0x1;cpu MHz: 2500.010;cache size: 33792 KB;physical id: 0;siblings: 2;core id: 1;cpu cores: 2;apicid: 1;initial apicid: 1;fpu: yes;fpu_exception: yes;cpuid level: 13;wp: yes;flags: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx rdtscp lm constant_tsc rep_good nopl xtopology nonstop_tsc cpuid tsc_known_freq pni pclmulqdq ssse3 cx16 pcid sse4_1 sse4_2 x2apic popcnt tsc_deadline_timer aes xsave avx f16c rdrand hypervisor lahf_lm cpuid_fault pti ssbd ibrs ibpb stibp fsgsbase tsc_adjust smep erms smap xsaveopt arat md_clear arch_capabilities;bugs: cpu_meltdown spectre_v1 spectre_v2 spec_store_bypass l1tf mds swapgs;bogomips: 5000.02;clflush size: 64;cache_alignment: 64;address sizes: 46 bits physical, 48 bits virtual;power management:;;
+"
+2020-07-27 15:42:20.040,"1301.53,2601.70
+"
+2020-07-27 15:42:20.039,"START RequestId: 27dc3a96-fd76-4a44-b5e1-ef9792e35274 Version: $LATEST
+"
+2020-07-27 15:42:20.022,"END RequestId: d97ce802-9188-4b62-8aea-48d9f7209fb0
+"
+2020-07-27 15:42:20.022,"REPORT RequestId: d97ce802-9188-4b62-8aea-48d9f7209fb0	Duration: 392.94 ms	Billed Duration: 400 ms	Memory Size: 128 MB	Max Memory Used: 79 MB	
+"
+2020-07-27 15:42:19.644,"b'3.237.194.114
+'
+"
+2020-07-27 15:42:19.644,"us-east-1
+"
+2020-07-27 15:42:19.632,"169.254.72.189
+"
+2020-07-27 15:42:19.632,"169.254.76.1
+"
+2020-07-27 15:42:19.630,"MemTotal:192480kB,MemFree:47316kB,MemAvailable:131984kB,Buffers:11496kB,Cached:75448kB,SwapCached:0kB,Active:65344kB,Inactive:58244kB,Active(anon):36644kB,Inactive(anon):52kB,Active(file):28700kB,Inactive(file):58192kB,Unevictable:0kB,Mlocked:0kB,SwapTotal:0kB,SwapFree:0kB,Dirty:0kB,Writeback:0kB,AnonPages:36664kB,Mapped:38940kB,Shmem:52kB,Slab:14316kB,SReclaimable:5368kB,SUnreclaim:8948kB,KernelStack:1280kB,PageTables:1080kB,NFS_Unstable:0kB,Bounce:0kB,WritebackTmp:0kB,CommitLimit:96240kB,Committed_AS:403328kB,VmallocTotal:34359738367kB,VmallocUsed:0kB,VmallocChunk:0kB,AnonHugePages:0kB,ShmemHugePages:0kB,ShmemPmdMapped:0kB,HugePages_Total:0,HugePages_Free:0,HugePages_Rsvd:0,HugePages_Surp:0,Hugepagesize:2048kB,DirectMap4k:18432kB,DirectMap2M:194560kB
+"
+2020-07-27 15:42:19.630,"processor: 0;vendor_id: GenuineIntel;cpu family: 6;model: 62;model name: Intel(R) Xeon(R) Processor @ 2.50GHz;stepping: 4;microcode: 0x1;cpu MHz: 2500.014;cache size: 33792 KB;physical id: 0;siblings: 2;core id: 0;cpu cores: 2;apicid: 0;initial apicid: 0;fpu: yes;fpu_exception: yes;cpuid level: 13;wp: yes;flags: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx rdtscp lm constant_tsc rep_good nopl xtopology nonstop_tsc cpuid tsc_known_freq pni pclmulqdq ssse3 cx16 pcid sse4_1 sse4_2 x2apic popcnt tsc_deadline_timer aes xsave avx f16c rdrand hypervisor lahf_lm cpuid_fault pti ssbd ibrs ibpb stibp fsgsbase tsc_adjust smep erms smap xsaveopt arat md_clear arch_capabilities;bugs: cpu_meltdown spectre_v1 spectre_v2 spec_store_bypass l1tf mds swapgs;bogomips: 5000.02;clflush size: 64;cache_alignment: 64;address sizes: 46 bits physical, 48 bits virtual;power management:;;processor: 1;vendor_id: GenuineIntel;cpu family: 6;model: 62;model name: Intel(R) Xeon(R) Processor @ 2.50GHz;stepping: 4;microcode: 0x1;cpu MHz: 2500.014;cache size: 33792 KB;physical id: 0;siblings: 2;core id: 1;cpu cores: 2;apicid: 1;initial apicid: 1;fpu: yes;fpu_exception: yes;cpuid level: 13;wp: yes;flags: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx rdtscp lm constant_tsc rep_good nopl xtopology nonstop_tsc cpuid tsc_known_freq pni pclmulqdq ssse3 cx16 pcid sse4_1 sse4_2 x2apic popcnt tsc_deadline_timer aes xsave avx f16c rdrand hypervisor lahf_lm cpuid_fault pti ssbd ibrs ibpb stibp fsgsbase tsc_adjust smep erms smap xsaveopt arat md_clear arch_capabilities;bugs: cpu_meltdown spectre_v1 spectre_v2 spec_store_bypass l1tf mds swapgs;bogomips: 5000.02;clflush size: 64;cache_alignment: 64;address sizes: 46 bits physical, 48 bits virtual;power management:;;
+"
+2020-07-27 15:42:19.630,"2206.20,4409.95
+"
+2020-07-27 15:42:19.626,"START RequestId: d97ce802-9188-4b62-8aea-48d9f7209fb0 Version: $LATEST
+"
+2020-07-27 15:30:18.754,"END RequestId: 532aed81-39f8-44fd-a069-7b6e4bc638e9
+"
+2020-07-27 15:30:18.754,"REPORT RequestId: 532aed81-39f8-44fd-a069-7b6e4bc638e9	Duration: 1709.38 ms	Billed Duration: 1800 ms	Memory Size: 128 MB	Max Memory Used: 78 MB	Init Duration: 313.31 ms	
+"
+2020-07-27 15:30:17.071,"b'3.237.194.114
+'
+"
+2020-07-27 15:30:17.071,"us-east-1
+"
+2020-07-27 15:30:17.053,"169.254.72.189
+"
+2020-07-27 15:30:17.053,"169.254.76.1
+"
+2020-07-27 15:30:17.045,"MemTotal:192480kB,MemFree:63272kB,MemAvailable:140652kB,Buffers:9144kB,Cached:71692kB,SwapCached:0kB,Active:52160kB,Inactive:57428kB,Active(anon):28760kB,Inactive(anon):52kB,Active(file):23400kB,Inactive(file):57376kB,Unevictable:0kB,Mlocked:0kB,SwapTotal:0kB,SwapFree:0kB,Dirty:60kB,Writeback:0kB,AnonPages:28812kB,Mapped:37764kB,Shmem:52kB,Slab:12636kB,SReclaimable:4060kB,SUnreclaim:8576kB,KernelStack:1276kB,PageTables:1052kB,NFS_Unstable:0kB,Bounce:0kB,WritebackTmp:0kB,CommitLimit:96240kB,Committed_AS:387276kB,VmallocTotal:34359738367kB,VmallocUsed:0kB,VmallocChunk:0kB,AnonHugePages:0kB,ShmemHugePages:0kB,ShmemPmdMapped:0kB,HugePages_Total:0,HugePages_Free:0,HugePages_Rsvd:0,HugePages_Surp:0,Hugepagesize:2048kB,DirectMap4k:18432kB,DirectMap2M:194560kB
+"
+2020-07-27 15:30:17.045,"processor: 0;vendor_id: GenuineIntel;cpu family: 6;model: 62;model name: Intel(R) Xeon(R) Processor @ 2.50GHz;stepping: 4;microcode: 0x1;cpu MHz: 2500.014;cache size: 33792 KB;physical id: 0;siblings: 2;core id: 0;cpu cores: 2;apicid: 0;initial apicid: 0;fpu: yes;fpu_exception: yes;cpuid level: 13;wp: yes;flags: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx rdtscp lm constant_tsc rep_good nopl xtopology nonstop_tsc cpuid tsc_known_freq pni pclmulqdq ssse3 cx16 pcid sse4_1 sse4_2 x2apic popcnt tsc_deadline_timer aes xsave avx f16c rdrand hypervisor lahf_lm cpuid_fault pti ssbd ibrs ibpb stibp fsgsbase tsc_adjust smep erms smap xsaveopt arat md_clear arch_capabilities;bugs: cpu_meltdown spectre_v1 spectre_v2 spec_store_bypass l1tf mds swapgs;bogomips: 5000.02;clflush size: 64;cache_alignment: 64;address sizes: 46 bits physical, 48 bits virtual;power management:;;processor: 1;vendor_id: GenuineIntel;cpu family: 6;model: 62;model name: Intel(R) Xeon(R) Processor @ 2.50GHz;stepping: 4;microcode: 0x1;cpu MHz: 2500.014;cache size: 33792 KB;physical id: 0;siblings: 2;core id: 1;cpu cores: 2;apicid: 1;initial apicid: 1;fpu: yes;fpu_exception: yes;cpuid level: 13;wp: yes;flags: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx rdtscp lm constant_tsc rep_good nopl xtopology nonstop_tsc cpuid tsc_known_freq pni pclmulqdq ssse3 cx16 pcid sse4_1 sse4_2 x2apic popcnt tsc_deadline_timer aes xsave avx f16c rdrand hypervisor lahf_lm cpuid_fault pti ssbd ibrs ibpb stibp fsgsbase tsc_adjust smep erms smap xsaveopt arat md_clear arch_capabilities;bugs: cpu_meltdown spectre_v1 spectre_v2 spec_store_bypass l1tf mds swapgs;bogomips: 5000.02;clflush size: 64;cache_alignment: 64;address sizes: 46 bits physical, 48 bits virtual;power management:;;
+"
+2020-07-27 15:30:17.045,"1483.63,2965.97
+"
+2020-07-27 15:30:17.044,"START RequestId: 532aed81-39f8-44fd-a069-7b6e4bc638e9 Version: $LATEST
+"
+2020-07-27 15:30:16.962,"END RequestId: b84b1ded-7e4a-4721-aa14-8a32888fc4e2
+"
+2020-07-27 15:30:16.962,"REPORT RequestId: b84b1ded-7e4a-4721-aa14-8a32888fc4e2	Duration: 307.19 ms	Billed Duration: 400 ms	Memory Size: 128 MB	Max Memory Used: 79 MB	
+"
+2020-07-27 15:30:16.664,"b'34.204.199.76
+'
+"
+2020-07-27 15:30:16.664,"us-east-1
+"
+2020-07-27 15:30:16.658,"169.254.192.21
+"
+2020-07-27 15:30:16.658,"169.254.76.1
+"
+2020-07-27 15:30:16.656,"MemTotal:192480kB,MemFree:47576kB,MemAvailable:131980kB,Buffers:11252kB,Cached:75384kB,SwapCached:0kB,Active:65224kB,Inactive:58116kB,Active(anon):36692kB,Inactive(anon):52kB,Active(file):28532kB,Inactive(file):58064kB,Unevictable:0kB,Mlocked:0kB,SwapTotal:0kB,SwapFree:0kB,Dirty:0kB,Writeback:0kB,AnonPages:36740kB,Mapped:39360kB,Shmem:52kB,Slab:14260kB,SReclaimable:5400kB,SUnreclaim:8860kB,KernelStack:1280kB,PageTables:1112kB,NFS_Unstable:0kB,Bounce:0kB,WritebackTmp:0kB,CommitLimit:96240kB,Committed_AS:404728kB,VmallocTotal:34359738367kB,VmallocUsed:0kB,VmallocChunk:0kB,AnonHugePages:0kB,ShmemHugePages:0kB,ShmemPmdMapped:0kB,HugePages_Total:0,HugePages_Free:0,HugePages_Rsvd:0,HugePages_Surp:0,Hugepagesize:2048kB,DirectMap4k:16384kB,DirectMap2M:196608kB
+"
+2020-07-27 15:30:16.656,"processor: 0;vendor_id: GenuineIntel;cpu family: 6;model: 62;model name: Intel(R) Xeon(R) Processor @ 2.50GHz;stepping: 4;microcode: 0x1;cpu MHz: 2500.010;cache size: 33792 KB;physical id: 0;siblings: 2;core id: 0;cpu cores: 2;apicid: 0;initial apicid: 0;fpu: yes;fpu_exception: yes;cpuid level: 13;wp: yes;flags: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx rdtscp lm constant_tsc rep_good nopl xtopology nonstop_tsc cpuid tsc_known_freq pni pclmulqdq ssse3 cx16 pcid sse4_1 sse4_2 x2apic popcnt tsc_deadline_timer aes xsave avx f16c rdrand hypervisor lahf_lm cpuid_fault pti ssbd ibrs ibpb stibp fsgsbase tsc_adjust smep erms smap xsaveopt arat md_clear arch_capabilities;bugs: cpu_meltdown spectre_v1 spectre_v2 spec_store_bypass l1tf mds swapgs;bogomips: 5000.02;clflush size: 64;cache_alignment: 64;address sizes: 46 bits physical, 48 bits virtual;power management:;;processor: 1;vendor_id: GenuineIntel;cpu family: 6;model: 62;model name: Intel(R) Xeon(R) Processor @ 2.50GHz;stepping: 4;microcode: 0x1;cpu MHz: 2500.010;cache size: 33792 KB;physical id: 0;siblings: 2;core id: 1;cpu cores: 2;apicid: 1;initial apicid: 1;fpu: yes;fpu_exception: yes;cpuid level: 13;wp: yes;flags: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx rdtscp lm constant_tsc rep_good nopl xtopology nonstop_tsc cpuid tsc_known_freq pni pclmulqdq ssse3 cx16 pcid sse4_1 sse4_2 x2apic popcnt tsc_deadline_timer aes xsave avx f16c rdrand hypervisor lahf_lm cpuid_fault pti ssbd ibrs ibpb stibp fsgsbase tsc_adjust smep erms smap xsaveopt arat md_clear arch_capabilities;bugs: cpu_meltdown spectre_v1 spectre_v2 spec_store_bypass l1tf mds swapgs;bogomips: 5000.02;clflush size: 64;cache_alignment: 64;address sizes: 46 bits physical, 48 bits virtual;power management:;;
+"
+2020-07-27 15:30:16.656,"1374.25,2746.09
+"
+2020-07-27 15:30:16.652,"START RequestId: b84b1ded-7e4a-4721-aa14-8a32888fc4e2 Version: $LATEST
+"
+2020-07-27 15:18:15.980,"END RequestId: 8f3ceea2-223a-4041-b3da-f99cb14bafc3
+"
+2020-07-27 15:18:15.980,"REPORT RequestId: 8f3ceea2-223a-4041-b3da-f99cb14bafc3	Duration: 1727.36 ms	Billed Duration: 1800 ms	Memory Size: 128 MB	Max Memory Used: 78 MB	Init Duration: 315.47 ms	
+"
+2020-07-27 15:18:14.282,"b'34.204.199.76
+'
+"
+2020-07-27 15:18:14.282,"us-east-1
+"
+2020-07-27 15:18:14.261,"169.254.192.21
+"
+2020-07-27 15:18:14.261,"169.254.76.1
+"
+2020-07-27 15:18:14.254,"MemTotal:192480kB,MemFree:63360kB,MemAvailable:140512kB,Buffers:8948kB,Cached:71628kB,SwapCached:0kB,Active:52244kB,Inactive:57356kB,Active(anon):29016kB,Inactive(anon):52kB,Active(file):23228kB,Inactive(file):57304kB,Unevictable:0kB,Mlocked:0kB,SwapTotal:0kB,SwapFree:0kB,Dirty:68kB,Writeback:0kB,AnonPages:29084kB,Mapped:37984kB,Shmem:52kB,Slab:12516kB,SReclaimable:4096kB,SUnreclaim:8420kB,KernelStack:1280kB,PageTables:1072kB,NFS_Unstable:0kB,Bounce:0kB,WritebackTmp:0kB,CommitLimit:96240kB,Committed_AS:388676kB,VmallocTotal:34359738367kB,VmallocUsed:0kB,VmallocChunk:0kB,AnonHugePages:0kB,ShmemHugePages:0kB,ShmemPmdMapped:0kB,HugePages_Total:0,HugePages_Free:0,HugePages_Rsvd:0,HugePages_Surp:0,Hugepagesize:2048kB,DirectMap4k:16384kB,DirectMap2M:196608kB
+"
+2020-07-27 15:18:14.254,"processor: 0;vendor_id: GenuineIntel;cpu family: 6;model: 62;model name: Intel(R) Xeon(R) Processor @ 2.50GHz;stepping: 4;microcode: 0x1;cpu MHz: 2500.010;cache size: 33792 KB;physical id: 0;siblings: 2;core id: 0;cpu cores: 2;apicid: 0;initial apicid: 0;fpu: yes;fpu_exception: yes;cpuid level: 13;wp: yes;flags: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx rdtscp lm constant_tsc rep_good nopl xtopology nonstop_tsc cpuid tsc_known_freq pni pclmulqdq ssse3 cx16 pcid sse4_1 sse4_2 x2apic popcnt tsc_deadline_timer aes xsave avx f16c rdrand hypervisor lahf_lm cpuid_fault pti ssbd ibrs ibpb stibp fsgsbase tsc_adjust smep erms smap xsaveopt arat md_clear arch_capabilities;bugs: cpu_meltdown spectre_v1 spectre_v2 spec_store_bypass l1tf mds swapgs;bogomips: 5000.02;clflush size: 64;cache_alignment: 64;address sizes: 46 bits physical, 48 bits virtual;power management:;;processor: 1;vendor_id: GenuineIntel;cpu family: 6;model: 62;model name: Intel(R) Xeon(R) Processor @ 2.50GHz;stepping: 4;microcode: 0x1;cpu MHz: 2500.010;cache size: 33792 KB;physical id: 0;siblings: 2;core id: 1;cpu cores: 2;apicid: 1;initial apicid: 1;fpu: yes;fpu_exception: yes;cpuid level: 13;wp: yes;flags: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx rdtscp lm constant_tsc rep_good nopl xtopology nonstop_tsc cpuid tsc_known_freq pni pclmulqdq ssse3 cx16 pcid sse4_1 sse4_2 x2apic popcnt tsc_deadline_timer aes xsave avx f16c rdrand hypervisor lahf_lm cpuid_fault pti ssbd ibrs ibpb stibp fsgsbase tsc_adjust smep erms smap xsaveopt arat md_clear arch_capabilities;bugs: cpu_meltdown spectre_v1 spectre_v2 spec_store_bypass l1tf mds swapgs;bogomips: 5000.02;clflush size: 64;cache_alignment: 64;address sizes: 46 bits physical, 48 bits virtual;power management:;;
+"
+2020-07-27 15:18:14.254,"651.85,1302.54
+"
+2020-07-27 15:18:14.253,"START RequestId: 8f3ceea2-223a-4041-b3da-f99cb14bafc3 Version: $LATEST
+"
+2020-07-27 15:18:14.055,"END RequestId: c4feb215-9fee-4ce3-941d-bed779c20b40
+"
+2020-07-27 15:18:14.055,"REPORT RequestId: c4feb215-9fee-4ce3-941d-bed779c20b40	Duration: 253.10 ms	Billed Duration: 300 ms	Memory Size: 128 MB	Max Memory Used: 79 MB	
+"
+2020-07-27 15:18:13.816,"b'3.223.192.18
+'
+"
+2020-07-27 15:18:13.816,"us-east-1
+"
+2020-07-27 15:18:13.804,"169.254.213.189
+"
+2020-07-27 15:18:13.804,"169.254.76.1
+"
+2020-07-27 15:18:13.803,"processor: 0;vendor_id: GenuineIntel;cpu family: 6;model: 62;model name: Intel(R) Xeon(R) Processor @ 2.50GHz;stepping: 4;microcode: 0x1;cpu MHz: 2500.008;cache size: 36608 KB;physical id: 0;siblings: 2;core id: 0;cpu cores: 2;apicid: 0;initial apicid: 0;fpu: yes;fpu_exception: yes;cpuid level: 13;wp: yes;flags: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx rdtscp lm constant_tsc rep_good nopl xtopology nonstop_tsc cpuid tsc_known_freq pni pclmulqdq ssse3 cx16 pcid sse4_1 sse4_2 x2apic popcnt tsc_deadline_timer aes xsave avx f16c rdrand hypervisor lahf_lm cpuid_fault ssbd ibrs ibpb stibp ibrs_enhanced fsgsbase tsc_adjust smep erms smap xsaveopt arat md_clear arch_capabilities;bugs: spectre_v1 spectre_v2 spec_store_bypass swapgs;bogomips: 5000.01;clflush size: 64;cache_alignment: 64;address sizes: 46 bits physical, 48 bits virtual;power management:;;processor: 1;vendor_id: GenuineIntel;cpu family: 6;model: 62;model name: Intel(R) Xeon(R) Processor @ 2.50GHz;stepping: 4;microcode: 0x1;cpu MHz: 2500.008;cache size: 36608 KB;physical id: 0;siblings: 2;core id: 1;cpu cores: 2;apicid: 1;initial apicid: 1;fpu: yes;fpu_exception: yes;cpuid level: 13;wp: yes;flags: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx rdtscp lm constant_tsc rep_good nopl xtopology nonstop_tsc cpuid tsc_known_freq pni pclmulqdq ssse3 cx16 pcid sse4_1 sse4_2 x2apic popcnt tsc_deadline_timer aes xsave avx f16c rdrand hypervisor lahf_lm cpuid_fault ssbd ibrs ibpb stibp ibrs_enhanced fsgsbase tsc_adjust smep erms smap xsaveopt arat md_clear arch_capabilities;bugs: spectre_v1 spectre_v2 spec_store_bypass swapgs;bogomips: 5000.01;clflush size: 64;cache_alignment: 64;address sizes: 46 bits physical, 48 bits virtual;power management:;;
+"
+2020-07-27 15:18:13.803,"1871.48,3740.52
+"
+2020-07-27 15:18:13.802,"MemTotal:192480kB,MemFree:47236kB,MemAvailable:132116kB,Buffers:11484kB,Cached:75600kB,SwapCached:0kB,Active:65588kB,Inactive:58268kB,Active(anon):36760kB,Inactive(anon):52kB,Active(file):28828kB,Inactive(file):58216kB,Unevictable:0kB,Mlocked:0kB,SwapTotal:0kB,SwapFree:0kB,Dirty:4kB,Writeback:0kB,AnonPages:36780kB,Mapped:39016kB,Shmem:52kB,Slab:14056kB,SReclaimable:5428kB,SUnreclaim:8628kB,KernelStack:1296kB,PageTables:1108kB,NFS_Unstable:0kB,Bounce:0kB,WritebackTmp:0kB,CommitLimit:96240kB,Committed_AS:411520kB,VmallocTotal:34359738367kB,VmallocUsed:0kB,VmallocChunk:0kB,AnonHugePages:0kB,ShmemHugePages:0kB,ShmemPmdMapped:0kB,HugePages_Total:0,HugePages_Free:0,HugePages_Rsvd:0,HugePages_Surp:0,Hugepagesize:2048kB,DirectMap4k:16384kB,DirectMap2M:196608kB
+"
+2020-07-27 15:18:13.799,"START RequestId: c4feb215-9fee-4ce3-941d-bed779c20b40 Version: $LATEST
+"
+2020-07-27 15:06:12.952,"END RequestId: 8eae6bbb-efd2-407f-bc15-f1e158982d58
+"
+2020-07-27 15:06:12.952,"REPORT RequestId: 8eae6bbb-efd2-407f-bc15-f1e158982d58	Duration: 1664.78 ms	Billed Duration: 1700 ms	Memory Size: 128 MB	Max Memory Used: 78 MB	Init Duration: 325.86 ms	
+"
+2020-07-27 15:06:11.296,"b'3.223.192.18
+'
+"
+2020-07-27 15:06:11.296,"us-east-1
+"
+2020-07-27 15:06:11.292,"169.254.213.189
+"
+2020-07-27 15:06:11.292,"169.254.76.1
+"
+2020-07-27 15:06:11.289,"MemTotal:192480kB,MemFree:63224kB,MemAvailable:140728kB,Buffers:9088kB,Cached:71844kB,SwapCached:0kB,Active:52416kB,Inactive:57516kB,Active(anon):28988kB,Inactive(anon):52kB,Active(file):23428kB,Inactive(file):57464kB,Unevictable:0kB,Mlocked:0kB,SwapTotal:0kB,SwapFree:0kB,Dirty:72kB,Writeback:0kB,AnonPages:29028kB,Mapped:37812kB,Shmem:52kB,Slab:12328kB,SReclaimable:4080kB,SUnreclaim:8248kB,KernelStack:1280kB,PageTables:1060kB,NFS_Unstable:0kB,Bounce:0kB,WritebackTmp:0kB,CommitLimit:96240kB,Committed_AS:387528kB,VmallocTotal:34359738367kB,VmallocUsed:0kB,VmallocChunk:0kB,AnonHugePages:0kB,ShmemHugePages:0kB,ShmemPmdMapped:0kB,HugePages_Total:0,HugePages_Free:0,HugePages_Rsvd:0,HugePages_Surp:0,Hugepagesize:2048kB,DirectMap4k:16384kB,DirectMap2M:196608kB
+"
+2020-07-27 15:06:11.289,"processor: 0;vendor_id: GenuineIntel;cpu family: 6;model: 62;model name: Intel(R) Xeon(R) Processor @ 2.50GHz;stepping: 4;microcode: 0x1;cpu MHz: 2500.008;cache size: 36608 KB;physical id: 0;siblings: 2;core id: 0;cpu cores: 2;apicid: 0;initial apicid: 0;fpu: yes;fpu_exception: yes;cpuid level: 13;wp: yes;flags: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx rdtscp lm constant_tsc rep_good nopl xtopology nonstop_tsc cpuid tsc_known_freq pni pclmulqdq ssse3 cx16 pcid sse4_1 sse4_2 x2apic popcnt tsc_deadline_timer aes xsave avx f16c rdrand hypervisor lahf_lm cpuid_fault ssbd ibrs ibpb stibp ibrs_enhanced fsgsbase tsc_adjust smep erms smap xsaveopt arat md_clear arch_capabilities;bugs: spectre_v1 spectre_v2 spec_store_bypass swapgs;bogomips: 5000.01;clflush size: 64;cache_alignment: 64;address sizes: 46 bits physical, 48 bits virtual;power management:;;processor: 1;vendor_id: GenuineIntel;cpu family: 6;model: 62;model name: Intel(R) Xeon(R) Processor @ 2.50GHz;stepping: 4;microcode: 0x1;cpu MHz: 2500.008;cache size: 36608 KB;physical id: 0;siblings: 2;core id: 1;cpu cores: 2;apicid: 1;initial apicid: 1;fpu: yes;fpu_exception: yes;cpuid level: 13;wp: yes;flags: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx rdtscp lm constant_tsc rep_good nopl xtopology nonstop_tsc cpuid tsc_known_freq pni pclmulqdq ssse3 cx16 pcid sse4_1 sse4_2 x2apic popcnt tsc_deadline_timer aes xsave avx f16c rdrand hypervisor lahf_lm cpuid_fault ssbd ibrs ibpb stibp ibrs_enhanced fsgsbase tsc_adjust smep erms smap xsaveopt arat md_clear arch_capabilities;bugs: spectre_v1 spectre_v2 spec_store_bypass swapgs;bogomips: 5000.01;clflush size: 64;cache_alignment: 64;address sizes: 46 bits physical, 48 bits virtual;power management:;;
+"
+2020-07-27 15:06:11.289,"1148.97,2296.66
+"
+2020-07-27 15:06:11.287,"START RequestId: 8eae6bbb-efd2-407f-bc15-f1e158982d58 Version: $LATEST
+"
+2020-07-27 15:06:11.171,"END RequestId: e903db95-4052-4dbd-bef1-08140dafbdfc
+"
+2020-07-27 15:06:11.171,"REPORT RequestId: e903db95-4052-4dbd-bef1-08140dafbdfc	Duration: 305.93 ms	Billed Duration: 400 ms	Memory Size: 128 MB	Max Memory Used: 79 MB	
+"
+2020-07-27 15:06:10.890,"b'3.236.88.167
+'
+"
+2020-07-27 15:06:10.890,"us-east-1
+"
+2020-07-27 15:06:10.868,"169.254.192.197
+"
+2020-07-27 15:06:10.868,"169.254.76.1
+"
+2020-07-27 15:06:10.866,"MemTotal:192480kB,MemFree:46476kB,MemAvailable:131128kB,Buffers:11624kB,Cached:75164kB,SwapCached:0kB,Active:66544kB,Inactive:57756kB,Active(anon):37500kB,Inactive(anon):52kB,Active(file):29044kB,Inactive(file):57704kB,Unevictable:0kB,Mlocked:0kB,SwapTotal:0kB,SwapFree:0kB,Dirty:16kB,Writeback:0kB,AnonPages:37508kB,Mapped:38736kB,Shmem:52kB,Slab:14368kB,SReclaimable:5496kB,SUnreclaim:8872kB,KernelStack:1296kB,PageTables:1116kB,NFS_Unstable:0kB,Bounce:0kB,WritebackTmp:0kB,CommitLimit:96240kB,Committed_AS:412032kB,VmallocTotal:34359738367kB,VmallocUsed:0kB,VmallocChunk:0kB,AnonHugePages:0kB,ShmemHugePages:0kB,ShmemPmdMapped:0kB,HugePages_Total:0,HugePages_Free:0,HugePages_Rsvd:0,HugePages_Surp:0,Hugepagesize:2048kB,DirectMap4k:16384kB,DirectMap2M:196608kB
+"
+2020-07-27 15:06:10.866,"processor: 0;vendor_id: GenuineIntel;cpu family: 6;model: 62;model name: Intel(R) Xeon(R) Processor @ 2.50GHz;stepping: 4;microcode: 0x1;cpu MHz: 2500.004;cache size: 33792 KB;physical id: 0;siblings: 2;core id: 0;cpu cores: 2;apicid: 0;initial apicid: 0;fpu: yes;fpu_exception: yes;cpuid level: 13;wp: yes;flags: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx rdtscp lm constant_tsc rep_good nopl xtopology nonstop_tsc cpuid tsc_known_freq pni pclmulqdq ssse3 cx16 pcid sse4_1 sse4_2 x2apic popcnt tsc_deadline_timer aes xsave avx f16c rdrand hypervisor lahf_lm cpuid_fault pti ssbd ibrs ibpb stibp fsgsbase tsc_adjust smep erms smap xsaveopt arat md_clear arch_capabilities;bugs: cpu_meltdown spectre_v1 spectre_v2 spec_store_bypass l1tf mds swapgs;bogomips: 5000.00;clflush size: 64;cache_alignment: 64;address sizes: 46 bits physical, 48 bits virtual;power management:;;processor: 1;vendor_id: GenuineIntel;cpu family: 6;model: 62;model name: Intel(R) Xeon(R) Processor @ 2.50GHz;stepping: 4;microcode: 0x1;cpu MHz: 2500.004;cache size: 33792 KB;physical id: 0;siblings: 2;core id: 1;cpu cores: 2;apicid: 1;initial apicid: 1;fpu: yes;fpu_exception: yes;cpuid level: 13;wp: yes;flags: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx rdtscp lm constant_tsc rep_good nopl xtopology nonstop_tsc cpuid tsc_known_freq pni pclmulqdq ssse3 cx16 pcid sse4_1 sse4_2 x2apic popcnt tsc_deadline_timer aes xsave avx f16c rdrand hypervisor lahf_lm cpuid_fault pti ssbd ibrs ibpb stibp fsgsbase tsc_adjust smep erms smap xsaveopt arat md_clear arch_capabilities;bugs: cpu_meltdown spectre_v1 spectre_v2 spec_store_bypass l1tf mds swapgs;bogomips: 5000.00;clflush size: 64;cache_alignment: 64;address sizes: 46 bits physical, 48 bits virtual;power management:;;
+"
+2020-07-27 15:06:10.866,"2265.15,4526.34
+"
+2020-07-27 15:06:10.862,"START RequestId: e903db95-4052-4dbd-bef1-08140dafbdfc Version: $LATEST
+"
+2020-07-27 14:54:10.049,"END RequestId: 8d0e2961-15fd-4af5-84ad-3b2f7584e0a5
+"
+2020-07-27 14:54:10.049,"REPORT RequestId: 8d0e2961-15fd-4af5-84ad-3b2f7584e0a5	Duration: 396.22 ms	Billed Duration: 400 ms	Memory Size: 128 MB	Max Memory Used: 79 MB	
+"
+2020-07-27 14:54:09.708,"b'3.236.88.167
+'
+"
+2020-07-27 14:54:09.708,"us-east-1
+"
+2020-07-27 14:54:09.670,"169.254.192.197
+"
+2020-07-27 14:54:09.670,"169.254.76.1
+"
+2020-07-27 14:54:09.669,"processor: 0;vendor_id: GenuineIntel;cpu family: 6;model: 62;model name: Intel(R) Xeon(R) Processor @ 2.50GHz;stepping: 4;microcode: 0x1;cpu MHz: 2500.004;cache size: 33792 KB;physical id: 0;siblings: 2;core id: 0;cpu cores: 2;apicid: 0;initial apicid: 0;fpu: yes;fpu_exception: yes;cpuid level: 13;wp: yes;flags: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx rdtscp lm constant_tsc rep_good nopl xtopology nonstop_tsc cpuid tsc_known_freq pni pclmulqdq ssse3 cx16 pcid sse4_1 sse4_2 x2apic popcnt tsc_deadline_timer aes xsave avx f16c rdrand hypervisor lahf_lm cpuid_fault pti ssbd ibrs ibpb stibp fsgsbase tsc_adjust smep erms smap xsaveopt arat md_clear arch_capabilities;bugs: cpu_meltdown spectre_v1 spectre_v2 spec_store_bypass l1tf mds swapgs;bogomips: 5000.00;clflush size: 64;cache_alignment: 64;address sizes: 46 bits physical, 48 bits virtual;power management:;;processor: 1;vendor_id: GenuineIntel;cpu family: 6;model: 62;model name: Intel(R) Xeon(R) Processor @ 2.50GHz;stepping: 4;microcode: 0x1;cpu MHz: 2500.004;cache size: 33792 KB;physical id: 0;siblings: 2;core id: 1;cpu cores: 2;apicid: 1;initial apicid: 1;fpu: yes;fpu_exception: yes;cpuid level: 13;wp: yes;flags: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx rdtscp lm constant_tsc rep_good nopl xtopology nonstop_tsc cpuid tsc_known_freq pni pclmulqdq ssse3 cx16 pcid sse4_1 sse4_2 x2apic popcnt tsc_deadline_timer aes xsave avx f16c rdrand hypervisor lahf_lm cpuid_fault pti ssbd ibrs ibpb stibp fsgsbase tsc_adjust smep erms smap xsaveopt arat md_clear arch_capabilities;bugs: cpu_meltdown spectre_v1 spectre_v2 spec_store_bypass l1tf mds swapgs;bogomips: 5000.00;clflush size: 64;cache_alignment: 64;address sizes: 46 bits physical, 48 bits virtual;power management:;;
+"
+2020-07-27 14:54:09.669,"1543.96,3085.23
+"
+2020-07-27 14:54:09.668,"MemTotal:192480kB,MemFree:47340kB,MemAvailable:131704kB,Buffers:11360kB,Cached:75136kB,SwapCached:0kB,Active:65900kB,Inactive:57736kB,Active(anon):37128kB,Inactive(anon):52kB,Active(file):28772kB,Inactive(file):57684kB,Unevictable:0kB,Mlocked:0kB,SwapTotal:0kB,SwapFree:0kB,Dirty:8kB,Writeback:0kB,AnonPages:37128kB,Mapped:38736kB,Shmem:52kB,Slab:14180kB,SReclaimable:5500kB,SUnreclaim:8680kB,KernelStack:1280kB,PageTables:1104kB,NFS_Unstable:0kB,Bounce:0kB,WritebackTmp:0kB,CommitLimit:96240kB,Committed_AS:403320kB,VmallocTotal:34359738367kB,VmallocUsed:0kB,VmallocChunk:0kB,AnonHugePages:0kB,ShmemHugePages:0kB,ShmemPmdMapped:0kB,HugePages_Total:0,HugePages_Free:0,HugePages_Rsvd:0,HugePages_Surp:0,Hugepagesize:2048kB,DirectMap4k:16384kB,DirectMap2M:196608kB
+"
+2020-07-27 14:54:09.650,"START RequestId: 8d0e2961-15fd-4af5-84ad-3b2f7584e0a5 Version: $LATEST
+"
+2020-07-27 14:54:09.648,"END RequestId: 0b7bcbae-c1f3-4769-b8f4-237e0a549205
+"
+2020-07-27 14:54:09.648,"REPORT RequestId: 0b7bcbae-c1f3-4769-b8f4-237e0a549205	Duration: 283.56 ms	Billed Duration: 300 ms	Memory Size: 128 MB	Max Memory Used: 79 MB	
+"
+2020-07-27 14:54:09.372,"b'3.236.88.167
+'
+"
+2020-07-27 14:54:09.372,"us-east-1
+"
+2020-07-27 14:54:09.368,"169.254.192.197
+"
+2020-07-27 14:54:09.368,"169.254.76.1
+"
+2020-07-27 14:54:09.366,"MemTotal:192480kB,MemFree:47772kB,MemAvailable:132136kB,Buffers:11360kB,Cached:75136kB,SwapCached:0kB,Active:65292kB,Inactive:58012kB,Active(anon):36796kB,Inactive(anon):52kB,Active(file):28496kB,Inactive(file):57960kB,Unevictable:0kB,Mlocked:0kB,SwapTotal:0kB,SwapFree:0kB,Dirty:8kB,Writeback:0kB,AnonPages:36840kB,Mapped:38736kB,Shmem:52kB,Slab:14116kB,SReclaimable:5500kB,SUnreclaim:8616kB,KernelStack:1280kB,PageTables:1104kB,NFS_Unstable:0kB,Bounce:0kB,WritebackTmp:0kB,CommitLimit:96240kB,Committed_AS:403320kB,VmallocTotal:34359738367kB,VmallocUsed:0kB,VmallocChunk:0kB,AnonHugePages:0kB,ShmemHugePages:0kB,ShmemPmdMapped:0kB,HugePages_Total:0,HugePages_Free:0,HugePages_Rsvd:0,HugePages_Surp:0,Hugepagesize:2048kB,DirectMap4k:16384kB,DirectMap2M:196608kB
+"
+2020-07-27 14:54:09.366,"processor: 0;vendor_id: GenuineIntel;cpu family: 6;model: 62;model name: Intel(R) Xeon(R) Processor @ 2.50GHz;stepping: 4;microcode: 0x1;cpu MHz: 2500.004;cache size: 33792 KB;physical id: 0;siblings: 2;core id: 0;cpu cores: 2;apicid: 0;initial apicid: 0;fpu: yes;fpu_exception: yes;cpuid level: 13;wp: yes;flags: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx rdtscp lm constant_tsc rep_good nopl xtopology nonstop_tsc cpuid tsc_known_freq pni pclmulqdq ssse3 cx16 pcid sse4_1 sse4_2 x2apic popcnt tsc_deadline_timer aes xsave avx f16c rdrand hypervisor lahf_lm cpuid_fault pti ssbd ibrs ibpb stibp fsgsbase tsc_adjust smep erms smap xsaveopt arat md_clear arch_capabilities;bugs: cpu_meltdown spectre_v1 spectre_v2 spec_store_bypass l1tf mds swapgs;bogomips: 5000.00;clflush size: 64;cache_alignment: 64;address sizes: 46 bits physical, 48 bits virtual;power management:;;processor: 1;vendor_id: GenuineIntel;cpu family: 6;model: 62;model name: Intel(R) Xeon(R) Processor @ 2.50GHz;stepping: 4;microcode: 0x1;cpu MHz: 2500.004;cache size: 33792 KB;physical id: 0;siblings: 2;core id: 1;cpu cores: 2;apicid: 1;initial apicid: 1;fpu: yes;fpu_exception: yes;cpuid level: 13;wp: yes;flags: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx rdtscp lm constant_tsc rep_good nopl xtopology nonstop_tsc cpuid tsc_known_freq pni pclmulqdq ssse3 cx16 pcid sse4_1 sse4_2 x2apic popcnt tsc_deadline_timer aes xsave avx f16c rdrand hypervisor lahf_lm cpuid_fault pti ssbd ibrs ibpb stibp fsgsbase tsc_adjust smep erms smap xsaveopt arat md_clear arch_capabilities;bugs: cpu_meltdown spectre_v1 spectre_v2 spec_store_bypass l1tf mds swapgs;bogomips: 5000.00;clflush size: 64;cache_alignment: 64;address sizes: 46 bits physical, 48 bits virtual;power management:;;
+"
+2020-07-27 14:54:09.366,"1543.65,3084.65
+"
+2020-07-27 14:54:09.363,"START RequestId: 0b7bcbae-c1f3-4769-b8f4-237e0a549205 Version: $LATEST
+"
+2020-07-27 14:42:08.447,"END RequestId: 0d1fb77d-4a21-4008-93e5-f3bb3ffc54c1
+"
+2020-07-27 14:42:08.447,"REPORT RequestId: 0d1fb77d-4a21-4008-93e5-f3bb3ffc54c1	Duration: 1652.83 ms	Billed Duration: 1700 ms	Memory Size: 128 MB	Max Memory Used: 78 MB	Init Duration: 298.25 ms	
+"
+2020-07-27 14:42:06.829,"b'3.236.88.167
+'
+"
+2020-07-27 14:42:06.829,"us-east-1
+"
+2020-07-27 14:42:06.808,"169.254.192.197
+"
+2020-07-27 14:42:06.808,"169.254.76.1
+"
+2020-07-27 14:42:06.795,"MemTotal:192480kB,MemFree:63760kB,MemAvailable:140696kB,Buffers:9012kB,Cached:71368kB,SwapCached:0kB,Active:52064kB,Inactive:57228kB,Active(anon):28928kB,Inactive(anon):52kB,Active(file):23136kB,Inactive(file):57176kB,Unevictable:0kB,Mlocked:0kB,SwapTotal:0kB,SwapFree:0kB,Dirty:60kB,Writeback:0kB,AnonPages:28984kB,Mapped:37556kB,Shmem:52kB,Slab:12360kB,SReclaimable:4100kB,SUnreclaim:8260kB,KernelStack:1280kB,PageTables:1040kB,NFS_Unstable:0kB,Bounce:0kB,WritebackTmp:0kB,CommitLimit:96240kB,Committed_AS:387524kB,VmallocTotal:34359738367kB,VmallocUsed:0kB,VmallocChunk:0kB,AnonHugePages:0kB,ShmemHugePages:0kB,ShmemPmdMapped:0kB,HugePages_Total:0,HugePages_Free:0,HugePages_Rsvd:0,HugePages_Surp:0,Hugepagesize:2048kB,DirectMap4k:16384kB,DirectMap2M:196608kB
+"
+2020-07-27 14:42:06.795,"processor: 0;vendor_id: GenuineIntel;cpu family: 6;model: 62;model name: Intel(R) Xeon(R) Processor @ 2.50GHz;stepping: 4;microcode: 0x1;cpu MHz: 2500.004;cache size: 33792 KB;physical id: 0;siblings: 2;core id: 0;cpu cores: 2;apicid: 0;initial apicid: 0;fpu: yes;fpu_exception: yes;cpuid level: 13;wp: yes;flags: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx rdtscp lm constant_tsc rep_good nopl xtopology nonstop_tsc cpuid tsc_known_freq pni pclmulqdq ssse3 cx16 pcid sse4_1 sse4_2 x2apic popcnt tsc_deadline_timer aes xsave avx f16c rdrand hypervisor lahf_lm cpuid_fault pti ssbd ibrs ibpb stibp fsgsbase tsc_adjust smep erms smap xsaveopt arat md_clear arch_capabilities;bugs: cpu_meltdown spectre_v1 spectre_v2 spec_store_bypass l1tf mds swapgs;bogomips: 5000.00;clflush size: 64;cache_alignment: 64;address sizes: 46 bits physical, 48 bits virtual;power management:;;processor: 1;vendor_id: GenuineIntel;cpu family: 6;model: 62;model name: Intel(R) Xeon(R) Processor @ 2.50GHz;stepping: 4;microcode: 0x1;cpu MHz: 2500.004;cache size: 33792 KB;physical id: 0;siblings: 2;core id: 1;cpu cores: 2;apicid: 1;initial apicid: 1;fpu: yes;fpu_exception: yes;cpuid level: 13;wp: yes;flags: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx rdtscp lm constant_tsc rep_good nopl xtopology nonstop_tsc cpuid tsc_known_freq pni pclmulqdq ssse3 cx16 pcid sse4_1 sse4_2 x2apic popcnt tsc_deadline_timer aes xsave avx f16c rdrand hypervisor lahf_lm cpuid_fault pti ssbd ibrs ibpb stibp fsgsbase tsc_adjust smep erms smap xsaveopt arat md_clear arch_capabilities;bugs: cpu_meltdown spectre_v1 spectre_v2 spec_store_bypass l1tf mds swapgs;bogomips: 5000.00;clflush size: 64;cache_alignment: 64;address sizes: 46 bits physical, 48 bits virtual;power management:;;
+"
+2020-07-27 14:42:06.795,"821.08,1640.90
+"
+2020-07-27 14:42:06.794,"START RequestId: 0d1fb77d-4a21-4008-93e5-f3bb3ffc54c1 Version: $LATEST
+"
+2020-07-27 14:42:06.709,"END RequestId: a3a4b98d-5398-4459-957b-704424b11d55
+"
+2020-07-27 14:42:06.709,"REPORT RequestId: a3a4b98d-5398-4459-957b-704424b11d55	Duration: 315.33 ms	Billed Duration: 400 ms	Memory Size: 128 MB	Max Memory Used: 79 MB	
+"
+2020-07-27 14:42:06.415,"b'34.204.192.47
+'
+"
+2020-07-27 14:42:06.415,"us-east-1
+"
+2020-07-27 14:42:06.409,"169.254.187.189
+"
+2020-07-27 14:42:06.409,"169.254.76.1
+"
+2020-07-27 14:42:06.395,"MemTotal:192480kB,MemFree:47668kB,MemAvailable:132292kB,Buffers:11304kB,Cached:75492kB,SwapCached:0kB,Active:65160kB,Inactive:58228kB,Active(anon):36584kB,Inactive(anon):52kB,Active(file):28576kB,Inactive(file):58176kB,Unevictable:0kB,Mlocked:0kB,SwapTotal:0kB,SwapFree:0kB,Dirty:0kB,Writeback:0kB,AnonPages:36620kB,Mapped:39140kB,Shmem:52kB,Slab:14072kB,SReclaimable:5464kB,SUnreclaim:8608kB,KernelStack:1276kB,PageTables:1112kB,NFS_Unstable:0kB,Bounce:0kB,WritebackTmp:0kB,CommitLimit:96240kB,Committed_AS:404620kB,VmallocTotal:34359738367kB,VmallocUsed:0kB,VmallocChunk:0kB,AnonHugePages:0kB,ShmemHugePages:0kB,ShmemPmdMapped:0kB,HugePages_Total:0,HugePages_Free:0,HugePages_Rsvd:0,HugePages_Surp:0,Hugepagesize:2048kB,DirectMap4k:18432kB,DirectMap2M:194560kB
+"
+2020-07-27 14:42:06.395,"processor: 0;vendor_id: GenuineIntel;cpu family: 6;model: 62;model name: Intel(R) Xeon(R) Processor @ 2.50GHz;stepping: 4;microcode: 0x1;cpu MHz: 2500.040;cache size: 33792 KB;physical id: 0;siblings: 2;core id: 0;cpu cores: 2;apicid: 0;initial apicid: 0;fpu: yes;fpu_exception: yes;cpuid level: 13;wp: yes;flags: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx rdtscp lm constant_tsc rep_good nopl xtopology nonstop_tsc cpuid tsc_known_freq pni pclmulqdq ssse3 cx16 pcid sse4_1 sse4_2 x2apic popcnt tsc_deadline_timer aes xsave avx f16c rdrand hypervisor lahf_lm cpuid_fault pti ssbd ibrs ibpb stibp fsgsbase tsc_adjust smep erms smap xsaveopt arat md_clear arch_capabilities;bugs: cpu_meltdown spectre_v1 spectre_v2 spec_store_bypass l1tf mds swapgs;bogomips: 5000.08;clflush size: 64;cache_alignment: 64;address sizes: 46 bits physical, 48 bits virtual;power management:;;processor: 1;vendor_id: GenuineIntel;cpu family: 6;model: 62;model name: Intel(R) Xeon(R) Processor @ 2.50GHz;stepping: 4;microcode: 0x1;cpu MHz: 2500.040;cache size: 33792 KB;physical id: 0;siblings: 2;core id: 1;cpu cores: 2;apicid: 1;initial apicid: 1;fpu: yes;fpu_exception: yes;cpuid level: 13;wp: yes;flags: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx rdtscp lm constant_tsc rep_good nopl xtopology nonstop_tsc cpuid tsc_known_freq pni pclmulqdq ssse3 cx16 pcid sse4_1 sse4_2 x2apic popcnt tsc_deadline_timer aes xsave avx f16c rdrand hypervisor lahf_lm cpuid_fault pti ssbd ibrs ibpb stibp fsgsbase tsc_adjust smep erms smap xsaveopt arat md_clear arch_capabilities;bugs: cpu_meltdown spectre_v1 spectre_v2 spec_store_bypass l1tf mds swapgs;bogomips: 5000.08;clflush size: 64;cache_alignment: 64;address sizes: 46 bits physical, 48 bits virtual;power management:;;
+"
+2020-07-27 14:42:06.395,"2041.70,4080.70
+"
+2020-07-27 14:42:06.391,"START RequestId: a3a4b98d-5398-4459-957b-704424b11d55 Version: $LATEST
+"
+2020-07-27 14:30:05.672,"END RequestId: 45da20f4-0094-40cf-a14a-cf4b6d0d85b1
+"
+2020-07-27 14:30:05.672,"REPORT RequestId: 45da20f4-0094-40cf-a14a-cf4b6d0d85b1	Duration: 1794.46 ms	Billed Duration: 1800 ms	Memory Size: 128 MB	Max Memory Used: 78 MB	Init Duration: 357.00 ms	
+"
+2020-07-27 14:30:03.914,"b'34.204.192.47
+'
+"
+2020-07-27 14:30:03.914,"us-east-1
+"
+2020-07-27 14:30:03.893,"169.254.187.189
+"
+2020-07-27 14:30:03.893,"169.254.76.1
+"
+2020-07-27 14:30:03.879,"MemTotal:192480kB,MemFree:63132kB,MemAvailable:140708kB,Buffers:9048kB,Cached:71896kB,SwapCached:0kB,Active:52304kB,Inactive:57528kB,Active(anon):28876kB,Inactive(anon):52kB,Active(file):23428kB,Inactive(file):57476kB,Unevictable:0kB,Mlocked:0kB,SwapTotal:0kB,SwapFree:0kB,Dirty:68kB,Writeback:0kB,AnonPages:28884kB,Mapped:37888kB,Shmem:52kB,Slab:12568kB,SReclaimable:4200kB,SUnreclaim:8368kB,KernelStack:1280kB,PageTables:1068kB,NFS_Unstable:0kB,Bounce:0kB,WritebackTmp:0kB,CommitLimit:96240kB,Committed_AS:388684kB,VmallocTotal:34359738367kB,VmallocUsed:0kB,VmallocChunk:0kB,AnonHugePages:0kB,ShmemHugePages:0kB,ShmemPmdMapped:0kB,HugePages_Total:0,HugePages_Free:0,HugePages_Rsvd:0,HugePages_Surp:0,Hugepagesize:2048kB,DirectMap4k:18432kB,DirectMap2M:194560kB
+"
+2020-07-27 14:30:03.879,"processor: 0;vendor_id: GenuineIntel;cpu family: 6;model: 62;model name: Intel(R) Xeon(R) Processor @ 2.50GHz;stepping: 4;microcode: 0x1;cpu MHz: 2500.040;cache size: 33792 KB;physical id: 0;siblings: 2;core id: 0;cpu cores: 2;apicid: 0;initial apicid: 0;fpu: yes;fpu_exception: yes;cpuid level: 13;wp: yes;flags: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx rdtscp lm constant_tsc rep_good nopl xtopology nonstop_tsc cpuid tsc_known_freq pni pclmulqdq ssse3 cx16 pcid sse4_1 sse4_2 x2apic popcnt tsc_deadline_timer aes xsave avx f16c rdrand hypervisor lahf_lm cpuid_fault pti ssbd ibrs ibpb stibp fsgsbase tsc_adjust smep erms smap xsaveopt arat md_clear arch_capabilities;bugs: cpu_meltdown spectre_v1 spectre_v2 spec_store_bypass l1tf mds swapgs;bogomips: 5000.08;clflush size: 64;cache_alignment: 64;address sizes: 46 bits physical, 48 bits virtual;power management:;;processor: 1;vendor_id: GenuineIntel;cpu family: 6;model: 62;model name: Intel(R) Xeon(R) Processor @ 2.50GHz;stepping: 4;microcode: 0x1;cpu MHz: 2500.040;cache size: 33792 KB;physical id: 0;siblings: 2;core id: 1;cpu cores: 2;apicid: 1;initial apicid: 1;fpu: yes;fpu_exception: yes;cpuid level: 13;wp: yes;flags: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx rdtscp lm constant_tsc rep_good nopl xtopology nonstop_tsc cpuid tsc_known_freq pni pclmulqdq ssse3 cx16 pcid sse4_1 sse4_2 x2apic popcnt tsc_deadline_timer aes xsave avx f16c rdrand hypervisor lahf_lm cpuid_fault pti ssbd ibrs ibpb stibp fsgsbase tsc_adjust smep erms smap xsaveopt arat md_clear arch_capabilities;bugs: cpu_meltdown spectre_v1 spectre_v2 spec_store_bypass l1tf mds swapgs;bogomips: 5000.08;clflush size: 64;cache_alignment: 64;address sizes: 46 bits physical, 48 bits virtual;power management:;;
+"
+2020-07-27 14:30:03.879,"1319.20,2637.09
+"
+2020-07-27 14:30:03.878,"START RequestId: 45da20f4-0094-40cf-a14a-cf4b6d0d85b1 Version: $LATEST
+"
+2020-07-27 14:30:03.725,"END RequestId: f5cf93f6-3b93-4aa9-b7f9-6bdd5cd070c4
+"
+2020-07-27 14:30:03.725,"REPORT RequestId: f5cf93f6-3b93-4aa9-b7f9-6bdd5cd070c4	Duration: 290.27 ms	Billed Duration: 300 ms	Memory Size: 128 MB	Max Memory Used: 79 MB	
+"
+2020-07-27 14:30:03.447,"b'3.237.61.135
+'
+"
+2020-07-27 14:30:03.447,"us-east-1
+"
+2020-07-27 14:30:03.437,"169.254.136.229
+"
+2020-07-27 14:30:03.437,"169.254.76.1
+"
+2020-07-27 14:30:03.436,"MemTotal:192480kB,MemFree:48140kB,MemAvailable:132524kB,Buffers:11296kB,Cached:75276kB,SwapCached:0kB,Active:65008kB,Inactive:57872kB,Active(anon):36300kB,Inactive(anon):52kB,Active(file):28708kB,Inactive(file):57820kB,Unevictable:0kB,Mlocked:0kB,SwapTotal:0kB,SwapFree:0kB,Dirty:0kB,Writeback:0kB,AnonPages:36300kB,Mapped:39236kB,Shmem:52kB,Slab:14152kB,SReclaimable:5448kB,SUnreclaim:8704kB,KernelStack:1276kB,PageTables:1096kB,NFS_Unstable:0kB,Bounce:0kB,WritebackTmp:0kB,CommitLimit:96240kB,Committed_AS:403320kB,VmallocTotal:34359738367kB,VmallocUsed:0kB,VmallocChunk:0kB,AnonHugePages:0kB,ShmemHugePages:0kB,ShmemPmdMapped:0kB,HugePages_Total:0,HugePages_Free:0,HugePages_Rsvd:0,HugePages_Surp:0,Hugepagesize:2048kB,DirectMap4k:18432kB,DirectMap2M:194560kB
+"
+2020-07-27 14:30:03.436,"processor: 0;vendor_id: GenuineIntel;cpu family: 6;model: 62;model name: Intel(R) Xeon(R) Processor @ 2.50GHz;stepping: 4;microcode: 0x1;cpu MHz: 2500.010;cache size: 36608 KB;physical id: 0;siblings: 2;core id: 0;cpu cores: 2;apicid: 0;initial apicid: 0;fpu: yes;fpu_exception: yes;cpuid level: 13;wp: yes;flags: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx rdtscp lm constant_tsc rep_good nopl xtopology nonstop_tsc cpuid tsc_known_freq pni pclmulqdq ssse3 cx16 pcid sse4_1 sse4_2 x2apic popcnt tsc_deadline_timer aes xsave avx f16c rdrand hypervisor lahf_lm cpuid_fault ssbd ibrs ibpb stibp ibrs_enhanced fsgsbase tsc_adjust smep erms smap xsaveopt arat md_clear arch_capabilities;bugs: spectre_v1 spectre_v2 spec_store_bypass swapgs;bogomips: 5000.02;clflush size: 64;cache_alignment: 64;address sizes: 46 bits physical, 48 bits virtual;power management:;;processor: 1;vendor_id: GenuineIntel;cpu family: 6;model: 62;model name: Intel(R) Xeon(R) Processor @ 2.50GHz;stepping: 4;microcode: 0x1;cpu MHz: 2500.010;cache size: 36608 KB;physical id: 0;siblings: 2;core id: 1;cpu cores: 2;apicid: 1;initial apicid: 1;fpu: yes;fpu_exception: yes;cpuid level: 13;wp: yes;flags: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx rdtscp lm constant_tsc rep_good nopl xtopology nonstop_tsc cpuid tsc_known_freq pni pclmulqdq ssse3 cx16 pcid sse4_1 sse4_2 x2apic popcnt tsc_deadline_timer aes xsave avx f16c rdrand hypervisor lahf_lm cpuid_fault ssbd ibrs ibpb stibp ibrs_enhanced fsgsbase tsc_adjust smep erms smap xsaveopt arat md_clear arch_capabilities;bugs: spectre_v1 spectre_v2 spec_store_bypass swapgs;bogomips: 5000.02;clflush size: 64;cache_alignment: 64;address sizes: 46 bits physical, 48 bits virtual;power management:;;
+"
+2020-07-27 14:30:03.436,"1737.37,3472.40
+"
+2020-07-27 14:30:03.432,"START RequestId: f5cf93f6-3b93-4aa9-b7f9-6bdd5cd070c4 Version: $LATEST
+"
+2020-07-27 14:18:02.703,"REPORT RequestId: 8655ec7b-8113-45aa-ad6e-be196cb76daf	Duration: 1619.59 ms	Billed Duration: 1700 ms	Memory Size: 128 MB	Max Memory Used: 78 MB	Init Duration: 306.37 ms	
+"
+2020-07-27 14:18:02.702,"END RequestId: 8655ec7b-8113-45aa-ad6e-be196cb76daf
+"
+2020-07-27 14:18:01.124,"b'3.237.61.135
+'
+"
+2020-07-27 14:18:01.124,"us-east-1
+"
+2020-07-27 14:18:01.103,"169.254.136.229
+"
+2020-07-27 14:18:01.103,"169.254.76.1
+"
+2020-07-27 14:18:01.084,"MemTotal:192480kB,MemFree:63948kB,MemAvailable:141112kB,Buffers:9044kB,Cached:71524kB,SwapCached:0kB,Active:52108kB,Inactive:57120kB,Active(anon):28648kB,Inactive(anon):52kB,Active(file):23460kB,Inactive(file):57068kB,Unevictable:0kB,Mlocked:0kB,SwapTotal:0kB,SwapFree:0kB,Dirty:72kB,Writeback:0kB,AnonPages:28684kB,Mapped:37968kB,Shmem:52kB,Slab:12356kB,SReclaimable:4124kB,SUnreclaim:8232kB,KernelStack:1280kB,PageTables:1060kB,NFS_Unstable:0kB,Bounce:0kB,WritebackTmp:0kB,CommitLimit:96240kB,Committed_AS:387268kB,VmallocTotal:34359738367kB,VmallocUsed:0kB,VmallocChunk:0kB,AnonHugePages:0kB,ShmemHugePages:0kB,ShmemPmdMapped:0kB,HugePages_Total:0,HugePages_Free:0,HugePages_Rsvd:0,HugePages_Surp:0,Hugepagesize:2048kB,DirectMap4k:18432kB,DirectMap2M:194560kB
+"
+2020-07-27 14:18:01.084,"processor: 0;vendor_id: GenuineIntel;cpu family: 6;model: 62;model name: Intel(R) Xeon(R) Processor @ 2.50GHz;stepping: 4;microcode: 0x1;cpu MHz: 2500.010;cache size: 36608 KB;physical id: 0;siblings: 2;core id: 0;cpu cores: 2;apicid: 0;initial apicid: 0;fpu: yes;fpu_exception: yes;cpuid level: 13;wp: yes;flags: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx rdtscp lm constant_tsc rep_good nopl xtopology nonstop_tsc cpuid tsc_known_freq pni pclmulqdq ssse3 cx16 pcid sse4_1 sse4_2 x2apic popcnt tsc_deadline_timer aes xsave avx f16c rdrand hypervisor lahf_lm cpuid_fault ssbd ibrs ibpb stibp ibrs_enhanced fsgsbase tsc_adjust smep erms smap xsaveopt arat md_clear arch_capabilities;bugs: spectre_v1 spectre_v2 spec_store_bypass swapgs;bogomips: 5000.02;clflush size: 64;cache_alignment: 64;address sizes: 46 bits physical, 48 bits virtual;power management:;;processor: 1;vendor_id: GenuineIntel;cpu family: 6;model: 62;model name: Intel(R) Xeon(R) Processor @ 2.50GHz;stepping: 4;microcode: 0x1;cpu MHz: 2500.010;cache size: 36608 KB;physical id: 0;siblings: 2;core id: 1;cpu cores: 2;apicid: 1;initial apicid: 1;fpu: yes;fpu_exception: yes;cpuid level: 13;wp: yes;flags: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx rdtscp lm constant_tsc rep_good nopl xtopology nonstop_tsc cpuid tsc_known_freq pni pclmulqdq ssse3 cx16 pcid sse4_1 sse4_2 x2apic popcnt tsc_deadline_timer aes xsave avx f16c rdrand hypervisor lahf_lm cpuid_fault ssbd ibrs ibpb stibp ibrs_enhanced fsgsbase tsc_adjust smep erms smap xsaveopt arat md_clear arch_capabilities;bugs: spectre_v1 spectre_v2 spec_store_bypass swapgs;bogomips: 5000.02;clflush size: 64;cache_alignment: 64;address sizes: 46 bits physical, 48 bits virtual;power management:;;
+"
+2020-07-27 14:18:01.084,"1015.02,2028.84
+"
+2020-07-27 14:18:01.083,"START RequestId: 8655ec7b-8113-45aa-ad6e-be196cb76daf Version: $LATEST
+"
+2020-07-27 14:18:01.017,"END RequestId: a7feac8e-ebc8-4d43-b820-3f60a3680391
+"
+2020-07-27 14:18:01.017,"REPORT RequestId: a7feac8e-ebc8-4d43-b820-3f60a3680391	Duration: 326.68 ms	Billed Duration: 400 ms	Memory Size: 128 MB	Max Memory Used: 79 MB	
+"
+2020-07-27 14:18:00.717,"b'3.234.219.159
+'
+"
+2020-07-27 14:18:00.717,"us-east-1
+"
+2020-07-27 14:18:00.694,"169.254.64.29
+"
+2020-07-27 14:18:00.694,"169.254.76.1
+"
+2020-07-27 14:18:00.692,"MemTotal:192480kB,MemFree:48104kB,MemAvailable:132496kB,Buffers:11180kB,Cached:75404kB,SwapCached:0kB,Active:64896kB,Inactive:58020kB,Active(anon):36324kB,Inactive(anon):52kB,Active(file):28572kB,Inactive(file):57968kB,Unevictable:0kB,Mlocked:0kB,SwapTotal:0kB,SwapFree:0kB,Dirty:0kB,Writeback:0kB,AnonPages:36328kB,Mapped:39236kB,Shmem:52kB,Slab:14152kB,SReclaimable:5444kB,SUnreclaim:8708kB,KernelStack:1280kB,PageTables:1108kB,NFS_Unstable:0kB,Bounce:0kB,WritebackTmp:0kB,CommitLimit:96240kB,Committed_AS:404736kB,VmallocTotal:34359738367kB,VmallocUsed:0kB,VmallocChunk:0kB,AnonHugePages:0kB,ShmemHugePages:0kB,ShmemPmdMapped:0kB,HugePages_Total:0,HugePages_Free:0,HugePages_Rsvd:0,HugePages_Surp:0,Hugepagesize:2048kB,DirectMap4k:18432kB,DirectMap2M:194560kB
+"
+2020-07-27 14:18:00.692,"processor: 0;vendor_id: GenuineIntel;cpu family: 6;model: 62;model name: Intel(R) Xeon(R) Processor @ 2.50GHz;stepping: 4;microcode: 0x1;cpu MHz: 2500.010;cache size: 33792 KB;physical id: 0;siblings: 2;core id: 0;cpu cores: 2;apicid: 0;initial apicid: 0;fpu: yes;fpu_exception: yes;cpuid level: 13;wp: yes;flags: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx rdtscp lm constant_tsc rep_good nopl xtopology nonstop_tsc cpuid tsc_known_freq pni pclmulqdq ssse3 cx16 pcid sse4_1 sse4_2 x2apic popcnt tsc_deadline_timer aes xsave avx f16c rdrand hypervisor lahf_lm cpuid_fault pti ssbd ibrs ibpb stibp fsgsbase tsc_adjust smep erms smap xsaveopt arat md_clear arch_capabilities;bugs: cpu_meltdown spectre_v1 spectre_v2 spec_store_bypass l1tf mds swapgs;bogomips: 5000.02;clflush size: 64;cache_alignment: 64;address sizes: 46 bits physical, 48 bits virtual;power management:;;processor: 1;vendor_id: GenuineIntel;cpu family: 6;model: 62;model name: Intel(R) Xeon(R) Processor @ 2.50GHz;stepping: 4;microcode: 0x1;cpu MHz: 2500.010;cache size: 33792 KB;physical id: 0;siblings: 2;core id: 1;cpu cores: 2;apicid: 1;initial apicid: 1;fpu: yes;fpu_exception: yes;cpuid level: 13;wp: yes;flags: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx rdtscp lm constant_tsc rep_good nopl xtopology nonstop_tsc cpuid tsc_known_freq pni pclmulqdq ssse3 cx16 pcid sse4_1 sse4_2 x2apic popcnt tsc_deadline_timer aes xsave avx f16c rdrand hypervisor lahf_lm cpuid_fault pti ssbd ibrs ibpb stibp fsgsbase tsc_adjust smep erms smap xsaveopt arat md_clear arch_capabilities;bugs: cpu_meltdown spectre_v1 spectre_v2 spec_store_bypass l1tf mds swapgs;bogomips: 5000.02;clflush size: 64;cache_alignment: 64;address sizes: 46 bits physical, 48 bits virtual;power management:;;
+"
+2020-07-27 14:18:00.692,"1143.07,2283.45
+"
+2020-07-27 14:18:00.688,"START RequestId: a7feac8e-ebc8-4d43-b820-3f60a3680391 Version: $LATEST
+"
+2020-07-27 14:05:59.956,"END RequestId: ffb0fbaa-d1ef-4793-93ab-6cdb43c614cb
+"
+2020-07-27 14:05:59.956,"REPORT RequestId: ffb0fbaa-d1ef-4793-93ab-6cdb43c614cb	Duration: 1824.70 ms	Billed Duration: 1900 ms	Memory Size: 128 MB	Max Memory Used: 78 MB	Init Duration: 344.48 ms	
+"
+2020-07-27 14:05:59.618,"END RequestId: 6151965c-86cb-43b0-8457-127ae03316a3
+"
+2020-07-27 14:05:59.618,"REPORT RequestId: 6151965c-86cb-43b0-8457-127ae03316a3	Duration: 1527.38 ms	Billed Duration: 1600 ms	Memory Size: 128 MB	Max Memory Used: 78 MB	Init Duration: 299.29 ms	
+"
+2020-07-27 14:05:58.160,"b'3.234.219.159
+'
+"
+2020-07-27 14:05:58.160,"us-east-1
+"
+2020-07-27 14:05:58.138,"169.254.64.29
+"
+2020-07-27 14:05:58.138,"169.254.76.1
+"
+2020-07-27 14:05:58.133,"MemTotal:192480kB,MemFree:63784kB,MemAvailable:141084kB,Buffers:8924kB,Cached:71768kB,SwapCached:0kB,Active:51940kB,Inactive:57308kB,Active(anon):28560kB,Inactive(anon):52kB,Active(file):23380kB,Inactive(file):57256kB,Unevictable:0kB,Mlocked:0kB,SwapTotal:0kB,SwapFree:0kB,Dirty:76kB,Writeback:0kB,AnonPages:28592kB,Mapped:37868kB,Shmem:52kB,Slab:12472kB,SReclaimable:4184kB,SUnreclaim:8288kB,KernelStack:1280kB,PageTables:1064kB,NFS_Unstable:0kB,Bounce:0kB,WritebackTmp:0kB,CommitLimit:96240kB,Committed_AS:388684kB,VmallocTotal:34359738367kB,VmallocUsed:0kB,VmallocChunk:0kB,AnonHugePages:0kB,ShmemHugePages:0kB,ShmemPmdMapped:0kB,HugePages_Total:0,HugePages_Free:0,HugePages_Rsvd:0,HugePages_Surp:0,Hugepagesize:2048kB,DirectMap4k:18432kB,DirectMap2M:194560kB
+"
+2020-07-27 14:05:58.133,"processor: 0;vendor_id: GenuineIntel;cpu family: 6;model: 62;model name: Intel(R) Xeon(R) Processor @ 2.50GHz;stepping: 4;microcode: 0x1;cpu MHz: 2500.010;cache size: 33792 KB;physical id: 0;siblings: 2;core id: 0;cpu cores: 2;apicid: 0;initial apicid: 0;fpu: yes;fpu_exception: yes;cpuid level: 13;wp: yes;flags: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx rdtscp lm constant_tsc rep_good nopl xtopology nonstop_tsc cpuid tsc_known_freq pni pclmulqdq ssse3 cx16 pcid sse4_1 sse4_2 x2apic popcnt tsc_deadline_timer aes xsave avx f16c rdrand hypervisor lahf_lm cpuid_fault pti ssbd ibrs ibpb stibp fsgsbase tsc_adjust smep erms smap xsaveopt arat md_clear arch_capabilities;bugs: cpu_meltdown spectre_v1 spectre_v2 spec_store_bypass l1tf mds swapgs;bogomips: 5000.02;clflush size: 64;cache_alignment: 64;address sizes: 46 bits physical, 48 bits virtual;power management:;;processor: 1;vendor_id: GenuineIntel;cpu family: 6;model: 62;model name: Intel(R) Xeon(R) Processor @ 2.50GHz;stepping: 4;microcode: 0x1;cpu MHz: 2500.010;cache size: 33792 KB;physical id: 0;siblings: 2;core id: 1;cpu cores: 2;apicid: 1;initial apicid: 1;fpu: yes;fpu_exception: yes;cpuid level: 13;wp: yes;flags: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx rdtscp lm constant_tsc rep_good nopl xtopology nonstop_tsc cpuid tsc_known_freq pni pclmulqdq ssse3 cx16 pcid sse4_1 sse4_2 x2apic popcnt tsc_deadline_timer aes xsave avx f16c rdrand hypervisor lahf_lm cpuid_fault pti ssbd ibrs ibpb stibp fsgsbase tsc_adjust smep erms smap xsaveopt arat md_clear arch_capabilities;bugs: cpu_meltdown spectre_v1 spectre_v2 spec_store_bypass l1tf mds swapgs;bogomips: 5000.02;clflush size: 64;cache_alignment: 64;address sizes: 46 bits physical, 48 bits virtual;power management:;;
+"
+2020-07-27 14:05:58.133,"420.51,839.85
+"
+2020-07-27 14:05:58.131,"START RequestId: ffb0fbaa-d1ef-4793-93ab-6cdb43c614cb Version: $LATEST
+"
+2020-07-27 14:05:58.118,"b'3.236.252.46
+'
+"
+2020-07-27 14:05:58.118,"us-east-1
+"
+2020-07-27 14:05:58.099,"169.254.196.165
+"
+2020-07-27 14:05:58.099,"169.254.76.1
+"
+2020-07-27 14:05:58.092,"MemTotal:192480kB,MemFree:63124kB,MemAvailable:140528kB,Buffers:9008kB,Cached:71816kB,SwapCached:0kB,Active:52252kB,Inactive:57628kB,Active(anon):29052kB,Inactive(anon):52kB,Active(file):23200kB,Inactive(file):57576kB,Unevictable:0kB,Mlocked:0kB,SwapTotal:0kB,SwapFree:0kB,Dirty:72kB,Writeback:0kB,AnonPages:29056kB,Mapped:37892kB,Shmem:52kB,Slab:12500kB,SReclaimable:4112kB,SUnreclaim:8388kB,KernelStack:1296kB,PageTables:1076kB,NFS_Unstable:0kB,Bounce:0kB,WritebackTmp:0kB,CommitLimit:96240kB,Committed_AS:395472kB,VmallocTotal:34359738367kB,VmallocUsed:0kB,VmallocChunk:0kB,AnonHugePages:0kB,ShmemHugePages:0kB,ShmemPmdMapped:0kB,HugePages_Total:0,HugePages_Free:0,HugePages_Rsvd:0,HugePages_Surp:0,Hugepagesize:2048kB,DirectMap4k:20480kB,DirectMap2M:192512kB
+"
+2020-07-27 14:05:58.092,"processor: 0;vendor_id: GenuineIntel;cpu family: 6;model: 62;model name: Intel(R) Xeon(R) Processor @ 2.50GHz;stepping: 4;microcode: 0x1;cpu MHz: 2500.012;cache size: 33792 KB;physical id: 0;siblings: 2;core id: 0;cpu cores: 2;apicid: 0;initial apicid: 0;fpu: yes;fpu_exception: yes;cpuid level: 13;wp: yes;flags: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx rdtscp lm constant_tsc rep_good nopl xtopology nonstop_tsc cpuid tsc_known_freq pni pclmulqdq ssse3 cx16 pcid sse4_1 sse4_2 x2apic popcnt tsc_deadline_timer aes xsave avx f16c rdrand hypervisor lahf_lm cpuid_fault pti ssbd ibrs ibpb stibp fsgsbase tsc_adjust smep erms smap xsaveopt arat md_clear arch_capabilities;bugs: cpu_meltdown spectre_v1 spectre_v2 spec_store_bypass l1tf mds swapgs;bogomips: 5000.02;clflush size: 64;cache_alignment: 64;address sizes: 46 bits physical, 48 bits virtual;power management:;;processor: 1;vendor_id: GenuineIntel;cpu family: 6;model: 62;model name: Intel(R) Xeon(R) Processor @ 2.50GHz;stepping: 4;microcode: 0x1;cpu MHz: 2500.012;cache size: 33792 KB;physical id: 0;siblings: 2;core id: 1;cpu cores: 2;apicid: 1;initial apicid: 1;fpu: yes;fpu_exception: yes;cpuid level: 13;wp: yes;flags: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx rdtscp lm constant_tsc rep_good nopl xtopology nonstop_tsc cpuid tsc_known_freq pni pclmulqdq ssse3 cx16 pcid sse4_1 sse4_2 x2apic popcnt tsc_deadline_timer aes xsave avx f16c rdrand hypervisor lahf_lm cpuid_fault pti ssbd ibrs ibpb stibp fsgsbase tsc_adjust smep erms smap xsaveopt arat md_clear arch_capabilities;bugs: cpu_meltdown spectre_v1 spectre_v2 spec_store_bypass l1tf mds swapgs;bogomips: 5000.02;clflush size: 64;cache_alignment: 64;address sizes: 46 bits physical, 48 bits virtual;power management:;;
+"
+2020-07-27 14:05:58.092,"842.79,1684.37
+"
+2020-07-27 14:05:58.090,"START RequestId: 6151965c-86cb-43b0-8457-127ae03316a3 Version: $LATEST
+"
+2020-07-27 13:53:56.956,"END RequestId: c124aac4-dd05-4514-9294-2323d2962cfd
+"
+2020-07-27 13:53:56.956,"REPORT RequestId: c124aac4-dd05-4514-9294-2323d2962cfd	Duration: 287.01 ms	Billed Duration: 300 ms	Memory Size: 128 MB	Max Memory Used: 79 MB	
+"
+2020-07-27 13:53:56.696,"b'3.236.235.70
+'
+"
+2020-07-27 13:53:56.696,"us-east-1
+"
+2020-07-27 13:53:56.671,"169.254.108.237
+"
+2020-07-27 13:53:56.671,"169.254.76.1
+"
+2020-07-27 13:53:56.670,"MemTotal:192480kB,MemFree:47692kB,MemAvailable:132308kB,Buffers:11380kB,Cached:75400kB,SwapCached:0kB,Active:65620kB,Inactive:57700kB,Active(anon):36536kB,Inactive(anon):52kB,Active(file):29084kB,Inactive(file):57648kB,Unevictable:0kB,Mlocked:0kB,SwapTotal:0kB,SwapFree:0kB,Dirty:40kB,Writeback:0kB,AnonPages:36584kB,Mapped:39360kB,Shmem:52kB,Slab:14164kB,SReclaimable:5476kB,SUnreclaim:8688kB,KernelStack:1280kB,PageTables:1100kB,NFS_Unstable:0kB,Bounce:0kB,WritebackTmp:0kB,CommitLimit:96240kB,Committed_AS:404732kB,VmallocTotal:34359738367kB,VmallocUsed:0kB,VmallocChunk:0kB,AnonHugePages:0kB,ShmemHugePages:0kB,ShmemPmdMapped:0kB,HugePages_Total:0,HugePages_Free:0,HugePages_Rsvd:0,HugePages_Surp:0,Hugepagesize:2048kB,DirectMap4k:16384kB,DirectMap2M:196608kB
+"
+2020-07-27 13:53:56.670,"processor: 0;vendor_id: GenuineIntel;cpu family: 6;model: 62;model name: Intel(R) Xeon(R) Processor @ 2.50GHz;stepping: 4;microcode: 0x1;cpu MHz: 2500.012;cache size: 33792 KB;physical id: 0;siblings: 2;core id: 0;cpu cores: 2;apicid: 0;initial apicid: 0;fpu: yes;fpu_exception: yes;cpuid level: 13;wp: yes;flags: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx rdtscp lm constant_tsc rep_good nopl xtopology nonstop_tsc cpuid tsc_known_freq pni pclmulqdq ssse3 cx16 pcid sse4_1 sse4_2 x2apic popcnt tsc_deadline_timer aes xsave avx f16c rdrand hypervisor lahf_lm cpuid_fault pti ssbd ibrs ibpb stibp fsgsbase tsc_adjust smep erms smap xsaveopt arat md_clear arch_capabilities;bugs: cpu_meltdown spectre_v1 spectre_v2 spec_store_bypass l1tf mds swapgs;bogomips: 5000.02;clflush size: 64;cache_alignment: 64;address sizes: 46 bits physical, 48 bits virtual;power management:;;processor: 1;vendor_id: GenuineIntel;cpu family: 6;model: 62;model name: Intel(R) Xeon(R) Processor @ 2.50GHz;stepping: 4;microcode: 0x1;cpu MHz: 2500.012;cache size: 33792 KB;physical id: 0;siblings: 2;core id: 1;cpu cores: 2;apicid: 1;initial apicid: 1;fpu: yes;fpu_exception: yes;cpuid level: 13;wp: yes;flags: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx rdtscp lm constant_tsc rep_good nopl xtopology nonstop_tsc cpuid tsc_known_freq pni pclmulqdq ssse3 cx16 pcid sse4_1 sse4_2 x2apic popcnt tsc_deadline_timer aes xsave avx f16c rdrand hypervisor lahf_lm cpuid_fault pti ssbd ibrs ibpb stibp fsgsbase tsc_adjust smep erms smap xsaveopt arat md_clear arch_capabilities;bugs: cpu_meltdown spectre_v1 spectre_v2 spec_store_bypass l1tf mds swapgs;bogomips: 5000.02;clflush size: 64;cache_alignment: 64;address sizes: 46 bits physical, 48 bits virtual;power management:;;
+"
+2020-07-27 13:53:56.670,"1618.75,3235.01
+"
+2020-07-27 13:53:56.667,"START RequestId: c124aac4-dd05-4514-9294-2323d2962cfd Version: $LATEST
+"
+2020-07-27 13:53:52.676,"END RequestId: b3925b6e-a03f-4d40-a631-4c6dbe11a306
+"
+2020-07-27 13:53:52.676,"REPORT RequestId: b3925b6e-a03f-4d40-a631-4c6dbe11a306	Duration: 283.25 ms	Billed Duration: 300 ms	Memory Size: 128 MB	Max Memory Used: 79 MB	
+"
+2020-07-27 13:53:52.400,"b'3.236.235.70
+'
+"
+2020-07-27 13:53:52.400,"us-east-1
+"
+2020-07-27 13:53:52.396,"169.254.108.237
+"
+2020-07-27 13:53:52.396,"169.254.76.1
+"
+2020-07-27 13:53:52.394,"MemTotal:192480kB,MemFree:48064kB,MemAvailable:132656kB,Buffers:11372kB,Cached:75400kB,SwapCached:0kB,Active:65052kB,Inactive:57976kB,Active(anon):36244kB,Inactive(anon):52kB,Active(file):28808kB,Inactive(file):57924kB,Unevictable:0kB,Mlocked:0kB,SwapTotal:0kB,SwapFree:0kB,Dirty:8kB,Writeback:0kB,AnonPages:36288kB,Mapped:39360kB,Shmem:52kB,Slab:14068kB,SReclaimable:5452kB,SUnreclaim:8616kB,KernelStack:1280kB,PageTables:1100kB,NFS_Unstable:0kB,Bounce:0kB,WritebackTmp:0kB,CommitLimit:96240kB,Committed_AS:404732kB,VmallocTotal:34359738367kB,VmallocUsed:0kB,VmallocChunk:0kB,AnonHugePages:0kB,ShmemHugePages:0kB,ShmemPmdMapped:0kB,HugePages_Total:0,HugePages_Free:0,HugePages_Rsvd:0,HugePages_Surp:0,Hugepagesize:2048kB,DirectMap4k:16384kB,DirectMap2M:196608kB
+"
+2020-07-27 13:53:52.394,"processor: 0;vendor_id: GenuineIntel;cpu family: 6;model: 62;model name: Intel(R) Xeon(R) Processor @ 2.50GHz;stepping: 4;microcode: 0x1;cpu MHz: 2500.012;cache size: 33792 KB;physical id: 0;siblings: 2;core id: 0;cpu cores: 2;apicid: 0;initial apicid: 0;fpu: yes;fpu_exception: yes;cpuid level: 13;wp: yes;flags: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx rdtscp lm constant_tsc rep_good nopl xtopology nonstop_tsc cpuid tsc_known_freq pni pclmulqdq ssse3 cx16 pcid sse4_1 sse4_2 x2apic popcnt tsc_deadline_timer aes xsave avx f16c rdrand hypervisor lahf_lm cpuid_fault pti ssbd ibrs ibpb stibp fsgsbase tsc_adjust smep erms smap xsaveopt arat md_clear arch_capabilities;bugs: cpu_meltdown spectre_v1 spectre_v2 spec_store_bypass l1tf mds swapgs;bogomips: 5000.02;clflush size: 64;cache_alignment: 64;address sizes: 46 bits physical, 48 bits virtual;power management:;;processor: 1;vendor_id: GenuineIntel;cpu family: 6;model: 62;model name: Intel(R) Xeon(R) Processor @ 2.50GHz;stepping: 4;microcode: 0x1;cpu MHz: 2500.012;cache size: 33792 KB;physical id: 0;siblings: 2;core id: 1;cpu cores: 2;apicid: 1;initial apicid: 1;fpu: yes;fpu_exception: yes;cpuid level: 13;wp: yes;flags: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx rdtscp lm constant_tsc rep_good nopl xtopology nonstop_tsc cpuid tsc_known_freq pni pclmulqdq ssse3 cx16 pcid sse4_1 sse4_2 x2apic popcnt tsc_deadline_timer aes xsave avx f16c rdrand hypervisor lahf_lm cpuid_fault pti ssbd ibrs ibpb stibp fsgsbase tsc_adjust smep erms smap xsaveopt arat md_clear arch_capabilities;bugs: cpu_meltdown spectre_v1 spectre_v2 spec_store_bypass l1tf mds swapgs;bogomips: 5000.02;clflush size: 64;cache_alignment: 64;address sizes: 46 bits physical, 48 bits virtual;power management:;;
+"
+2020-07-27 13:53:52.394,"1614.47,3226.48
+"
+2020-07-27 13:53:52.391,"START RequestId: b3925b6e-a03f-4d40-a631-4c6dbe11a306 Version: $LATEST
+"
+2020-07-27 13:41:49.571,"END RequestId: 2c89fca1-ab14-49dc-8af2-22d2a168be96
+"
+2020-07-27 13:41:49.571,"REPORT RequestId: 2c89fca1-ab14-49dc-8af2-22d2a168be96	Duration: 1809.60 ms	Billed Duration: 1900 ms	Memory Size: 128 MB	Max Memory Used: 78 MB	Init Duration: 329.70 ms	
+"
+2020-07-27 13:41:49.097,"END RequestId: a0813bf2-289b-4479-9b2c-3c71118fac83
+"
+2020-07-27 13:41:49.097,"REPORT RequestId: a0813bf2-289b-4479-9b2c-3c71118fac83	Duration: 1740.71 ms	Billed Duration: 1800 ms	Memory Size: 128 MB	Max Memory Used: 78 MB	Init Duration: 355.84 ms	
+"
+2020-07-27 13:41:47.794,"b'3.236.235.70
+'
+"
+2020-07-27 13:41:47.794,"us-east-1
+"
+2020-07-27 13:41:47.773,"169.254.76.1
+"
+2020-07-27 13:41:47.772,"169.254.108.237
+"
+2020-07-27 13:41:47.763,"MemTotal:192480kB,MemFree:63908kB,MemAvailable:141172kB,Buffers:9020kB,Cached:71644kB,SwapCached:0kB,Active:51996kB,Inactive:57180kB,Active(anon):28500kB,Inactive(anon):52kB,Active(file):23496kB,Inactive(file):57128kB,Unevictable:0kB,Mlocked:0kB,SwapTotal:0kB,SwapFree:0kB,Dirty:68kB,Writeback:0kB,AnonPages:28552kB,Mapped:38156kB,Shmem:52kB,Slab:12412kB,SReclaimable:4136kB,SUnreclaim:8276kB,KernelStack:1296kB,PageTables:1068kB,NFS_Unstable:0kB,Bounce:0kB,WritebackTmp:0kB,CommitLimit:96240kB,Committed_AS:396876kB,VmallocTotal:34359738367kB,VmallocUsed:0kB,VmallocChunk:0kB,AnonHugePages:0kB,ShmemHugePages:0kB,ShmemPmdMapped:0kB,HugePages_Total:0,HugePages_Free:0,HugePages_Rsvd:0,HugePages_Surp:0,Hugepagesize:2048kB,DirectMap4k:16384kB,DirectMap2M:196608kB
+"
+2020-07-27 13:41:47.763,"processor: 0;vendor_id: GenuineIntel;cpu family: 6;model: 62;model name: Intel(R) Xeon(R) Processor @ 2.50GHz;stepping: 4;microcode: 0x1;cpu MHz: 2500.012;cache size: 33792 KB;physical id: 0;siblings: 2;core id: 0;cpu cores: 2;apicid: 0;initial apicid: 0;fpu: yes;fpu_exception: yes;cpuid level: 13;wp: yes;flags: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx rdtscp lm constant_tsc rep_good nopl xtopology nonstop_tsc cpuid tsc_known_freq pni pclmulqdq ssse3 cx16 pcid sse4_1 sse4_2 x2apic popcnt tsc_deadline_timer aes xsave avx f16c rdrand hypervisor lahf_lm cpuid_fault pti ssbd ibrs ibpb stibp fsgsbase tsc_adjust smep erms smap xsaveopt arat md_clear arch_capabilities;bugs: cpu_meltdown spectre_v1 spectre_v2 spec_store_bypass l1tf mds swapgs;bogomips: 5000.02;clflush size: 64;cache_alignment: 64;address sizes: 46 bits physical, 48 bits virtual;power management:;;processor: 1;vendor_id: GenuineIntel;cpu family: 6;model: 62;model name: Intel(R) Xeon(R) Processor @ 2.50GHz;stepping: 4;microcode: 0x1;cpu MHz: 2500.012;cache size: 33792 KB;physical id: 0;siblings: 2;core id: 1;cpu cores: 2;apicid: 1;initial apicid: 1;fpu: yes;fpu_exception: yes;cpuid level: 13;wp: yes;flags: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx rdtscp lm constant_tsc rep_good nopl xtopology nonstop_tsc cpuid tsc_known_freq pni pclmulqdq ssse3 cx16 pcid sse4_1 sse4_2 x2apic popcnt tsc_deadline_timer aes xsave avx f16c rdrand hypervisor lahf_lm cpuid_fault pti ssbd ibrs ibpb stibp fsgsbase tsc_adjust smep erms smap xsaveopt arat md_clear arch_capabilities;bugs: cpu_meltdown spectre_v1 spectre_v2 spec_store_bypass l1tf mds swapgs;bogomips: 5000.02;clflush size: 64;cache_alignment: 64;address sizes: 46 bits physical, 48 bits virtual;power management:;;
+"
+2020-07-27 13:41:47.763,"889.85,1778.52
+"
+2020-07-27 13:41:47.761,"START RequestId: 2c89fca1-ab14-49dc-8af2-22d2a168be96 Version: $LATEST
+"
+2020-07-27 13:41:47.397,"b'3.236.91.81
+'
+"
+2020-07-27 13:41:47.397,"us-east-1
+"
+2020-07-27 13:41:47.376,"169.254.39.213
+"
+2020-07-27 13:41:47.376,"169.254.76.1
+"
+2020-07-27 13:41:47.358,"MemTotal:192480kB,MemFree:62284kB,MemAvailable:140580kB,Buffers:9392kB,Cached:72220kB,SwapCached:0kB,Active:52828kB,Inactive:57280kB,Active(anon):28480kB,Inactive(anon):52kB,Active(file):24348kB,Inactive(file):57228kB,Unevictable:0kB,Mlocked:0kB,SwapTotal:0kB,SwapFree:0kB,Dirty:0kB,Writeback:8kB,AnonPages:28516kB,Mapped:38316kB,Shmem:52kB,Slab:12816kB,SReclaimable:4292kB,SUnreclaim:8524kB,KernelStack:1276kB,PageTables:1076kB,NFS_Unstable:0kB,Bounce:0kB,WritebackTmp:0kB,CommitLimit:96240kB,Committed_AS:388936kB,VmallocTotal:34359738367kB,VmallocUsed:0kB,VmallocChunk:0kB,AnonHugePages:0kB,ShmemHugePages:0kB,ShmemPmdMapped:0kB,HugePages_Total:0,HugePages_Free:0,HugePages_Rsvd:0,HugePages_Surp:0,Hugepagesize:2048kB,DirectMap4k:20480kB,DirectMap2M:192512kB
+"
+2020-07-27 13:41:47.358,"processor: 0;vendor_id: GenuineIntel;cpu family: 6;model: 62;model name: Intel(R) Xeon(R) Processor @ 2.50GHz;stepping: 4;microcode: 0x1;cpu MHz: 2500.014;cache size: 33792 KB;physical id: 0;siblings: 2;core id: 0;cpu cores: 2;apicid: 0;initial apicid: 0;fpu: yes;fpu_exception: yes;cpuid level: 13;wp: yes;flags: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx rdtscp lm constant_tsc rep_good nopl xtopology nonstop_tsc cpuid tsc_known_freq pni pclmulqdq ssse3 cx16 pcid sse4_1 sse4_2 x2apic popcnt tsc_deadline_timer aes xsave avx f16c rdrand hypervisor lahf_lm cpuid_fault pti ssbd ibrs ibpb stibp fsgsbase tsc_adjust smep erms smap xsaveopt arat md_clear arch_capabilities;bugs: cpu_meltdown spectre_v1 spectre_v2 spec_store_bypass l1tf mds swapgs;bogomips: 5000.02;clflush size: 64;cache_alignment: 64;address sizes: 46 bits physical, 48 bits virtual;power management:;;processor: 1;vendor_id: GenuineIntel;cpu family: 6;model: 62;model name: Intel(R) Xeon(R) Processor @ 2.50GHz;stepping: 4;microcode: 0x1;cpu MHz: 2500.014;cache size: 33792 KB;physical id: 0;siblings: 2;core id: 1;cpu cores: 2;apicid: 1;initial apicid: 1;fpu: yes;fpu_exception: yes;cpuid level: 13;wp: yes;flags: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx rdtscp lm constant_tsc rep_good nopl xtopology nonstop_tsc cpuid tsc_known_freq pni pclmulqdq ssse3 cx16 pcid sse4_1 sse4_2 x2apic popcnt tsc_deadline_timer aes xsave avx f16c rdrand hypervisor lahf_lm cpuid_fault pti ssbd ibrs ibpb stibp fsgsbase tsc_adjust smep erms smap xsaveopt arat md_clear arch_capabilities;bugs: cpu_meltdown spectre_v1 spectre_v2 spec_store_bypass l1tf mds swapgs;bogomips: 5000.02;clflush size: 64;cache_alignment: 64;address sizes: 46 bits physical, 48 bits virtual;power management:;;
+"
+2020-07-27 13:41:47.358,"1573.60,3145.21
+"
+2020-07-27 13:41:47.354,"START RequestId: a0813bf2-289b-4479-9b2c-3c71118fac83 Version: $LATEST
+"
+2020-07-27 13:29:46.481,"END RequestId: 5ec14976-51f4-4469-999b-a4726257b4d0
+"
+2020-07-27 13:29:46.481,"REPORT RequestId: 5ec14976-51f4-4469-999b-a4726257b4d0	Duration: 1711.21 ms	Billed Duration: 1800 ms	Memory Size: 128 MB	Max Memory Used: 78 MB	Init Duration: 299.85 ms	
+"
+2020-07-27 13:29:44.802,"b'3.81.15.104
+'
+"
+2020-07-27 13:29:44.802,"us-east-1
+"
+2020-07-27 13:29:44.783,"169.254.234.157
+"
+2020-07-27 13:29:44.783,"169.254.76.1
+"
+2020-07-27 13:29:44.772,"MemTotal:192480kB,MemFree:63260kB,MemAvailable:140920kB,Buffers:9116kB,Cached:71968kB,SwapCached:0kB,Active:52044kB,Inactive:57628kB,Active(anon):28576kB,Inactive(anon):52kB,Active(file):23468kB,Inactive(file):57576kB,Unevictable:0kB,Mlocked:0kB,SwapTotal:0kB,SwapFree:0kB,Dirty:72kB,Writeback:0kB,AnonPages:28636kB,Mapped:38120kB,Shmem:52kB,Slab:12528kB,SReclaimable:4084kB,SUnreclaim:8444kB,KernelStack:1280kB,PageTables:1084kB,NFS_Unstable:0kB,Bounce:0kB,WritebackTmp:0kB,CommitLimit:96240kB,Committed_AS:388740kB,VmallocTotal:34359738367kB,VmallocUsed:0kB,VmallocChunk:0kB,AnonHugePages:0kB,ShmemHugePages:0kB,ShmemPmdMapped:0kB,HugePages_Total:0,HugePages_Free:0,HugePages_Rsvd:0,HugePages_Surp:0,Hugepagesize:2048kB,DirectMap4k:16384kB,DirectMap2M:196608kB
+"
+2020-07-27 13:29:44.772,"processor: 0;vendor_id: GenuineIntel;cpu family: 6;model: 62;model name: Intel(R) Xeon(R) Processor @ 2.50GHz;stepping: 4;microcode: 0x1;cpu MHz: 2500.006;cache size: 33792 KB;physical id: 0;siblings: 2;core id: 0;cpu cores: 2;apicid: 0;initial apicid: 0;fpu: yes;fpu_exception: yes;cpuid level: 13;wp: yes;flags: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx rdtscp lm constant_tsc rep_good nopl xtopology nonstop_tsc cpuid tsc_known_freq pni pclmulqdq ssse3 cx16 pcid sse4_1 sse4_2 x2apic popcnt tsc_deadline_timer aes xsave avx f16c rdrand hypervisor lahf_lm cpuid_fault pti ssbd ibrs ibpb stibp fsgsbase tsc_adjust smep erms smap xsaveopt arat md_clear arch_capabilities;bugs: cpu_meltdown spectre_v1 spectre_v2 spec_store_bypass l1tf mds swapgs;bogomips: 5000.01;clflush size: 64;cache_alignment: 64;address sizes: 46 bits physical, 48 bits virtual;power management:;;processor: 1;vendor_id: GenuineIntel;cpu family: 6;model: 62;model name: Intel(R) Xeon(R) Processor @ 2.50GHz;stepping: 4;microcode: 0x1;cpu MHz: 2500.006;cache size: 33792 KB;physical id: 0;siblings: 2;core id: 1;cpu cores: 2;apicid: 1;initial apicid: 1;fpu: yes;fpu_exception: yes;cpuid level: 13;wp: yes;flags: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx rdtscp lm constant_tsc rep_good nopl xtopology nonstop_tsc cpuid tsc_known_freq pni pclmulqdq ssse3 cx16 pcid sse4_1 sse4_2 x2apic popcnt tsc_deadline_timer aes xsave avx f16c rdrand hypervisor lahf_lm cpuid_fault pti ssbd ibrs ibpb stibp fsgsbase tsc_adjust smep erms smap xsaveopt arat md_clear arch_capabilities;bugs: cpu_meltdown spectre_v1 spectre_v2 spec_store_bypass l1tf mds swapgs;bogomips: 5000.01;clflush size: 64;cache_alignment: 64;address sizes: 46 bits physical, 48 bits virtual;power management:;;
+"
+2020-07-27 13:29:44.772,"1333.93,2666.55
+"
+2020-07-27 13:29:44.770,"START RequestId: 5ec14976-51f4-4469-999b-a4726257b4d0 Version: $LATEST
+"
+2020-07-27 13:29:44.753,"END RequestId: 4637c868-3618-4577-a76f-a461e85c34e8
+"
+2020-07-27 13:29:44.753,"REPORT RequestId: 4637c868-3618-4577-a76f-a461e85c34e8	Duration: 369.33 ms	Billed Duration: 400 ms	Memory Size: 128 MB	Max Memory Used: 79 MB	
+"
+2020-07-27 13:29:44.395,"b'18.210.11.52
+'
+"
+2020-07-27 13:29:44.395,"us-east-1
+"
+2020-07-27 13:29:44.388,"169.254.91.149
+"
+2020-07-27 13:29:44.388,"169.254.76.1
+"
+2020-07-27 13:29:44.386,"MemTotal:192480kB,MemFree:48076kB,MemAvailable:132520kB,Buffers:11364kB,Cached:75200kB,SwapCached:0kB,Active:64860kB,Inactive:57976kB,Active(anon):36260kB,Inactive(anon):52kB,Active(file):28600kB,Inactive(file):57924kB,Unevictable:0kB,Mlocked:0kB,SwapTotal:0kB,SwapFree:0kB,Dirty:4kB,Writeback:0kB,AnonPages:36320kB,Mapped:39232kB,Shmem:52kB,Slab:14228kB,SReclaimable:5512kB,SUnreclaim:8716kB,KernelStack:1280kB,PageTables:1104kB,NFS_Unstable:0kB,Bounce:0kB,WritebackTmp:0kB,CommitLimit:96240kB,Committed_AS:404472kB,VmallocTotal:34359738367kB,VmallocUsed:0kB,VmallocChunk:0kB,AnonHugePages:0kB,ShmemHugePages:0kB,ShmemPmdMapped:0kB,HugePages_Total:0,HugePages_Free:0,HugePages_Rsvd:0,HugePages_Surp:0,Hugepagesize:2048kB,DirectMap4k:18432kB,DirectMap2M:194560kB
+"
+2020-07-27 13:29:44.386,"processor: 0;vendor_id: GenuineIntel;cpu family: 6;model: 62;model name: Intel(R) Xeon(R) Processor @ 2.50GHz;stepping: 4;microcode: 0x1;cpu MHz: 2500.012;cache size: 36608 KB;physical id: 0;siblings: 2;core id: 0;cpu cores: 2;apicid: 0;initial apicid: 0;fpu: yes;fpu_exception: yes;cpuid level: 13;wp: yes;flags: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx rdtscp lm constant_tsc rep_good nopl xtopology nonstop_tsc cpuid tsc_known_freq pni pclmulqdq ssse3 cx16 pcid sse4_1 sse4_2 x2apic popcnt tsc_deadline_timer aes xsave avx f16c rdrand hypervisor lahf_lm cpuid_fault ssbd ibrs ibpb stibp ibrs_enhanced fsgsbase tsc_adjust smep erms smap xsaveopt arat md_clear arch_capabilities;bugs: spectre_v1 spectre_v2 spec_store_bypass swapgs;bogomips: 5000.02;clflush size: 64;cache_alignment: 64;address sizes: 46 bits physical, 48 bits virtual;power management:;;processor: 1;vendor_id: GenuineIntel;cpu family: 6;model: 62;model name: Intel(R) Xeon(R) Processor @ 2.50GHz;stepping: 4;microcode: 0x1;cpu MHz: 2500.012;cache size: 36608 KB;physical id: 0;siblings: 2;core id: 1;cpu cores: 2;apicid: 1;initial apicid: 1;fpu: yes;fpu_exception: yes;cpuid level: 13;wp: yes;flags: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx rdtscp lm constant_tsc rep_good nopl xtopology nonstop_tsc cpuid tsc_known_freq pni pclmulqdq ssse3 cx16 pcid sse4_1 sse4_2 x2apic popcnt tsc_deadline_timer aes xsave avx f16c rdrand hypervisor lahf_lm cpuid_fault ssbd ibrs ibpb stibp ibrs_enhanced fsgsbase tsc_adjust smep erms smap xsaveopt arat md_clear arch_capabilities;bugs: spectre_v1 spectre_v2 spec_store_bypass swapgs;bogomips: 5000.02;clflush size: 64;cache_alignment: 64;address sizes: 46 bits physical, 48 bits virtual;power management:;;
+"
+2020-07-27 13:29:44.386,"1866.45,3730.45
+"
+2020-07-27 13:29:44.382,"START RequestId: 4637c868-3618-4577-a76f-a461e85c34e8 Version: $LATEST
+"
+2020-07-27 13:17:43.667,"END RequestId: 53d144cc-9ae6-40df-85f9-5998c301191b
+"
+2020-07-27 13:17:43.667,"REPORT RequestId: 53d144cc-9ae6-40df-85f9-5998c301191b	Duration: 1650.53 ms	Billed Duration: 1700 ms	Memory Size: 128 MB	Max Memory Used: 78 MB	Init Duration: 300.26 ms	
+"
+2020-07-27 13:17:42.050,"b'18.210.11.52
+'
+"
+2020-07-27 13:17:42.050,"us-east-1
+"
+2020-07-27 13:17:42.028,"169.254.91.149
+"
+2020-07-27 13:17:42.028,"169.254.76.1
+"
+2020-07-27 13:17:42.018,"MemTotal:192480kB,MemFree:64104kB,MemAvailable:141208kB,Buffers:9080kB,Cached:71456kB,SwapCached:0kB,Active:51756kB,Inactive:57208kB,Active(anon):28448kB,Inactive(anon):52kB,Active(file):23308kB,Inactive(file):57156kB,Unevictable:0kB,Mlocked:0kB,SwapTotal:0kB,SwapFree:0kB,Dirty:72kB,Writeback:0kB,AnonPages:28524kB,Mapped:38020kB,Shmem:52kB,Slab:12408kB,SReclaimable:4136kB,SUnreclaim:8272kB,KernelStack:1280kB,PageTables:1064kB,NFS_Unstable:0kB,Bounce:0kB,WritebackTmp:0kB,CommitLimit:96240kB,Committed_AS:388164kB,VmallocTotal:34359738367kB,VmallocUsed:0kB,VmallocChunk:0kB,AnonHugePages:0kB,ShmemHugePages:0kB,ShmemPmdMapped:0kB,HugePages_Total:0,HugePages_Free:0,HugePages_Rsvd:0,HugePages_Surp:0,Hugepagesize:2048kB,DirectMap4k:18432kB,DirectMap2M:194560kB
+"
+2020-07-27 13:17:42.018,"processor: 0;vendor_id: GenuineIntel;cpu family: 6;model: 62;model name: Intel(R) Xeon(R) Processor @ 2.50GHz;stepping: 4;microcode: 0x1;cpu MHz: 2500.012;cache size: 36608 KB;physical id: 0;siblings: 2;core id: 0;cpu cores: 2;apicid: 0;initial apicid: 0;fpu: yes;fpu_exception: yes;cpuid level: 13;wp: yes;flags: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx rdtscp lm constant_tsc rep_good nopl xtopology nonstop_tsc cpuid tsc_known_freq pni pclmulqdq ssse3 cx16 pcid sse4_1 sse4_2 x2apic popcnt tsc_deadline_timer aes xsave avx f16c rdrand hypervisor lahf_lm cpuid_fault ssbd ibrs ibpb stibp ibrs_enhanced fsgsbase tsc_adjust smep erms smap xsaveopt arat md_clear arch_capabilities;bugs: spectre_v1 spectre_v2 spec_store_bypass swapgs;bogomips: 5000.02;clflush size: 64;cache_alignment: 64;address sizes: 46 bits physical, 48 bits virtual;power management:;;processor: 1;vendor_id: GenuineIntel;cpu family: 6;model: 62;model name: Intel(R) Xeon(R) Processor @ 2.50GHz;stepping: 4;microcode: 0x1;cpu MHz: 2500.012;cache size: 36608 KB;physical id: 0;siblings: 2;core id: 1;cpu cores: 2;apicid: 1;initial apicid: 1;fpu: yes;fpu_exception: yes;cpuid level: 13;wp: yes;flags: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx rdtscp lm constant_tsc rep_good nopl xtopology nonstop_tsc cpuid tsc_known_freq pni pclmulqdq ssse3 cx16 pcid sse4_1 sse4_2 x2apic popcnt tsc_deadline_timer aes xsave avx f16c rdrand hypervisor lahf_lm cpuid_fault ssbd ibrs ibpb stibp ibrs_enhanced fsgsbase tsc_adjust smep erms smap xsaveopt arat md_clear arch_capabilities;bugs: spectre_v1 spectre_v2 spec_store_bypass swapgs;bogomips: 5000.02;clflush size: 64;cache_alignment: 64;address sizes: 46 bits physical, 48 bits virtual;power management:;;
+"
+2020-07-27 13:17:42.018,"1144.09,2286.96
+"
+2020-07-27 13:17:42.016,"START RequestId: 53d144cc-9ae6-40df-85f9-5998c301191b Version: $LATEST
+"
+2020-07-27 13:17:41.932,"END RequestId: 970eda44-b420-4978-8dd0-b338a7bbd373
+"
+2020-07-27 13:17:41.932,"REPORT RequestId: 970eda44-b420-4978-8dd0-b338a7bbd373	Duration: 314.72 ms	Billed Duration: 400 ms	Memory Size: 128 MB	Max Memory Used: 79 MB	
+"
+2020-07-27 13:17:41.633,"b'52.207.207.110
+'
+"
+2020-07-27 13:17:41.633,"us-east-1
+"
+2020-07-27 13:17:41.621,"169.254.26.165
+"
+2020-07-27 13:17:41.621,"169.254.76.1
+"
+2020-07-27 13:17:41.618,"MemTotal:192480kB,MemFree:48188kB,MemAvailable:132608kB,Buffers:11300kB,Cached:75324kB,SwapCached:0kB,Active:64860kB,Inactive:58052kB,Active(anon):36292kB,Inactive(anon):52kB,Active(file):28568kB,Inactive(file):58000kB,Unevictable:0kB,Mlocked:0kB,SwapTotal:0kB,SwapFree:0kB,Dirty:8kB,Writeback:0kB,AnonPages:36328kB,Mapped:39160kB,Shmem:52kB,Slab:14056kB,SReclaimable:5444kB,SUnreclaim:8612kB,KernelStack:1276kB,PageTables:1096kB,NFS_Unstable:0kB,Bounce:0kB,WritebackTmp:0kB,CommitLimit:96240kB,Committed_AS:403324kB,VmallocTotal:34359738367kB,VmallocUsed:0kB,VmallocChunk:0kB,AnonHugePages:0kB,ShmemHugePages:0kB,ShmemPmdMapped:0kB,HugePages_Total:0,HugePages_Free:0,HugePages_Rsvd:0,HugePages_Surp:0,Hugepagesize:2048kB,DirectMap4k:18432kB,DirectMap2M:194560kB
+"
+2020-07-27 13:17:41.618,"processor: 0;vendor_id: GenuineIntel;cpu family: 6;model: 62;model name: Intel(R) Xeon(R) Processor @ 2.50GHz;stepping: 4;microcode: 0x1;cpu MHz: 2500.010;cache size: 33792 KB;physical id: 0;siblings: 2;core id: 0;cpu cores: 2;apicid: 0;initial apicid: 0;fpu: yes;fpu_exception: yes;cpuid level: 13;wp: yes;flags: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx rdtscp lm constant_tsc rep_good nopl xtopology nonstop_tsc cpuid tsc_known_freq pni pclmulqdq ssse3 cx16 pcid sse4_1 sse4_2 x2apic popcnt tsc_deadline_timer aes xsave avx f16c rdrand hypervisor lahf_lm cpuid_fault pti ssbd ibrs ibpb stibp fsgsbase tsc_adjust smep erms smap xsaveopt arat md_clear arch_capabilities;bugs: cpu_meltdown spectre_v1 spectre_v2 spec_store_bypass l1tf mds swapgs;bogomips: 5000.02;clflush size: 64;cache_alignment: 64;address sizes: 46 bits physical, 48 bits virtual;power management:;;processor: 1;vendor_id: GenuineIntel;cpu family: 6;model: 62;model name: Intel(R) Xeon(R) Processor @ 2.50GHz;stepping: 4;microcode: 0x1;cpu MHz: 2500.010;cache size: 33792 KB;physical id: 0;siblings: 2;core id: 1;cpu cores: 2;apicid: 1;initial apicid: 1;fpu: yes;fpu_exception: yes;cpuid level: 13;wp: yes;flags: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx rdtscp lm constant_tsc rep_good nopl xtopology nonstop_tsc cpuid tsc_known_freq pni pclmulqdq ssse3 cx16 pcid sse4_1 sse4_2 x2apic popcnt tsc_deadline_timer aes xsave avx f16c rdrand hypervisor lahf_lm cpuid_fault pti ssbd ibrs ibpb stibp fsgsbase tsc_adjust smep erms smap xsaveopt arat md_clear arch_capabilities;bugs: cpu_meltdown spectre_v1 spectre_v2 spec_store_bypass l1tf mds swapgs;bogomips: 5000.02;clflush size: 64;cache_alignment: 64;address sizes: 46 bits physical, 48 bits virtual;power management:;;
+"
+2020-07-27 13:17:41.618,"979.34,1956.35
+"
+2020-07-27 13:17:41.614,"START RequestId: 970eda44-b420-4978-8dd0-b338a7bbd373 Version: $LATEST
+"
+2020-07-27 13:05:40.865,"END RequestId: f334c257-7e28-4d0b-8f8f-4a9628d3bad9
+"
+2020-07-27 13:05:40.865,"REPORT RequestId: f334c257-7e28-4d0b-8f8f-4a9628d3bad9	Duration: 1642.08 ms	Billed Duration: 1700 ms	Memory Size: 128 MB	Max Memory Used: 78 MB	Init Duration: 296.60 ms	
+"
+2020-07-27 13:05:39.245,"b'52.207.207.110
+'
+"
+2020-07-27 13:05:39.245,"us-east-1
+"
+2020-07-27 13:05:39.226,"169.254.26.165
+"
+2020-07-27 13:05:39.226,"169.254.76.1
+"
+2020-07-27 13:05:39.224,"MemTotal:192480kB,MemFree:63680kB,MemAvailable:140780kB,Buffers:8892kB,Cached:71568kB,SwapCached:0kB,Active:51764kB,Inactive:57332kB,Active(anon):28628kB,Inactive(anon):52kB,Active(file):23136kB,Inactive(file):57280kB,Unevictable:0kB,Mlocked:0kB,SwapTotal:0kB,SwapFree:0kB,Dirty:72kB,Writeback:0kB,AnonPages:28684kB,Mapped:37860kB,Shmem:52kB,Slab:12628kB,SReclaimable:4220kB,SUnreclaim:8408kB,KernelStack:1344kB,PageTables:1052kB,NFS_Unstable:0kB,Bounce:0kB,WritebackTmp:0kB,CommitLimit:96240kB,Committed_AS:387528kB,VmallocTotal:34359738367kB,VmallocUsed:0kB,VmallocChunk:0kB,AnonHugePages:0kB,ShmemHugePages:0kB,ShmemPmdMapped:0kB,HugePages_Total:0,HugePages_Free:0,HugePages_Rsvd:0,HugePages_Surp:0,Hugepagesize:2048kB,DirectMap4k:18432kB,DirectMap2M:194560kB
+"
+2020-07-27 13:05:39.224,"processor: 0;vendor_id: GenuineIntel;cpu family: 6;model: 62;model name: Intel(R) Xeon(R) Processor @ 2.50GHz;stepping: 4;microcode: 0x1;cpu MHz: 2500.010;cache size: 33792 KB;physical id: 0;siblings: 2;core id: 0;cpu cores: 2;apicid: 0;initial apicid: 0;fpu: yes;fpu_exception: yes;cpuid level: 13;wp: yes;flags: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx rdtscp lm constant_tsc rep_good nopl xtopology nonstop_tsc cpuid tsc_known_freq pni pclmulqdq ssse3 cx16 pcid sse4_1 sse4_2 x2apic popcnt tsc_deadline_timer aes xsave avx f16c rdrand hypervisor lahf_lm cpuid_fault pti ssbd ibrs ibpb stibp fsgsbase tsc_adjust smep erms smap xsaveopt arat md_clear arch_capabilities;bugs: cpu_meltdown spectre_v1 spectre_v2 spec_store_bypass l1tf mds swapgs;bogomips: 5000.02;clflush size: 64;cache_alignment: 64;address sizes: 46 bits physical, 48 bits virtual;power management:;;processor: 1;vendor_id: GenuineIntel;cpu family: 6;model: 62;model name: Intel(R) Xeon(R) Processor @ 2.50GHz;stepping: 4;microcode: 0x1;cpu MHz: 2500.010;cache size: 33792 KB;physical id: 0;siblings: 2;core id: 1;cpu cores: 2;apicid: 1;initial apicid: 1;fpu: yes;fpu_exception: yes;cpuid level: 13;wp: yes;flags: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx rdtscp lm constant_tsc rep_good nopl xtopology nonstop_tsc cpuid tsc_known_freq pni pclmulqdq ssse3 cx16 pcid sse4_1 sse4_2 x2apic popcnt tsc_deadline_timer aes xsave avx f16c rdrand hypervisor lahf_lm cpuid_fault pti ssbd ibrs ibpb stibp fsgsbase tsc_adjust smep erms smap xsaveopt arat md_clear arch_capabilities;bugs: cpu_meltdown spectre_v1 spectre_v2 spec_store_bypass l1tf mds swapgs;bogomips: 5000.02;clflush size: 64;cache_alignment: 64;address sizes: 46 bits physical, 48 bits virtual;power management:;;
+"
+2020-07-27 13:05:39.224,"256.96,512.87
+"
+2020-07-27 13:05:39.222,"START RequestId: f334c257-7e28-4d0b-8f8f-4a9628d3bad9 Version: $LATEST
+"
+2020-07-27 13:05:39.159,"END RequestId: c258d342-0434-450f-b9c8-77277e6acdd8
+"
+2020-07-27 13:05:39.159,"REPORT RequestId: c258d342-0434-450f-b9c8-77277e6acdd8	Duration: 316.53 ms	Billed Duration: 400 ms	Memory Size: 128 MB	Max Memory Used: 79 MB	
+"
+2020-07-27 13:05:38.861,"b'3.236.100.59
+'
+"
+2020-07-27 13:05:38.861,"us-east-1
+"
+2020-07-27 13:05:38.845,"169.254.63.189
+"
+2020-07-27 13:05:38.845,"169.254.76.1
+"
+2020-07-27 13:05:38.844,"MemTotal:192480kB,MemFree:47708kB,MemAvailable:132328kB,Buffers:11360kB,Cached:75428kB,SwapCached:0kB,Active:65468kB,Inactive:57916kB,Active(anon):36592kB,Inactive(anon):52kB,Active(file):28876kB,Inactive(file):57864kB,Unevictable:0kB,Mlocked:0kB,SwapTotal:0kB,SwapFree:0kB,Dirty:8kB,Writeback:0kB,AnonPages:36600kB,Mapped:38800kB,Shmem:52kB,Slab:14148kB,SReclaimable:5472kB,SUnreclaim:8676kB,KernelStack:1280kB,PageTables:1108kB,NFS_Unstable:0kB,Bounce:0kB,WritebackTmp:0kB,CommitLimit:96240kB,Committed_AS:403328kB,VmallocTotal:34359738367kB,VmallocUsed:0kB,VmallocChunk:0kB,AnonHugePages:0kB,ShmemHugePages:0kB,ShmemPmdMapped:0kB,HugePages_Total:0,HugePages_Free:0,HugePages_Rsvd:0,HugePages_Surp:0,Hugepagesize:2048kB,DirectMap4k:16384kB,DirectMap2M:196608kB
+"
+2020-07-27 13:05:38.844,"processor: 0;vendor_id: GenuineIntel;cpu family: 6;model: 62;model name: Intel(R) Xeon(R) Processor @ 2.50GHz;stepping: 4;microcode: 0x1;cpu MHz: 2500.012;cache size: 33792 KB;physical id: 0;siblings: 2;core id: 0;cpu cores: 2;apicid: 0;initial apicid: 0;fpu: yes;fpu_exception: yes;cpuid level: 13;wp: yes;flags: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx rdtscp lm constant_tsc rep_good nopl xtopology nonstop_tsc cpuid tsc_known_freq pni pclmulqdq ssse3 cx16 pcid sse4_1 sse4_2 x2apic popcnt tsc_deadline_timer aes xsave avx f16c rdrand hypervisor lahf_lm cpuid_fault pti ssbd ibrs ibpb stibp fsgsbase tsc_adjust smep erms smap xsaveopt arat md_clear arch_capabilities;bugs: cpu_meltdown spectre_v1 spectre_v2 spec_store_bypass l1tf mds swapgs;bogomips: 5000.02;clflush size: 64;cache_alignment: 64;address sizes: 46 bits physical, 48 bits virtual;power management:;;processor: 1;vendor_id: GenuineIntel;cpu family: 6;model: 62;model name: Intel(R) Xeon(R) Processor @ 2.50GHz;stepping: 4;microcode: 0x1;cpu MHz: 2500.012;cache size: 33792 KB;physical id: 0;siblings: 2;core id: 1;cpu cores: 2;apicid: 1;initial apicid: 1;fpu: yes;fpu_exception: yes;cpuid level: 13;wp: yes;flags: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx rdtscp lm constant_tsc rep_good nopl xtopology nonstop_tsc cpuid tsc_known_freq pni pclmulqdq ssse3 cx16 pcid sse4_1 sse4_2 x2apic popcnt tsc_deadline_timer aes xsave avx f16c rdrand hypervisor lahf_lm cpuid_fault pti ssbd ibrs ibpb stibp fsgsbase tsc_adjust smep erms smap xsaveopt arat md_clear arch_capabilities;bugs: cpu_meltdown spectre_v1 spectre_v2 spec_store_bypass l1tf mds swapgs;bogomips: 5000.02;clflush size: 64;cache_alignment: 64;address sizes: 46 bits physical, 48 bits virtual;power management:;;
+"
+2020-07-27 13:05:38.844,"1628.98,3255.65
+"
+2020-07-27 13:05:38.839,"START RequestId: c258d342-0434-450f-b9c8-77277e6acdd8 Version: $LATEST
+"
+2020-07-27 12:53:37.913,"END RequestId: 958633a2-b2bc-4c48-8e0b-dfc0f7a17db3
+"
+2020-07-27 12:53:37.913,"REPORT RequestId: 958633a2-b2bc-4c48-8e0b-dfc0f7a17db3	Duration: 1745.80 ms	Billed Duration: 1800 ms	Memory Size: 128 MB	Max Memory Used: 78 MB	Init Duration: 316.48 ms	
+"
+2020-07-27 12:53:36.196,"b'3.236.100.59
+'
+"
+2020-07-27 12:53:36.196,"us-east-1
+"
+2020-07-27 12:53:36.183,"END RequestId: 158234cf-a319-4838-ae73-d825634157cf
+"
+2020-07-27 12:53:36.183,"REPORT RequestId: 158234cf-a319-4838-ae73-d825634157cf	Duration: 399.91 ms	Billed Duration: 400 ms	Memory Size: 128 MB	Max Memory Used: 79 MB	
+"
+2020-07-27 12:53:36.174,"169.254.63.189
+"
+2020-07-27 12:53:36.174,"169.254.76.1
+"
+2020-07-27 12:53:36.169,"MemTotal:192480kB,MemFree:63796kB,MemAvailable:141096kB,Buffers:8988kB,Cached:71676kB,SwapCached:0kB,Active:52028kB,Inactive:57200kB,Active(anon):28552kB,Inactive(anon):52kB,Active(file):23476kB,Inactive(file):57148kB,Unevictable:0kB,Mlocked:0kB,SwapTotal:0kB,SwapFree:0kB,Dirty:76kB,Writeback:0kB,AnonPages:28596kB,Mapped:37636kB,Shmem:52kB,Slab:12476kB,SReclaimable:4208kB,SUnreclaim:8268kB,KernelStack:1280kB,PageTables:1064kB,NFS_Unstable:0kB,Bounce:0kB,WritebackTmp:0kB,CommitLimit:96240kB,Committed_AS:387276kB,VmallocTotal:34359738367kB,VmallocUsed:0kB,VmallocChunk:0kB,AnonHugePages:0kB,ShmemHugePages:0kB,ShmemPmdMapped:0kB,HugePages_Total:0,HugePages_Free:0,HugePages_Rsvd:0,HugePages_Surp:0,Hugepagesize:2048kB,DirectMap4k:16384kB,DirectMap2M:196608kB
+"
+2020-07-27 12:53:36.169,"processor: 0;vendor_id: GenuineIntel;cpu family: 6;model: 62;model name: Intel(R) Xeon(R) Processor @ 2.50GHz;stepping: 4;microcode: 0x1;cpu MHz: 2500.012;cache size: 33792 KB;physical id: 0;siblings: 2;core id: 0;cpu cores: 2;apicid: 0;initial apicid: 0;fpu: yes;fpu_exception: yes;cpuid level: 13;wp: yes;flags: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx rdtscp lm constant_tsc rep_good nopl xtopology nonstop_tsc cpuid tsc_known_freq pni pclmulqdq ssse3 cx16 pcid sse4_1 sse4_2 x2apic popcnt tsc_deadline_timer aes xsave avx f16c rdrand hypervisor lahf_lm cpuid_fault pti ssbd ibrs ibpb stibp fsgsbase tsc_adjust smep erms smap xsaveopt arat md_clear arch_capabilities;bugs: cpu_meltdown spectre_v1 spectre_v2 spec_store_bypass l1tf mds swapgs;bogomips: 5000.02;clflush size: 64;cache_alignment: 64;address sizes: 46 bits physical, 48 bits virtual;power management:;;processor: 1;vendor_id: GenuineIntel;cpu family: 6;model: 62;model name: Intel(R) Xeon(R) Processor @ 2.50GHz;stepping: 4;microcode: 0x1;cpu MHz: 2500.012;cache size: 33792 KB;physical id: 0;siblings: 2;core id: 1;cpu cores: 2;apicid: 1;initial apicid: 1;fpu: yes;fpu_exception: yes;cpuid level: 13;wp: yes;flags: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx rdtscp lm constant_tsc rep_good nopl xtopology nonstop_tsc cpuid tsc_known_freq pni pclmulqdq ssse3 cx16 pcid sse4_1 sse4_2 x2apic popcnt tsc_deadline_timer aes xsave avx f16c rdrand hypervisor lahf_lm cpuid_fault pti ssbd ibrs ibpb stibp fsgsbase tsc_adjust smep erms smap xsaveopt arat md_clear arch_capabilities;bugs: cpu_meltdown spectre_v1 spectre_v2 spec_store_bypass l1tf mds swapgs;bogomips: 5000.02;clflush size: 64;cache_alignment: 64;address sizes: 46 bits physical, 48 bits virtual;power management:;;
+"
+2020-07-27 12:53:36.169,"906.31,1811.43
+"
+2020-07-27 12:53:36.167,"START RequestId: 958633a2-b2bc-4c48-8e0b-dfc0f7a17db3 Version: $LATEST
+"
+2020-07-27 12:53:35.822,"b'18.207.158.85
+'
+"
+2020-07-27 12:53:35.822,"us-east-1
+"
+2020-07-27 12:53:35.786,"169.254.251.109
+"
+2020-07-27 12:53:35.786,"169.254.76.1
+"
+2020-07-27 12:53:35.784,"MemTotal:192480kB,MemFree:47648kB,MemAvailable:132288kB,Buffers:11428kB,Cached:75396kB,SwapCached:0kB,Active:65372kB,Inactive:58136kB,Active(anon):36680kB,Inactive(anon):52kB,Active(file):28692kB,Inactive(file):58084kB,Unevictable:0kB,Mlocked:0kB,SwapTotal:0kB,SwapFree:0kB,Dirty:8kB,Writeback:0kB,AnonPages:36720kB,Mapped:39284kB,Shmem:52kB,Slab:14048kB,SReclaimable:5456kB,SUnreclaim:8592kB,KernelStack:1276kB,PageTables:1100kB,NFS_Unstable:0kB,Bounce:0kB,WritebackTmp:0kB,CommitLimit:96240kB,Committed_AS:403324kB,VmallocTotal:34359738367kB,VmallocUsed:0kB,VmallocChunk:0kB,AnonHugePages:0kB,ShmemHugePages:0kB,ShmemPmdMapped:0kB,HugePages_Total:0,HugePages_Free:0,HugePages_Rsvd:0,HugePages_Surp:0,Hugepagesize:2048kB,DirectMap4k:18432kB,DirectMap2M:194560kB
+"
+2020-07-27 12:53:35.784,"processor: 0;vendor_id: GenuineIntel;cpu family: 6;model: 62;model name: Intel(R) Xeon(R) Processor @ 2.50GHz;stepping: 4;microcode: 0x1;cpu MHz: 2500.012;cache size: 33792 KB;physical id: 0;siblings: 2;core id: 0;cpu cores: 2;apicid: 0;initial apicid: 0;fpu: yes;fpu_exception: yes;cpuid level: 13;wp: yes;flags: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx rdtscp lm constant_tsc rep_good nopl xtopology nonstop_tsc cpuid tsc_known_freq pni pclmulqdq ssse3 cx16 pcid sse4_1 sse4_2 x2apic popcnt tsc_deadline_timer aes xsave avx f16c rdrand hypervisor lahf_lm cpuid_fault pti ssbd ibrs ibpb stibp fsgsbase tsc_adjust smep erms smap xsaveopt arat md_clear arch_capabilities;bugs: cpu_meltdown spectre_v1 spectre_v2 spec_store_bypass l1tf mds swapgs;bogomips: 5000.02;clflush size: 64;cache_alignment: 64;address sizes: 46 bits physical, 48 bits virtual;power management:;;processor: 1;vendor_id: GenuineIntel;cpu family: 6;model: 62;model name: Intel(R) Xeon(R) Processor @ 2.50GHz;stepping: 4;microcode: 0x1;cpu MHz: 2500.012;cache size: 33792 KB;physical id: 0;siblings: 2;core id: 1;cpu cores: 2;apicid: 1;initial apicid: 1;fpu: yes;fpu_exception: yes;cpuid level: 13;wp: yes;flags: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx rdtscp lm constant_tsc rep_good nopl xtopology nonstop_tsc cpuid tsc_known_freq pni pclmulqdq ssse3 cx16 pcid sse4_1 sse4_2 x2apic popcnt tsc_deadline_timer aes xsave avx f16c rdrand hypervisor lahf_lm cpuid_fault pti ssbd ibrs ibpb stibp fsgsbase tsc_adjust smep erms smap xsaveopt arat md_clear arch_capabilities;bugs: cpu_meltdown spectre_v1 spectre_v2 spec_store_bypass l1tf mds swapgs;bogomips: 5000.02;clflush size: 64;cache_alignment: 64;address sizes: 46 bits physical, 48 bits virtual;power management:;;
+"
+2020-07-27 12:53:35.784,"2007.84,4012.96
+"
+2020-07-27 12:53:35.780,"START RequestId: 158234cf-a319-4838-ae73-d825634157cf Version: $LATEST
+"
+2020-07-27 12:41:34.830,"END RequestId: 1c530429-35b7-4f1d-80ae-060085e3417e
+"
+2020-07-27 12:41:34.830,"REPORT RequestId: 1c530429-35b7-4f1d-80ae-060085e3417e	Duration: 1710.30 ms	Billed Duration: 1800 ms	Memory Size: 128 MB	Max Memory Used: 78 MB	Init Duration: 317.14 ms	
+"
+2020-07-27 12:41:33.152,"b'18.207.158.85
+'
+"
+2020-07-27 12:41:33.152,"us-east-1
+"
+2020-07-27 12:41:33.130,"169.254.251.109
+"
+2020-07-27 12:41:33.130,"169.254.76.1
+"
+2020-07-27 12:41:33.121,"1285.19,2568.97
+"
+2020-07-27 12:41:33.120,"MemTotal:192480kB,MemFree:63256kB,MemAvailable:140628kB,Buffers:9108kB,Cached:71640kB,SwapCached:0kB,Active:52484kB,Inactive:57268kB,Active(anon):28992kB,Inactive(anon):52kB,Active(file):23492kB,Inactive(file):57216kB,Unevictable:0kB,Mlocked:0kB,SwapTotal:0kB,SwapFree:0kB,Dirty:72kB,Writeback:0kB,AnonPages:29028kB,Mapped:38088kB,Shmem:52kB,Slab:12496kB,SReclaimable:4180kB,SUnreclaim:8316kB,KernelStack:1280kB,PageTables:1060kB,NFS_Unstable:0kB,Bounce:0kB,WritebackTmp:0kB,CommitLimit:96240kB,Committed_AS:387528kB,VmallocTotal:34359738367kB,VmallocUsed:0kB,VmallocChunk:0kB,AnonHugePages:0kB,ShmemHugePages:0kB,ShmemPmdMapped:0kB,HugePages_Total:0,HugePages_Free:0,HugePages_Rsvd:0,HugePages_Surp:0,Hugepagesize:2048kB,DirectMap4k:18432kB,DirectMap2M:194560kB
+"
+2020-07-27 12:41:33.120,"processor: 0;vendor_id: GenuineIntel;cpu family: 6;model: 62;model name: Intel(R) Xeon(R) Processor @ 2.50GHz;stepping: 4;microcode: 0x1;cpu MHz: 2500.012;cache size: 33792 KB;physical id: 0;siblings: 2;core id: 0;cpu cores: 2;apicid: 0;initial apicid: 0;fpu: yes;fpu_exception: yes;cpuid level: 13;wp: yes;flags: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx rdtscp lm constant_tsc rep_good nopl xtopology nonstop_tsc cpuid tsc_known_freq pni pclmulqdq ssse3 cx16 pcid sse4_1 sse4_2 x2apic popcnt tsc_deadline_timer aes xsave avx f16c rdrand hypervisor lahf_lm cpuid_fault pti ssbd ibrs ibpb stibp fsgsbase tsc_adjust smep erms smap xsaveopt arat md_clear arch_capabilities;bugs: cpu_meltdown spectre_v1 spectre_v2 spec_store_bypass l1tf mds swapgs;bogomips: 5000.02;clflush size: 64;cache_alignment: 64;address sizes: 46 bits physical, 48 bits virtual;power management:;;processor: 1;vendor_id: GenuineIntel;cpu family: 6;model: 62;model name: Intel(R) Xeon(R) Processor @ 2.50GHz;stepping: 4;microcode: 0x1;cpu MHz: 2500.012;cache size: 33792 KB;physical id: 0;siblings: 2;core id: 1;cpu cores: 2;apicid: 1;initial apicid: 1;fpu: yes;fpu_exception: yes;cpuid level: 13;wp: yes;flags: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx rdtscp lm constant_tsc rep_good nopl xtopology nonstop_tsc cpuid tsc_known_freq pni pclmulqdq ssse3 cx16 pcid sse4_1 sse4_2 x2apic popcnt tsc_deadline_timer aes xsave avx f16c rdrand hypervisor lahf_lm cpuid_fault pti ssbd ibrs ibpb stibp fsgsbase tsc_adjust smep erms smap xsaveopt arat md_clear arch_capabilities;bugs: cpu_meltdown spectre_v1 spectre_v2 spec_store_bypass l1tf mds swapgs;bogomips: 5000.02;clflush size: 64;cache_alignment: 64;address sizes: 46 bits physical, 48 bits virtual;power management:;;
+"
+2020-07-27 12:41:33.119,"START RequestId: 1c530429-35b7-4f1d-80ae-060085e3417e Version: $LATEST
+"
+2020-07-27 12:41:32.991,"REPORT RequestId: 4698126a-2bef-4385-8418-7895e531b30a	Duration: 300.72 ms	Billed Duration: 400 ms	Memory Size: 128 MB	Max Memory Used: 79 MB	
+"
+2020-07-27 12:41:32.990,"END RequestId: 4698126a-2bef-4385-8418-7895e531b30a
+"
+2020-07-27 12:41:32.715,"b'54.164.167.197
+'
+"
+2020-07-27 12:41:32.715,"us-east-1
+"
+2020-07-27 12:41:32.693,"169.254.42.141
+"
+2020-07-27 12:41:32.693,"169.254.76.1
+"
+2020-07-27 12:41:32.691,"MemTotal:192480kB,MemFree:47180kB,MemAvailable:131468kB,Buffers:11312kB,Cached:75156kB,SwapCached:0kB,Active:66076kB,Inactive:57380kB,Active(anon):36988kB,Inactive(anon):52kB,Active(file):29088kB,Inactive(file):57328kB,Unevictable:0kB,Mlocked:0kB,SwapTotal:0kB,SwapFree:0kB,Dirty:4kB,Writeback:0kB,AnonPages:36988kB,Mapped:39104kB,Shmem:52kB,Slab:14580kB,SReclaimable:5464kB,SUnreclaim:9116kB,KernelStack:1276kB,PageTables:1104kB,NFS_Unstable:0kB,Bounce:0kB,WritebackTmp:0kB,CommitLimit:96240kB,Committed_AS:404984kB,VmallocTotal:34359738367kB,VmallocUsed:0kB,VmallocChunk:0kB,AnonHugePages:0kB,ShmemHugePages:0kB,ShmemPmdMapped:0kB,HugePages_Total:0,HugePages_Free:0,HugePages_Rsvd:0,HugePages_Surp:0,Hugepagesize:2048kB,DirectMap4k:14336kB,DirectMap2M:198656kB
+"
+2020-07-27 12:41:32.691,"processor: 0;vendor_id: GenuineIntel;cpu family: 6;model: 62;model name: Intel(R) Xeon(R) Processor @ 2.50GHz;stepping: 4;microcode: 0x1;cpu MHz: 2500.012;cache size: 33792 KB;physical id: 0;siblings: 2;core id: 0;cpu cores: 2;apicid: 0;initial apicid: 0;fpu: yes;fpu_exception: yes;cpuid level: 13;wp: yes;flags: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx rdtscp lm constant_tsc rep_good nopl xtopology nonstop_tsc cpuid tsc_known_freq pni pclmulqdq ssse3 cx16 pcid sse4_1 sse4_2 x2apic popcnt tsc_deadline_timer aes xsave avx f16c rdrand hypervisor lahf_lm cpuid_fault pti ssbd ibrs ibpb stibp fsgsbase tsc_adjust smep erms smap xsaveopt arat md_clear arch_capabilities;bugs: cpu_meltdown spectre_v1 spectre_v2 spec_store_bypass l1tf mds swapgs;bogomips: 5000.02;clflush size: 64;cache_alignment: 64;address sizes: 46 bits physical, 48 bits virtual;power management:;;processor: 1;vendor_id: GenuineIntel;cpu family: 6;model: 62;model name: Intel(R) Xeon(R) Processor @ 2.50GHz;stepping: 4;microcode: 0x1;cpu MHz: 2500.012;cache size: 33792 KB;physical id: 0;siblings: 2;core id: 1;cpu cores: 2;apicid: 1;initial apicid: 1;fpu: yes;fpu_exception: yes;cpuid level: 13;wp: yes;flags: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx rdtscp lm constant_tsc rep_good nopl xtopology nonstop_tsc cpuid tsc_known_freq pni pclmulqdq ssse3 cx16 pcid sse4_1 sse4_2 x2apic popcnt tsc_deadline_timer aes xsave avx f16c rdrand hypervisor lahf_lm cpuid_fault pti ssbd ibrs ibpb stibp fsgsbase tsc_adjust smep erms smap xsaveopt arat md_clear arch_capabilities;bugs: cpu_meltdown spectre_v1 spectre_v2 spec_store_bypass l1tf mds swapgs;bogomips: 5000.02;clflush size: 64;cache_alignment: 64;address sizes: 46 bits physical, 48 bits virtual;power management:;;
+"
+2020-07-27 12:41:32.691,"1273.10,2543.97
+"
+2020-07-27 12:41:32.687,"START RequestId: 4698126a-2bef-4385-8418-7895e531b30a Version: $LATEST
+"
+2020-07-27 12:30:58.825,"END RequestId: 5539a038-ce89-4e1e-af9b-7d37c0b8267b
+"
+2020-07-27 12:30:58.825,"REPORT RequestId: 5539a038-ce89-4e1e-af9b-7d37c0b8267b	Duration: 315.63 ms	Billed Duration: 400 ms	Memory Size: 128 MB	Max Memory Used: 79 MB	
+"
+2020-07-27 12:30:58.527,"b'54.164.167.197
+'
+"
+2020-07-27 12:30:58.527,"us-east-1
+"
+2020-07-27 12:30:58.512,"169.254.42.141
+"
+2020-07-27 12:30:58.512,"169.254.76.1
+"
+2020-07-27 12:30:58.510,"MemTotal:192480kB,MemFree:48660kB,MemAvailable:132304kB,Buffers:11036kB,Cached:74828kB,SwapCached:0kB,Active:64848kB,Inactive:57384kB,Active(anon):36356kB,Inactive(anon):52kB,Active(file):28492kB,Inactive(file):57332kB,Unevictable:0kB,Mlocked:0kB,SwapTotal:0kB,SwapFree:0kB,Dirty:4kB,Writeback:0kB,AnonPages:36404kB,Mapped:38720kB,Shmem:52kB,Slab:14336kB,SReclaimable:5412kB,SUnreclaim:8924kB,KernelStack:1280kB,PageTables:1104kB,NFS_Unstable:0kB,Bounce:0kB,WritebackTmp:0kB,CommitLimit:96240kB,Committed_AS:404728kB,VmallocTotal:34359738367kB,VmallocUsed:0kB,VmallocChunk:0kB,AnonHugePages:0kB,ShmemHugePages:0kB,ShmemPmdMapped:0kB,HugePages_Total:0,HugePages_Free:0,HugePages_Rsvd:0,HugePages_Surp:0,Hugepagesize:2048kB,DirectMap4k:14336kB,DirectMap2M:198656kB
+"
+2020-07-27 12:30:58.510,"processor: 0;vendor_id: GenuineIntel;cpu family: 6;model: 62;model name: Intel(R) Xeon(R) Processor @ 2.50GHz;stepping: 4;microcode: 0x1;cpu MHz: 2500.012;cache size: 33792 KB;physical id: 0;siblings: 2;core id: 0;cpu cores: 2;apicid: 0;initial apicid: 0;fpu: yes;fpu_exception: yes;cpuid level: 13;wp: yes;flags: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx rdtscp lm constant_tsc rep_good nopl xtopology nonstop_tsc cpuid tsc_known_freq pni pclmulqdq ssse3 cx16 pcid sse4_1 sse4_2 x2apic popcnt tsc_deadline_timer aes xsave avx f16c rdrand hypervisor lahf_lm cpuid_fault pti ssbd ibrs ibpb stibp fsgsbase tsc_adjust smep erms smap xsaveopt arat md_clear arch_capabilities;bugs: cpu_meltdown spectre_v1 spectre_v2 spec_store_bypass l1tf mds swapgs;bogomips: 5000.02;clflush size: 64;cache_alignment: 64;address sizes: 46 bits physical, 48 bits virtual;power management:;;processor: 1;vendor_id: GenuineIntel;cpu family: 6;model: 62;model name: Intel(R) Xeon(R) Processor @ 2.50GHz;stepping: 4;microcode: 0x1;cpu MHz: 2500.012;cache size: 33792 KB;physical id: 0;siblings: 2;core id: 1;cpu cores: 2;apicid: 1;initial apicid: 1;fpu: yes;fpu_exception: yes;cpuid level: 13;wp: yes;flags: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx rdtscp lm constant_tsc rep_good nopl xtopology nonstop_tsc cpuid tsc_known_freq pni pclmulqdq ssse3 cx16 pcid sse4_1 sse4_2 x2apic popcnt tsc_deadline_timer aes xsave avx f16c rdrand hypervisor lahf_lm cpuid_fault pti ssbd ibrs ibpb stibp fsgsbase tsc_adjust smep erms smap xsaveopt arat md_clear arch_capabilities;bugs: cpu_meltdown spectre_v1 spectre_v2 spec_store_bypass l1tf mds swapgs;bogomips: 5000.02;clflush size: 64;cache_alignment: 64;address sizes: 46 bits physical, 48 bits virtual;power management:;;
+"
+2020-07-27 12:30:58.510,"638.92,1276.53
+"
+2020-07-27 12:30:58.506,"START RequestId: 5539a038-ce89-4e1e-af9b-7d37c0b8267b Version: $LATEST
+"
+2020-07-27 12:29:31.966,"END RequestId: bcc5afd6-c332-41c3-8e7f-9fb76515df26
+"
+2020-07-27 12:29:31.966,"REPORT RequestId: bcc5afd6-c332-41c3-8e7f-9fb76515df26	Duration: 1651.47 ms	Billed Duration: 1700 ms	Memory Size: 128 MB	Max Memory Used: 78 MB	Init Duration: 302.16 ms	
+"
+2020-07-27 12:29:30.346,"b'54.164.167.197
+'
+"
+2020-07-27 12:29:30.346,"us-east-1
+"
+2020-07-27 12:29:30.326,"169.254.76.1
+"
+2020-07-27 12:29:30.325,"169.254.42.141
+"
+2020-07-27 12:29:30.316,"MemTotal:192480kB,MemFree:63540kB,MemAvailable:140444kB,Buffers:8920kB,Cached:71404kB,SwapCached:0kB,Active:52212kB,Inactive:57032kB,Active(anon):28932kB,Inactive(anon):52kB,Active(file):23280kB,Inactive(file):56980kB,Unevictable:0kB,Mlocked:0kB,SwapTotal:0kB,SwapFree:0kB,Dirty:64kB,Writeback:0kB,AnonPages:28952kB,Mapped:37908kB,Shmem:52kB,Slab:12720kB,SReclaimable:4140kB,SUnreclaim:8580kB,KernelStack:1272kB,PageTables:1056kB,NFS_Unstable:0kB,Bounce:0kB,WritebackTmp:0kB,CommitLimit:96240kB,Committed_AS:388932kB,VmallocTotal:34359738367kB,VmallocUsed:0kB,VmallocChunk:0kB,AnonHugePages:0kB,ShmemHugePages:0kB,ShmemPmdMapped:0kB,HugePages_Total:0,HugePages_Free:0,HugePages_Rsvd:0,HugePages_Surp:0,Hugepagesize:2048kB,DirectMap4k:14336kB,DirectMap2M:198656kB
+"
+2020-07-27 12:29:30.316,"processor: 0;vendor_id: GenuineIntel;cpu family: 6;model: 62;model name: Intel(R) Xeon(R) Processor @ 2.50GHz;stepping: 4;microcode: 0x1;cpu MHz: 2500.012;cache size: 33792 KB;physical id: 0;siblings: 2;core id: 0;cpu cores: 2;apicid: 0;initial apicid: 0;fpu: yes;fpu_exception: yes;cpuid level: 13;wp: yes;flags: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx rdtscp lm constant_tsc rep_good nopl xtopology nonstop_tsc cpuid tsc_known_freq pni pclmulqdq ssse3 cx16 pcid sse4_1 sse4_2 x2apic popcnt tsc_deadline_timer aes xsave avx f16c rdrand hypervisor lahf_lm cpuid_fault pti ssbd ibrs ibpb stibp fsgsbase tsc_adjust smep erms smap xsaveopt arat md_clear arch_capabilities;bugs: cpu_meltdown spectre_v1 spectre_v2 spec_store_bypass l1tf mds swapgs;bogomips: 5000.02;clflush size: 64;cache_alignment: 64;address sizes: 46 bits physical, 48 bits virtual;power management:;;processor: 1;vendor_id: GenuineIntel;cpu family: 6;model: 62;model name: Intel(R) Xeon(R) Processor @ 2.50GHz;stepping: 4;microcode: 0x1;cpu MHz: 2500.012;cache size: 33792 KB;physical id: 0;siblings: 2;core id: 1;cpu cores: 2;apicid: 1;initial apicid: 1;fpu: yes;fpu_exception: yes;cpuid level: 13;wp: yes;flags: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx rdtscp lm constant_tsc rep_good nopl xtopology nonstop_tsc cpuid tsc_known_freq pni pclmulqdq ssse3 cx16 pcid sse4_1 sse4_2 x2apic popcnt tsc_deadline_timer aes xsave avx f16c rdrand hypervisor lahf_lm cpuid_fault pti ssbd ibrs ibpb stibp fsgsbase tsc_adjust smep erms smap xsaveopt arat md_clear arch_capabilities;bugs: cpu_meltdown spectre_v1 spectre_v2 spec_store_bypass l1tf mds swapgs;bogomips: 5000.02;clflush size: 64;cache_alignment: 64;address sizes: 46 bits physical, 48 bits virtual;power management:;;
+"
+2020-07-27 12:29:30.316,"550.73,1100.39
+"
+2020-07-27 12:29:30.314,"START RequestId: bcc5afd6-c332-41c3-8e7f-9fb76515df26 Version: $LATEST
+"
+2020-07-27 12:29:30.243,"END RequestId: 937d61a6-8071-4547-8e15-ec727440f8b8
+"
+2020-07-27 12:29:30.243,"REPORT RequestId: 937d61a6-8071-4547-8e15-ec727440f8b8	Duration: 324.57 ms	Billed Duration: 400 ms	Memory Size: 128 MB	Max Memory Used: 79 MB	
+"
+2020-07-27 12:29:29.927,"b'34.231.243.230
+'
+"
+2020-07-27 12:29:29.927,"us-east-1
+"
+2020-07-27 12:29:29.922,"169.254.140.37
+"
+2020-07-27 12:29:29.922,"169.254.76.1
+"
+2020-07-27 12:29:29.920,"MemTotal:192480kB,MemFree:47764kB,MemAvailable:132572kB,Buffers:11464kB,Cached:75556kB,SwapCached:0kB,Active:64896kB,Inactive:58440kB,Active(anon):36304kB,Inactive(anon):52kB,Active(file):28592kB,Inactive(file):58388kB,Unevictable:0kB,Mlocked:0kB,SwapTotal:0kB,SwapFree:0kB,Dirty:4kB,Writeback:0kB,AnonPages:36348kB,Mapped:39088kB,Shmem:52kB,Slab:14100kB,SReclaimable:5420kB,SUnreclaim:8680kB,KernelStack:1280kB,PageTables:1112kB,NFS_Unstable:0kB,Bounce:0kB,WritebackTmp:0kB,CommitLimit:96240kB,Committed_AS:396280kB,VmallocTotal:34359738367kB,VmallocUsed:0kB,VmallocChunk:0kB,AnonHugePages:0kB,ShmemHugePages:0kB,ShmemPmdMapped:0kB,HugePages_Total:0,HugePages_Free:0,HugePages_Rsvd:0,HugePages_Surp:0,Hugepagesize:2048kB,DirectMap4k:18432kB,DirectMap2M:194560kB
+"
+2020-07-27 12:29:29.920,"processor: 0;vendor_id: GenuineIntel;cpu family: 6;model: 62;model name: Intel(R) Xeon(R) Processor @ 2.50GHz;stepping: 4;microcode: 0x1;cpu MHz: 2500.010;cache size: 33792 KB;physical id: 0;siblings: 2;core id: 0;cpu cores: 2;apicid: 0;initial apicid: 0;fpu: yes;fpu_exception: yes;cpuid level: 13;wp: yes;flags: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx rdtscp lm constant_tsc rep_good nopl xtopology nonstop_tsc cpuid tsc_known_freq pni pclmulqdq ssse3 cx16 pcid sse4_1 sse4_2 x2apic popcnt tsc_deadline_timer aes xsave avx f16c rdrand hypervisor lahf_lm cpuid_fault pti ssbd ibrs ibpb stibp fsgsbase tsc_adjust smep erms smap xsaveopt arat md_clear arch_capabilities;bugs: cpu_meltdown spectre_v1 spectre_v2 spec_store_bypass l1tf mds swapgs;bogomips: 5000.02;clflush size: 64;cache_alignment: 64;address sizes: 46 bits physical, 48 bits virtual;power management:;;processor: 1;vendor_id: GenuineIntel;cpu family: 6;model: 62;model name: Intel(R) Xeon(R) Processor @ 2.50GHz;stepping: 4;microcode: 0x1;cpu MHz: 2500.010;cache size: 33792 KB;physical id: 0;siblings: 2;core id: 1;cpu cores: 2;apicid: 1;initial apicid: 1;fpu: yes;fpu_exception: yes;cpuid level: 13;wp: yes;flags: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx rdtscp lm constant_tsc rep_good nopl xtopology nonstop_tsc cpuid tsc_known_freq pni pclmulqdq ssse3 cx16 pcid sse4_1 sse4_2 x2apic popcnt tsc_deadline_timer aes xsave avx f16c rdrand hypervisor lahf_lm cpuid_fault pti ssbd ibrs ibpb stibp fsgsbase tsc_adjust smep erms smap xsaveopt arat md_clear arch_capabilities;bugs: cpu_meltdown spectre_v1 spectre_v2 spec_store_bypass l1tf mds swapgs;bogomips: 5000.02;clflush size: 64;cache_alignment: 64;address sizes: 46 bits physical, 48 bits virtual;power management:;;
+"
+2020-07-27 12:29:29.920,"1754.93,3506.79
+"
+2020-07-27 12:29:29.916,"START RequestId: 937d61a6-8071-4547-8e15-ec727440f8b8 Version: $LATEST
+"
+2020-07-27 12:17:29.238,"END RequestId: 2d1a8c31-019c-487c-8ebd-ce672a3026dd
+"
+2020-07-27 12:17:29.238,"REPORT RequestId: 2d1a8c31-019c-487c-8ebd-ce672a3026dd	Duration: 1737.97 ms	Billed Duration: 1800 ms	Memory Size: 128 MB	Max Memory Used: 78 MB	Init Duration: 309.01 ms	
+"
+2020-07-27 12:17:27.847,"END RequestId: e434a28b-e5b5-482f-83e7-0c604e0ae9ef
+"
+2020-07-27 12:17:27.847,"REPORT RequestId: e434a28b-e5b5-482f-83e7-0c604e0ae9ef	Duration: 341.66 ms	Billed Duration: 400 ms	Memory Size: 128 MB	Max Memory Used: 80 MB	
+"
+2020-07-27 12:17:27.549,"b'35.172.223.224
+'
+"
+2020-07-27 12:17:27.549,"us-east-1
+"
+2020-07-27 12:17:27.535,"169.254.85.13
+"
+2020-07-27 12:17:27.535,"169.254.76.1
+"
+2020-07-27 12:17:27.535,"b'34.231.243.230
+'
+"
+2020-07-27 12:17:27.535,"us-east-1
+"
+2020-07-27 12:17:27.506,"MemTotal:192480kB,MemFree:46752kB,MemAvailable:131484kB,Buffers:11380kB,Cached:75516kB,SwapCached:0kB,Active:65940kB,Inactive:58108kB,Active(anon):37148kB,Inactive(anon):52kB,Active(file):28792kB,Inactive(file):58056kB,Unevictable:0kB,Mlocked:0kB,SwapTotal:0kB,SwapFree:0kB,Dirty:0kB,Writeback:0kB,AnonPages:37180kB,Mapped:39428kB,Shmem:52kB,Slab:14320kB,SReclaimable:5476kB,SUnreclaim:8844kB,KernelStack:1280kB,PageTables:1124kB,NFS_Unstable:0kB,Bounce:0kB,WritebackTmp:0kB,CommitLimit:96240kB,Committed_AS:403328kB,VmallocTotal:34359738367kB,VmallocUsed:0kB,VmallocChunk:0kB,AnonHugePages:0kB,ShmemHugePages:0kB,ShmemPmdMapped:0kB,HugePages_Total:0,HugePages_Free:0,HugePages_Rsvd:0,HugePages_Surp:0,Hugepagesize:2048kB,DirectMap4k:18432kB,DirectMap2M:194560kB
+"
+2020-07-27 12:17:27.506,"processor: 0;vendor_id: GenuineIntel;cpu family: 6;model: 62;model name: Intel(R) Xeon(R) Processor @ 2.50GHz;stepping: 4;microcode: 0x1;cpu MHz: 2500.000;cache size: 33792 KB;physical id: 0;siblings: 2;core id: 0;cpu cores: 2;apicid: 0;initial apicid: 0;fpu: yes;fpu_exception: yes;cpuid level: 13;wp: yes;flags: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx rdtscp lm constant_tsc rep_good nopl xtopology nonstop_tsc cpuid tsc_known_freq pni pclmulqdq ssse3 cx16 pcid sse4_1 sse4_2 x2apic popcnt tsc_deadline_timer aes xsave avx f16c rdrand hypervisor lahf_lm cpuid_fault pti ssbd ibrs ibpb stibp fsgsbase tsc_adjust smep erms smap xsaveopt arat md_clear arch_capabilities;bugs: cpu_meltdown spectre_v1 spectre_v2 spec_store_bypass l1tf mds swapgs;bogomips: 5000.00;clflush size: 64;cache_alignment: 64;address sizes: 46 bits physical, 48 bits virtual;power management:;;processor: 1;vendor_id: GenuineIntel;cpu family: 6;model: 62;model name: Intel(R) Xeon(R) Processor @ 2.50GHz;stepping: 4;microcode: 0x1;cpu MHz: 2500.000;cache size: 33792 KB;physical id: 0;siblings: 2;core id: 1;cpu cores: 2;apicid: 1;initial apicid: 1;fpu: yes;fpu_exception: yes;cpuid level: 13;wp: yes;flags: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx rdtscp lm constant_tsc rep_good nopl xtopology nonstop_tsc cpuid tsc_known_freq pni pclmulqdq ssse3 cx16 pcid sse4_1 sse4_2 x2apic popcnt tsc_deadline_timer aes xsave avx f16c rdrand hypervisor lahf_lm cpuid_fault pti ssbd ibrs ibpb stibp fsgsbase tsc_adjust smep erms smap xsaveopt arat md_clear arch_capabilities;bugs: cpu_meltdown spectre_v1 spectre_v2 spec_store_bypass l1tf mds swapgs;bogomips: 5000.00;clflush size: 64;cache_alignment: 64;address sizes: 46 bits physical, 48 bits virtual;power management:;;
+"
+2020-07-27 12:17:27.506,"2017.38,4032.18
+"
+2020-07-27 12:17:27.504,"169.254.140.37
+"
+2020-07-27 12:17:27.504,"169.254.76.1
+"
+2020-07-27 12:17:27.502,"START RequestId: e434a28b-e5b5-482f-83e7-0c604e0ae9ef Version: $LATEST
+"
+2020-07-27 12:17:27.502,"MemTotal:192480kB,MemFree:62416kB,MemAvailable:140468kB,Buffers:9248kB,Cached:72164kB,SwapCached:0kB,Active:52696kB,Inactive:57328kB,Active(anon):28608kB,Inactive(anon):52kB,Active(file):24088kB,Inactive(file):57276kB,Unevictable:0kB,Mlocked:0kB,SwapTotal:0kB,SwapFree:0kB,Dirty:12kB,Writeback:0kB,AnonPages:28644kB,Mapped:38248kB,Shmem:52kB,Slab:12756kB,SReclaimable:4232kB,SUnreclaim:8524kB,KernelStack:1276kB,PageTables:1080kB,NFS_Unstable:0kB,Bounce:0kB,WritebackTmp:0kB,CommitLimit:96240kB,Committed_AS:388424kB,VmallocTotal:34359738367kB,VmallocUsed:0kB,VmallocChunk:0kB,AnonHugePages:0kB,ShmemHugePages:0kB,ShmemPmdMapped:0kB,HugePages_Total:0,HugePages_Free:0,HugePages_Rsvd:0,HugePages_Surp:0,Hugepagesize:2048kB,DirectMap4k:18432kB,DirectMap2M:194560kB
+"
+2020-07-27 12:17:27.502,"processor: 0;vendor_id: GenuineIntel;cpu family: 6;model: 62;model name: Intel(R) Xeon(R) Processor @ 2.50GHz;stepping: 4;microcode: 0x1;cpu MHz: 2500.010;cache size: 33792 KB;physical id: 0;siblings: 2;core id: 0;cpu cores: 2;apicid: 0;initial apicid: 0;fpu: yes;fpu_exception: yes;cpuid level: 13;wp: yes;flags: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx rdtscp lm constant_tsc rep_good nopl xtopology nonstop_tsc cpuid tsc_known_freq pni pclmulqdq ssse3 cx16 pcid sse4_1 sse4_2 x2apic popcnt tsc_deadline_timer aes xsave avx f16c rdrand hypervisor lahf_lm cpuid_fault pti ssbd ibrs ibpb stibp fsgsbase tsc_adjust smep erms smap xsaveopt arat md_clear arch_capabilities;bugs: cpu_meltdown spectre_v1 spectre_v2 spec_store_bypass l1tf mds swapgs;bogomips: 5000.02;clflush size: 64;cache_alignment: 64;address sizes: 46 bits physical, 48 bits virtual;power management:;;processor: 1;vendor_id: GenuineIntel;cpu family: 6;model: 62;model name: Intel(R) Xeon(R) Processor @ 2.50GHz;stepping: 4;microcode: 0x1;cpu MHz: 2500.010;cache size: 33792 KB;physical id: 0;siblings: 2;core id: 1;cpu cores: 2;apicid: 1;initial apicid: 1;fpu: yes;fpu_exception: yes;cpuid level: 13;wp: yes;flags: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx rdtscp lm constant_tsc rep_good nopl xtopology nonstop_tsc cpuid tsc_known_freq pni pclmulqdq ssse3 cx16 pcid sse4_1 sse4_2 x2apic popcnt tsc_deadline_timer aes xsave avx f16c rdrand hypervisor lahf_lm cpuid_fault pti ssbd ibrs ibpb stibp fsgsbase tsc_adjust smep erms smap xsaveopt arat md_clear arch_capabilities;bugs: cpu_meltdown spectre_v1 spectre_v2 spec_store_bypass l1tf mds swapgs;bogomips: 5000.02;clflush size: 64;cache_alignment: 64;address sizes: 46 bits physical, 48 bits virtual;power management:;;
+"
+2020-07-27 12:17:27.502,"1032.52,2063.27
+"
+2020-07-27 12:17:27.498,"START RequestId: 2d1a8c31-019c-487c-8ebd-ce672a3026dd Version: $LATEST
+"
+2020-07-27 12:05:26.743,"END RequestId: 28e4f284-81af-4cff-a214-ad805ec336e9
+"
+2020-07-27 12:05:26.743,"REPORT RequestId: 28e4f284-81af-4cff-a214-ad805ec336e9	Duration: 1682.27 ms	Billed Duration: 1700 ms	Memory Size: 128 MB	Max Memory Used: 79 MB	Init Duration: 328.74 ms	
+"
+2020-07-27 12:05:25.084,"b'35.172.223.224
+'
+"
+2020-07-27 12:05:25.084,"us-east-1
+"
+2020-07-27 12:05:25.064,"169.254.85.13
+"
+2020-07-27 12:05:25.064,"169.254.76.1
+"
+2020-07-27 12:05:25.062,"MemTotal:192480kB,MemFree:62736kB,MemAvailable:140300kB,Buffers:9036kB,Cached:71916kB,SwapCached:0kB,Active:52632kB,Inactive:57524kB,Active(anon):29192kB,Inactive(anon):52kB,Active(file):23440kB,Inactive(file):57472kB,Unevictable:0kB,Mlocked:0kB,SwapTotal:0kB,SwapFree:0kB,Dirty:68kB,Writeback:0kB,AnonPages:29228kB,Mapped:38388kB,Shmem:52kB,Slab:12612kB,SReclaimable:4156kB,SUnreclaim:8456kB,KernelStack:1280kB,PageTables:1076kB,NFS_Unstable:0kB,Bounce:0kB,WritebackTmp:0kB,CommitLimit:96240kB,Committed_AS:387276kB,VmallocTotal:34359738367kB,VmallocUsed:0kB,VmallocChunk:0kB,AnonHugePages:0kB,ShmemHugePages:0kB,ShmemPmdMapped:0kB,HugePages_Total:0,HugePages_Free:0,HugePages_Rsvd:0,HugePages_Surp:0,Hugepagesize:2048kB,DirectMap4k:18432kB,DirectMap2M:194560kB
+"
+2020-07-27 12:05:25.062,"processor: 0;vendor_id: GenuineIntel;cpu family: 6;model: 62;model name: Intel(R) Xeon(R) Processor @ 2.50GHz;stepping: 4;microcode: 0x1;cpu MHz: 2500.000;cache size: 33792 KB;physical id: 0;siblings: 2;core id: 0;cpu cores: 2;apicid: 0;initial apicid: 0;fpu: yes;fpu_exception: yes;cpuid level: 13;wp: yes;flags: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx rdtscp lm constant_tsc rep_good nopl xtopology nonstop_tsc cpuid tsc_known_freq pni pclmulqdq ssse3 cx16 pcid sse4_1 sse4_2 x2apic popcnt tsc_deadline_timer aes xsave avx f16c rdrand hypervisor lahf_lm cpuid_fault pti ssbd ibrs ibpb stibp fsgsbase tsc_adjust smep erms smap xsaveopt arat md_clear arch_capabilities;bugs: cpu_meltdown spectre_v1 spectre_v2 spec_store_bypass l1tf mds swapgs;bogomips: 5000.00;clflush size: 64;cache_alignment: 64;address sizes: 46 bits physical, 48 bits virtual;power management:;;processor: 1;vendor_id: GenuineIntel;cpu family: 6;model: 62;model name: Intel(R) Xeon(R) Processor @ 2.50GHz;stepping: 4;microcode: 0x1;cpu MHz: 2500.000;cache size: 33792 KB;physical id: 0;siblings: 2;core id: 1;cpu cores: 2;apicid: 1;initial apicid: 1;fpu: yes;fpu_exception: yes;cpuid level: 13;wp: yes;flags: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx rdtscp lm constant_tsc rep_good nopl xtopology nonstop_tsc cpuid tsc_known_freq pni pclmulqdq ssse3 cx16 pcid sse4_1 sse4_2 x2apic popcnt tsc_deadline_timer aes xsave avx f16c rdrand hypervisor lahf_lm cpuid_fault pti ssbd ibrs ibpb stibp fsgsbase tsc_adjust smep erms smap xsaveopt arat md_clear arch_capabilities;bugs: cpu_meltdown spectre_v1 spectre_v2 spec_store_bypass l1tf mds swapgs;bogomips: 5000.00;clflush size: 64;cache_alignment: 64;address sizes: 46 bits physical, 48 bits virtual;power management:;;
+"
+2020-07-27 12:05:25.062,"1294.94,2588.61
+"
+2020-07-27 12:05:25.060,"START RequestId: 28e4f284-81af-4cff-a214-ad805ec336e9 Version: $LATEST
+"
+2020-07-27 12:05:24.967,"END RequestId: 19efacf6-1867-4654-8a72-c9ba8bae7c8d
+"
+2020-07-27 12:05:24.967,"REPORT RequestId: 19efacf6-1867-4654-8a72-c9ba8bae7c8d	Duration: 330.00 ms	Billed Duration: 400 ms	Memory Size: 128 MB	Max Memory Used: 79 MB	
+"
+2020-07-27 12:05:24.651,"b'3.235.55.26
+'
+"
+2020-07-27 12:05:24.651,"us-east-1
+"
+2020-07-27 12:05:24.640,"169.254.86.157
+"
+2020-07-27 12:05:24.640,"169.254.76.1
+"
+2020-07-27 12:05:24.638,"MemTotal:192480kB,MemFree:47720kB,MemAvailable:132332kB,Buffers:11412kB,Cached:75396kB,SwapCached:0kB,Active:65052kB,Inactive:58068kB,Active(anon):36324kB,Inactive(anon):52kB,Active(file):28728kB,Inactive(file):58016kB,Unevictable:0kB,Mlocked:0kB,SwapTotal:0kB,SwapFree:0kB,Dirty:4kB,Writeback:0kB,AnonPages:36360kB,Mapped:39160kB,Shmem:52kB,Slab:14308kB,SReclaimable:5460kB,SUnreclaim:8848kB,KernelStack:1276kB,PageTables:1108kB,NFS_Unstable:0kB,Bounce:0kB,WritebackTmp:0kB,CommitLimit:96240kB,Committed_AS:403324kB,VmallocTotal:34359738367kB,VmallocUsed:0kB,VmallocChunk:0kB,AnonHugePages:0kB,ShmemHugePages:0kB,ShmemPmdMapped:0kB,HugePages_Total:0,HugePages_Free:0,HugePages_Rsvd:0,HugePages_Surp:0,Hugepagesize:2048kB,DirectMap4k:18432kB,DirectMap2M:194560kB
+"
+2020-07-27 12:05:24.638,"processor: 0;vendor_id: GenuineIntel;cpu family: 6;model: 62;model name: Intel(R) Xeon(R) Processor @ 2.50GHz;stepping: 4;microcode: 0x1;cpu MHz: 2500.010;cache size: 36608 KB;physical id: 0;siblings: 2;core id: 0;cpu cores: 2;apicid: 0;initial apicid: 0;fpu: yes;fpu_exception: yes;cpuid level: 13;wp: yes;flags: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx rdtscp lm constant_tsc rep_good nopl xtopology nonstop_tsc cpuid tsc_known_freq pni pclmulqdq ssse3 cx16 pcid sse4_1 sse4_2 x2apic popcnt tsc_deadline_timer aes xsave avx f16c rdrand hypervisor lahf_lm cpuid_fault ssbd ibrs ibpb stibp ibrs_enhanced fsgsbase tsc_adjust smep erms smap xsaveopt arat md_clear arch_capabilities;bugs: spectre_v1 spectre_v2 spec_store_bypass swapgs;bogomips: 5000.02;clflush size: 64;cache_alignment: 64;address sizes: 46 bits physical, 48 bits virtual;power management:;;processor: 1;vendor_id: GenuineIntel;cpu family: 6;model: 62;model name: Intel(R) Xeon(R) Processor @ 2.50GHz;stepping: 4;microcode: 0x1;cpu MHz: 2500.010;cache size: 36608 KB;physical id: 0;siblings: 2;core id: 1;cpu cores: 2;apicid: 1;initial apicid: 1;fpu: yes;fpu_exception: yes;cpuid level: 13;wp: yes;flags: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx rdtscp lm constant_tsc rep_good nopl xtopology nonstop_tsc cpuid tsc_known_freq pni pclmulqdq ssse3 cx16 pcid sse4_1 sse4_2 x2apic popcnt tsc_deadline_timer aes xsave avx f16c rdrand hypervisor lahf_lm cpuid_fault ssbd ibrs ibpb stibp ibrs_enhanced fsgsbase tsc_adjust smep erms smap xsaveopt arat md_clear arch_capabilities;bugs: spectre_v1 spectre_v2 spec_store_bypass swapgs;bogomips: 5000.02;clflush size: 64;cache_alignment: 64;address sizes: 46 bits physical, 48 bits virtual;power management:;;
+"
+2020-07-27 12:05:24.638,"1993.07,3984.08
+"
+2020-07-27 12:05:24.635,"START RequestId: 19efacf6-1867-4654-8a72-c9ba8bae7c8d Version: $LATEST
+"
+2020-07-27 11:53:23.769,"END RequestId: c1d171dc-748c-4080-8a6c-3d1ac2cdf8a5
+"
+2020-07-27 11:53:23.769,"REPORT RequestId: c1d171dc-748c-4080-8a6c-3d1ac2cdf8a5	Duration: 1594.50 ms	Billed Duration: 1600 ms	Memory Size: 128 MB	Max Memory Used: 78 MB	Init Duration: 284.59 ms	
+"
+2020-07-27 11:53:22.210,"b'3.235.55.26
+'
+"
+2020-07-27 11:53:22.210,"us-east-1
+"
+2020-07-27 11:53:22.190,"169.254.86.157
+"
+2020-07-27 11:53:22.190,"169.254.76.1
+"
+2020-07-27 11:53:22.176,"MemTotal:192480kB,MemFree:63276kB,MemAvailable:140704kB,Buffers:9028kB,Cached:71796kB,SwapCached:0kB,Active:52040kB,Inactive:57460kB,Active(anon):28664kB,Inactive(anon):52kB,Active(file):23376kB,Inactive(file):57408kB,Unevictable:0kB,Mlocked:0kB,SwapTotal:0kB,SwapFree:0kB,Dirty:72kB,Writeback:0kB,AnonPages:28704kB,Mapped:37952kB,Shmem:52kB,Slab:12740kB,SReclaimable:4140kB,SUnreclaim:8600kB,KernelStack:1280kB,PageTables:1064kB,NFS_Unstable:0kB,Bounce:0kB,WritebackTmp:0kB,CommitLimit:96240kB,Committed_AS:387272kB,VmallocTotal:34359738367kB,VmallocUsed:0kB,VmallocChunk:0kB,AnonHugePages:0kB,ShmemHugePages:0kB,ShmemPmdMapped:0kB,HugePages_Total:0,HugePages_Free:0,HugePages_Rsvd:0,HugePages_Surp:0,Hugepagesize:2048kB,DirectMap4k:18432kB,DirectMap2M:194560kB
+"
+2020-07-27 11:53:22.176,"processor: 0;vendor_id: GenuineIntel;cpu family: 6;model: 62;model name: Intel(R) Xeon(R) Processor @ 2.50GHz;stepping: 4;microcode: 0x1;cpu MHz: 2500.010;cache size: 36608 KB;physical id: 0;siblings: 2;core id: 0;cpu cores: 2;apicid: 0;initial apicid: 0;fpu: yes;fpu_exception: yes;cpuid level: 13;wp: yes;flags: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx rdtscp lm constant_tsc rep_good nopl xtopology nonstop_tsc cpuid tsc_known_freq pni pclmulqdq ssse3 cx16 pcid sse4_1 sse4_2 x2apic popcnt tsc_deadline_timer aes xsave avx f16c rdrand hypervisor lahf_lm cpuid_fault ssbd ibrs ibpb stibp ibrs_enhanced fsgsbase tsc_adjust smep erms smap xsaveopt arat md_clear arch_capabilities;bugs: spectre_v1 spectre_v2 spec_store_bypass swapgs;bogomips: 5000.02;clflush size: 64;cache_alignment: 64;address sizes: 46 bits physical, 48 bits virtual;power management:;;processor: 1;vendor_id: GenuineIntel;cpu family: 6;model: 62;model name: Intel(R) Xeon(R) Processor @ 2.50GHz;stepping: 4;microcode: 0x1;cpu MHz: 2500.010;cache size: 36608 KB;physical id: 0;siblings: 2;core id: 1;cpu cores: 2;apicid: 1;initial apicid: 1;fpu: yes;fpu_exception: yes;cpuid level: 13;wp: yes;flags: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx rdtscp lm constant_tsc rep_good nopl xtopology nonstop_tsc cpuid tsc_known_freq pni pclmulqdq ssse3 cx16 pcid sse4_1 sse4_2 x2apic popcnt tsc_deadline_timer aes xsave avx f16c rdrand hypervisor lahf_lm cpuid_fault ssbd ibrs ibpb stibp ibrs_enhanced fsgsbase tsc_adjust smep erms smap xsaveopt arat md_clear arch_capabilities;bugs: spectre_v1 spectre_v2 spec_store_bypass swapgs;bogomips: 5000.02;clflush size: 64;cache_alignment: 64;address sizes: 46 bits physical, 48 bits virtual;power management:;;
+"
+2020-07-27 11:53:22.176,"1270.60,2540.10
+"
+2020-07-27 11:53:22.174,"START RequestId: c1d171dc-748c-4080-8a6c-3d1ac2cdf8a5 Version: $LATEST
+"
+2020-07-27 11:53:22.080,"END RequestId: 0556124e-ac52-4b77-9975-d99acf5c7811
+"
+2020-07-27 11:53:22.080,"REPORT RequestId: 0556124e-ac52-4b77-9975-d99acf5c7811	Duration: 288.10 ms	Billed Duration: 300 ms	Memory Size: 128 MB	Max Memory Used: 79 MB	
+"
+2020-07-27 11:53:21.819,"b'3.236.252.106
+'
+"
+2020-07-27 11:53:21.819,"us-east-1
+"
+2020-07-27 11:53:21.796,"169.254.48.133
+"
+2020-07-27 11:53:21.796,"169.254.76.1
+"
+2020-07-27 11:53:21.793,"MemTotal:192480kB,MemFree:47532kB,MemAvailable:132412kB,Buffers:11388kB,Cached:75612kB,SwapCached:0kB,Active:65152kB,Inactive:58180kB,Active(anon):36336kB,Inactive(anon):52kB,Active(file):28816kB,Inactive(file):58128kB,Unevictable:0kB,Mlocked:0kB,SwapTotal:0kB,SwapFree:0kB,Dirty:32kB,Writeback:0kB,AnonPages:36372kB,Mapped:38880kB,Shmem:52kB,Slab:14300kB,SReclaimable:5528kB,SUnreclaim:8772kB,KernelStack:1276kB,PageTables:1116kB,NFS_Unstable:0kB,Bounce:0kB,WritebackTmp:0kB,CommitLimit:96240kB,Committed_AS:403516kB,VmallocTotal:34359738367kB,VmallocUsed:0kB,VmallocChunk:0kB,AnonHugePages:0kB,ShmemHugePages:0kB,ShmemPmdMapped:0kB,HugePages_Total:0,HugePages_Free:0,HugePages_Rsvd:0,HugePages_Surp:0,Hugepagesize:2048kB,DirectMap4k:20480kB,DirectMap2M:192512kB
+"
+2020-07-27 11:53:21.793,"processor: 0;vendor_id: GenuineIntel;cpu family: 6;model: 62;model name: Intel(R) Xeon(R) Processor @ 2.50GHz;stepping: 4;microcode: 0x1;cpu MHz: 2500.012;cache size: 33792 KB;physical id: 0;siblings: 2;core id: 0;cpu cores: 2;apicid: 0;initial apicid: 0;fpu: yes;fpu_exception: yes;cpuid level: 13;wp: yes;flags: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx rdtscp lm constant_tsc rep_good nopl xtopology nonstop_tsc cpuid tsc_known_freq pni pclmulqdq ssse3 cx16 pcid sse4_1 sse4_2 x2apic popcnt tsc_deadline_timer aes xsave avx f16c rdrand hypervisor lahf_lm cpuid_fault pti ssbd ibrs ibpb stibp fsgsbase tsc_adjust smep erms smap xsaveopt arat md_clear arch_capabilities;bugs: cpu_meltdown spectre_v1 spectre_v2 spec_store_bypass l1tf mds swapgs;bogomips: 5000.02;clflush size: 64;cache_alignment: 64;address sizes: 46 bits physical, 48 bits virtual;power management:;;processor: 1;vendor_id: GenuineIntel;cpu family: 6;model: 62;model name: Intel(R) Xeon(R) Processor @ 2.50GHz;stepping: 4;microcode: 0x1;cpu MHz: 2500.012;cache size: 33792 KB;physical id: 0;siblings: 2;core id: 1;cpu cores: 2;apicid: 1;initial apicid: 1;fpu: yes;fpu_exception: yes;cpuid level: 13;wp: yes;flags: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx rdtscp lm constant_tsc rep_good nopl xtopology nonstop_tsc cpuid tsc_known_freq pni pclmulqdq ssse3 cx16 pcid sse4_1 sse4_2 x2apic popcnt tsc_deadline_timer aes xsave avx f16c rdrand hypervisor lahf_lm cpuid_fault pti ssbd ibrs ibpb stibp fsgsbase tsc_adjust smep erms smap xsaveopt arat md_clear arch_capabilities;bugs: cpu_meltdown spectre_v1 spectre_v2 spec_store_bypass l1tf mds swapgs;bogomips: 5000.02;clflush size: 64;cache_alignment: 64;address sizes: 46 bits physical, 48 bits virtual;power management:;;
+"
+2020-07-27 11:53:21.793,"1888.01,3773.31
+"
+2020-07-27 11:53:21.789,"START RequestId: 0556124e-ac52-4b77-9975-d99acf5c7811 Version: $LATEST
+"
+2020-07-27 11:41:20.889,"END RequestId: 23db438e-1e17-4cca-887a-8bfd131279d9
+"
+2020-07-27 11:41:20.889,"REPORT RequestId: 23db438e-1e17-4cca-887a-8bfd131279d9	Duration: 1725.66 ms	Billed Duration: 1800 ms	Memory Size: 128 MB	Max Memory Used: 78 MB	Init Duration: 318.93 ms	
+"
+2020-07-27 11:41:19.189,"b'3.236.252.106
+'
+"
+2020-07-27 11:41:19.189,"us-east-1
+"
+2020-07-27 11:41:19.168,"169.254.48.133
+"
+2020-07-27 11:41:19.168,"169.254.76.1
+"
+2020-07-27 11:41:19.164,"MemTotal:192480kB,MemFree:63464kB,MemAvailable:141020kB,Buffers:9080kB,Cached:71884kB,SwapCached:0kB,Active:52064kB,Inactive:57488kB,Active(anon):28608kB,Inactive(anon):52kB,Active(file):23456kB,Inactive(file):57436kB,Unevictable:0kB,Mlocked:0kB,SwapTotal:0kB,SwapFree:0kB,Dirty:72kB,Writeback:0kB,AnonPages:28680kB,Mapped:37440kB,Shmem:52kB,Slab:12464kB,SReclaimable:4184kB,SUnreclaim:8280kB,KernelStack:1280kB,PageTables:1068kB,NFS_Unstable:0kB,Bounce:0kB,WritebackTmp:0kB,CommitLimit:96240kB,Committed_AS:387272kB,VmallocTotal:34359738367kB,VmallocUsed:0kB,VmallocChunk:0kB,AnonHugePages:0kB,ShmemHugePages:0kB,ShmemPmdMapped:0kB,HugePages_Total:0,HugePages_Free:0,HugePages_Rsvd:0,HugePages_Surp:0,Hugepagesize:2048kB,DirectMap4k:20480kB,DirectMap2M:192512kB
+"
+2020-07-27 11:41:19.164,"processor: 0;vendor_id: GenuineIntel;cpu family: 6;model: 62;model name: Intel(R) Xeon(R) Processor @ 2.50GHz;stepping: 4;microcode: 0x1;cpu MHz: 2500.012;cache size: 33792 KB;physical id: 0;siblings: 2;core id: 0;cpu cores: 2;apicid: 0;initial apicid: 0;fpu: yes;fpu_exception: yes;cpuid level: 13;wp: yes;flags: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx rdtscp lm constant_tsc rep_good nopl xtopology nonstop_tsc cpuid tsc_known_freq pni pclmulqdq ssse3 cx16 pcid sse4_1 sse4_2 x2apic popcnt tsc_deadline_timer aes xsave avx f16c rdrand hypervisor lahf_lm cpuid_fault pti ssbd ibrs ibpb stibp fsgsbase tsc_adjust smep erms smap xsaveopt arat md_clear arch_capabilities;bugs: cpu_meltdown spectre_v1 spectre_v2 spec_store_bypass l1tf mds swapgs;bogomips: 5000.02;clflush size: 64;cache_alignment: 64;address sizes: 46 bits physical, 48 bits virtual;power management:;;processor: 1;vendor_id: GenuineIntel;cpu family: 6;model: 62;model name: Intel(R) Xeon(R) Processor @ 2.50GHz;stepping: 4;microcode: 0x1;cpu MHz: 2500.012;cache size: 33792 KB;physical id: 0;siblings: 2;core id: 1;cpu cores: 2;apicid: 1;initial apicid: 1;fpu: yes;fpu_exception: yes;cpuid level: 13;wp: yes;flags: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx rdtscp lm constant_tsc rep_good nopl xtopology nonstop_tsc cpuid tsc_known_freq pni pclmulqdq ssse3 cx16 pcid sse4_1 sse4_2 x2apic popcnt tsc_deadline_timer aes xsave avx f16c rdrand hypervisor lahf_lm cpuid_fault pti ssbd ibrs ibpb stibp fsgsbase tsc_adjust smep erms smap xsaveopt arat md_clear arch_capabilities;bugs: cpu_meltdown spectre_v1 spectre_v2 spec_store_bypass l1tf mds swapgs;bogomips: 5000.02;clflush size: 64;cache_alignment: 64;address sizes: 46 bits physical, 48 bits virtual;power management:;;
+"
+2020-07-27 11:41:19.164,"1165.39,2329.52
+"
+2020-07-27 11:41:19.162,"START RequestId: 23db438e-1e17-4cca-887a-8bfd131279d9 Version: $LATEST
+"
+2020-07-27 11:41:19.053,"END RequestId: 1d069291-6662-439e-9c5b-23b13f807d39
+"
+2020-07-27 11:41:19.053,"REPORT RequestId: 1d069291-6662-439e-9c5b-23b13f807d39	Duration: 350.91 ms	Billed Duration: 400 ms	Memory Size: 128 MB	Max Memory Used: 79 MB	
+"
+2020-07-27 11:41:18.737,"b'3.236.170.81
+'
+"
+2020-07-27 11:41:18.737,"us-east-1
+"
+2020-07-27 11:41:18.704,"169.254.53.133
+"
+2020-07-27 11:41:18.704,"169.254.76.1
+"
+2020-07-27 11:41:18.703,"MemTotal:192480kB,MemFree:47544kB,MemAvailable:132200kB,Buffers:11352kB,Cached:75496kB,SwapCached:0kB,Active:65088kB,Inactive:58160kB,Active(anon):36388kB,Inactive(anon):52kB,Active(file):28700kB,Inactive(file):58108kB,Unevictable:0kB,Mlocked:0kB,SwapTotal:0kB,SwapFree:0kB,Dirty:0kB,Writeback:0kB,AnonPages:36388kB,Mapped:39184kB,Shmem:52kB,Slab:14388kB,SReclaimable:5440kB,SUnreclaim:8948kB,KernelStack:1292kB,PageTables:1076kB,NFS_Unstable:0kB,Bounce:0kB,WritebackTmp:0kB,CommitLimit:96240kB,Committed_AS:411524kB,VmallocTotal:34359738367kB,VmallocUsed:0kB,VmallocChunk:0kB,AnonHugePages:0kB,ShmemHugePages:0kB,ShmemPmdMapped:0kB,HugePages_Total:0,HugePages_Free:0,HugePages_Rsvd:0,HugePages_Surp:0,Hugepagesize:2048kB,DirectMap4k:20480kB,DirectMap2M:192512kB
+"
+2020-07-27 11:41:18.703,"processor: 0;vendor_id: GenuineIntel;cpu family: 6;model: 62;model name: Intel(R) Xeon(R) Processor @ 2.50GHz;stepping: 4;microcode: 0x1;cpu MHz: 2500.010;cache size: 33792 KB;physical id: 0;siblings: 2;core id: 0;cpu cores: 2;apicid: 0;initial apicid: 0;fpu: yes;fpu_exception: yes;cpuid level: 13;wp: yes;flags: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx rdtscp lm constant_tsc rep_good nopl xtopology nonstop_tsc cpuid tsc_known_freq pni pclmulqdq ssse3 cx16 pcid sse4_1 sse4_2 x2apic popcnt tsc_deadline_timer aes xsave avx f16c rdrand hypervisor lahf_lm cpuid_fault pti ssbd ibrs ibpb stibp fsgsbase tsc_adjust smep erms smap xsaveopt arat md_clear arch_capabilities;bugs: cpu_meltdown spectre_v1 spectre_v2 spec_store_bypass l1tf mds swapgs;bogomips: 5000.02;clflush size: 64;cache_alignment: 64;address sizes: 46 bits physical, 48 bits virtual;power management:;;processor: 1;vendor_id: GenuineIntel;cpu family: 6;model: 62;model name: Intel(R) Xeon(R) Processor @ 2.50GHz;stepping: 4;microcode: 0x1;cpu MHz: 2500.010;cache size: 33792 KB;physical id: 0;siblings: 2;core id: 1;cpu cores: 2;apicid: 1;initial apicid: 1;fpu: yes;fpu_exception: yes;cpuid level: 13;wp: yes;flags: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx rdtscp lm constant_tsc rep_good nopl xtopology nonstop_tsc cpuid tsc_known_freq pni pclmulqdq ssse3 cx16 pcid sse4_1 sse4_2 x2apic popcnt tsc_deadline_timer aes xsave avx f16c rdrand hypervisor lahf_lm cpuid_fault pti ssbd ibrs ibpb stibp fsgsbase tsc_adjust smep erms smap xsaveopt arat md_clear arch_capabilities;bugs: cpu_meltdown spectre_v1 spectre_v2 spec_store_bypass l1tf mds swapgs;bogomips: 5000.02;clflush size: 64;cache_alignment: 64;address sizes: 46 bits physical, 48 bits virtual;power management:;;
+"
+2020-07-27 11:41:18.703,"1655.37,3308.31
+"
+2020-07-27 11:41:18.697,"START RequestId: 1d069291-6662-439e-9c5b-23b13f807d39 Version: $LATEST
+"
+2020-07-27 11:29:17.824,"END RequestId: 991ff438-3c3d-405e-9c87-188ead720bb0
+"
+2020-07-27 11:29:17.824,"REPORT RequestId: 991ff438-3c3d-405e-9c87-188ead720bb0	Duration: 1719.26 ms	Billed Duration: 1800 ms	Memory Size: 128 MB	Max Memory Used: 78 MB	Init Duration: 312.38 ms	
+"
+2020-07-27 11:29:16.163,"b'3.236.170.81
+'
+"
+2020-07-27 11:29:16.163,"us-east-1
+"
+2020-07-27 11:29:16.126,"169.254.53.133
+"
+2020-07-27 11:29:16.126,"169.254.76.1
+"
+2020-07-27 11:29:16.106,"MemTotal:192480kB,MemFree:63112kB,MemAvailable:140676kB,Buffers:9028kB,Cached:71920kB,SwapCached:0kB,Active:52156kB,Inactive:57568kB,Active(anon):28736kB,Inactive(anon):44kB,Active(file):23420kB,Inactive(file):57524kB,Unevictable:0kB,Mlocked:0kB,SwapTotal:0kB,SwapFree:0kB,Dirty:64kB,Writeback:0kB,AnonPages:28792kB,Mapped:37924kB,Shmem:44kB,Slab:12576kB,SReclaimable:4092kB,SUnreclaim:8484kB,KernelStack:1296kB,PageTables:1044kB,NFS_Unstable:0kB,Bounce:0kB,WritebackTmp:0kB,CommitLimit:96240kB,Committed_AS:395472kB,VmallocTotal:34359738367kB,VmallocUsed:0kB,VmallocChunk:0kB,AnonHugePages:0kB,ShmemHugePages:0kB,ShmemPmdMapped:0kB,HugePages_Total:0,HugePages_Free:0,HugePages_Rsvd:0,HugePages_Surp:0,Hugepagesize:2048kB,DirectMap4k:20480kB,DirectMap2M:192512kB
+"
+2020-07-27 11:29:16.106,"processor: 0;vendor_id: GenuineIntel;cpu family: 6;model: 62;model name: Intel(R) Xeon(R) Processor @ 2.50GHz;stepping: 4;microcode: 0x1;cpu MHz: 2500.010;cache size: 33792 KB;physical id: 0;siblings: 2;core id: 0;cpu cores: 2;apicid: 0;initial apicid: 0;fpu: yes;fpu_exception: yes;cpuid level: 13;wp: yes;flags: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx rdtscp lm constant_tsc rep_good nopl xtopology nonstop_tsc cpuid tsc_known_freq pni pclmulqdq ssse3 cx16 pcid sse4_1 sse4_2 x2apic popcnt tsc_deadline_timer aes xsave avx f16c rdrand hypervisor lahf_lm cpuid_fault pti ssbd ibrs ibpb stibp fsgsbase tsc_adjust smep erms smap xsaveopt arat md_clear arch_capabilities;bugs: cpu_meltdown spectre_v1 spectre_v2 spec_store_bypass l1tf mds swapgs;bogomips: 5000.02;clflush size: 64;cache_alignment: 64;address sizes: 46 bits physical, 48 bits virtual;power management:;;processor: 1;vendor_id: GenuineIntel;cpu family: 6;model: 62;model name: Intel(R) Xeon(R) Processor @ 2.50GHz;stepping: 4;microcode: 0x1;cpu MHz: 2500.010;cache size: 33792 KB;physical id: 0;siblings: 2;core id: 1;cpu cores: 2;apicid: 1;initial apicid: 1;fpu: yes;fpu_exception: yes;cpuid level: 13;wp: yes;flags: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx rdtscp lm constant_tsc rep_good nopl xtopology nonstop_tsc cpuid tsc_known_freq pni pclmulqdq ssse3 cx16 pcid sse4_1 sse4_2 x2apic popcnt tsc_deadline_timer aes xsave avx f16c rdrand hypervisor lahf_lm cpuid_fault pti ssbd ibrs ibpb stibp fsgsbase tsc_adjust smep erms smap xsaveopt arat md_clear arch_capabilities;bugs: cpu_meltdown spectre_v1 spectre_v2 spec_store_bypass l1tf mds swapgs;bogomips: 5000.02;clflush size: 64;cache_alignment: 64;address sizes: 46 bits physical, 48 bits virtual;power management:;;
+"
+2020-07-27 11:29:16.106,"932.78,1864.41
+"
+2020-07-27 11:29:16.104,"START RequestId: 991ff438-3c3d-405e-9c87-188ead720bb0 Version: $LATEST
+"
+2020-07-27 11:29:16.006,"END RequestId: f713bcad-e2db-4381-97ab-4b34f27cc6e2
+"
+2020-07-27 11:29:16.006,"REPORT RequestId: f713bcad-e2db-4381-97ab-4b34f27cc6e2	Duration: 304.45 ms	Billed Duration: 400 ms	Memory Size: 128 MB	Max Memory Used: 79 MB	
+"
+2020-07-27 11:29:15.739,"b'34.204.85.196
+'
+"
+2020-07-27 11:29:15.739,"us-east-1
+"
+2020-07-27 11:29:15.705,"169.254.58.221
+"
+2020-07-27 11:29:15.705,"169.254.76.1
+"
+2020-07-27 11:29:15.703,"processor: 0;vendor_id: GenuineIntel;cpu family: 6;model: 62;model name: Intel(R) Xeon(R) Processor @ 2.50GHz;stepping: 4;microcode: 0x1;cpu MHz: 2500.008;cache size: 36608 KB;physical id: 0;siblings: 2;core id: 0;cpu cores: 2;apicid: 0;initial apicid: 0;fpu: yes;fpu_exception: yes;cpuid level: 13;wp: yes;flags: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx rdtscp lm constant_tsc rep_good nopl xtopology nonstop_tsc cpuid tsc_known_freq pni pclmulqdq ssse3 cx16 pcid sse4_1 sse4_2 x2apic popcnt tsc_deadline_timer aes xsave avx f16c rdrand hypervisor lahf_lm cpuid_fault ssbd ibrs ibpb stibp ibrs_enhanced fsgsbase tsc_adjust smep erms smap xsaveopt arat md_clear arch_capabilities;bugs: spectre_v1 spectre_v2 spec_store_bypass swapgs;bogomips: 5000.01;clflush size: 64;cache_alignment: 64;address sizes: 46 bits physical, 48 bits virtual;power management:;;processor: 1;vendor_id: GenuineIntel;cpu family: 6;model: 62;model name: Intel(R) Xeon(R) Processor @ 2.50GHz;stepping: 4;microcode: 0x1;cpu MHz: 2500.008;cache size: 36608 KB;physical id: 0;siblings: 2;core id: 1;cpu cores: 2;apicid: 1;initial apicid: 1;fpu: yes;fpu_exception: yes;cpuid level: 13;wp: yes;flags: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx rdtscp lm constant_tsc rep_good nopl xtopology nonstop_tsc cpuid tsc_known_freq pni pclmulqdq ssse3 cx16 pcid sse4_1 sse4_2 x2apic popcnt tsc_deadline_timer aes xsave avx f16c rdrand hypervisor lahf_lm cpuid_fault ssbd ibrs ibpb stibp ibrs_enhanced fsgsbase tsc_adjust smep erms smap xsaveopt arat md_clear arch_capabilities;bugs: spectre_v1 spectre_v2 spec_store_bypass swapgs;bogomips: 5000.01;clflush size: 64;cache_alignment: 64;address sizes: 46 bits physical, 48 bits virtual;power management:;;
+"
+2020-07-27 11:29:15.703,"1744.97,3487.70
+"
+2020-07-27 11:29:15.702,"MemTotal:192480kB,MemFree:47668kB,MemAvailable:132068kB,Buffers:11304kB,Cached:75244kB,SwapCached:0kB,Active:65388kB,Inactive:57828kB,Active(anon):36656kB,Inactive(anon):52kB,Active(file):28732kB,Inactive(file):57776kB,Unevictable:0kB,Mlocked:0kB,SwapTotal:0kB,SwapFree:0kB,Dirty:24kB,Writeback:0kB,AnonPages:36660kB,Mapped:38920kB,Shmem:52kB,Slab:14364kB,SReclaimable:5484kB,SUnreclaim:8880kB,KernelStack:1280kB,PageTables:1116kB,NFS_Unstable:0kB,Bounce:0kB,WritebackTmp:0kB,CommitLimit:96240kB,Committed_AS:403328kB,VmallocTotal:34359738367kB,VmallocUsed:0kB,VmallocChunk:0kB,AnonHugePages:0kB,ShmemHugePages:0kB,ShmemPmdMapped:0kB,HugePages_Total:0,HugePages_Free:0,HugePages_Rsvd:0,HugePages_Surp:0,Hugepagesize:2048kB,DirectMap4k:14336kB,DirectMap2M:198656kB
+"
+2020-07-27 11:29:15.699,"START RequestId: f713bcad-e2db-4381-97ab-4b34f27cc6e2 Version: $LATEST
+"
+2020-07-27 11:17:14.936,"END RequestId: 48d7f554-5e59-47e9-8baa-f4c1245ae992
+"
+2020-07-27 11:17:14.936,"REPORT RequestId: 48d7f554-5e59-47e9-8baa-f4c1245ae992	Duration: 1589.55 ms	Billed Duration: 1600 ms	Memory Size: 128 MB	Max Memory Used: 78 MB	Init Duration: 291.42 ms	
+"
+2020-07-27 11:17:13.376,"b'34.204.85.196
+'
+"
+2020-07-27 11:17:13.376,"us-east-1
+"
+2020-07-27 11:17:13.358,"169.254.58.221
+"
+2020-07-27 11:17:13.358,"169.254.76.1
+"
+2020-07-27 11:17:13.348,"MemTotal:192480kB,MemFree:63000kB,MemAvailable:140232kB,Buffers:9052kB,Cached:71620kB,SwapCached:0kB,Active:52548kB,Inactive:57116kB,Active(anon):29016kB,Inactive(anon):44kB,Active(file):23532kB,Inactive(file):57072kB,Unevictable:0kB,Mlocked:0kB,SwapTotal:0kB,SwapFree:0kB,Dirty:44kB,Writeback:0kB,AnonPages:29052kB,Mapped:37648kB,Shmem:44kB,Slab:12800kB,SReclaimable:4112kB,SUnreclaim:8688kB,KernelStack:1296kB,PageTables:1064kB,NFS_Unstable:0kB,Bounce:0kB,WritebackTmp:0kB,CommitLimit:96240kB,Committed_AS:395472kB,VmallocTotal:34359738367kB,VmallocUsed:0kB,VmallocChunk:0kB,AnonHugePages:0kB,ShmemHugePages:0kB,ShmemPmdMapped:0kB,HugePages_Total:0,HugePages_Free:0,HugePages_Rsvd:0,HugePages_Surp:0,Hugepagesize:2048kB,DirectMap4k:14336kB,DirectMap2M:198656kB
+"
+2020-07-27 11:17:13.348,"processor: 0;vendor_id: GenuineIntel;cpu family: 6;model: 62;model name: Intel(R) Xeon(R) Processor @ 2.50GHz;stepping: 4;microcode: 0x1;cpu MHz: 2500.008;cache size: 36608 KB;physical id: 0;siblings: 2;core id: 0;cpu cores: 2;apicid: 0;initial apicid: 0;fpu: yes;fpu_exception: yes;cpuid level: 13;wp: yes;flags: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx rdtscp lm constant_tsc rep_good nopl xtopology nonstop_tsc cpuid tsc_known_freq pni pclmulqdq ssse3 cx16 pcid sse4_1 sse4_2 x2apic popcnt tsc_deadline_timer aes xsave avx f16c rdrand hypervisor lahf_lm cpuid_fault ssbd ibrs ibpb stibp ibrs_enhanced fsgsbase tsc_adjust smep erms smap xsaveopt arat md_clear arch_capabilities;bugs: spectre_v1 spectre_v2 spec_store_bypass swapgs;bogomips: 5000.01;clflush size: 64;cache_alignment: 64;address sizes: 46 bits physical, 48 bits virtual;power management:;;processor: 1;vendor_id: GenuineIntel;cpu family: 6;model: 62;model name: Intel(R) Xeon(R) Processor @ 2.50GHz;stepping: 4;microcode: 0x1;cpu MHz: 2500.008;cache size: 36608 KB;physical id: 0;siblings: 2;core id: 1;cpu cores: 2;apicid: 1;initial apicid: 1;fpu: yes;fpu_exception: yes;cpuid level: 13;wp: yes;flags: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx rdtscp lm constant_tsc rep_good nopl xtopology nonstop_tsc cpuid tsc_known_freq pni pclmulqdq ssse3 cx16 pcid sse4_1 sse4_2 x2apic popcnt tsc_deadline_timer aes xsave avx f16c rdrand hypervisor lahf_lm cpuid_fault ssbd ibrs ibpb stibp ibrs_enhanced fsgsbase tsc_adjust smep erms smap xsaveopt arat md_clear arch_capabilities;bugs: spectre_v1 spectre_v2 spec_store_bypass swapgs;bogomips: 5000.01;clflush size: 64;cache_alignment: 64;address sizes: 46 bits physical, 48 bits virtual;power management:;;
+"
+2020-07-27 11:17:13.348,"1022.63,2043.99
+"
+2020-07-27 11:17:13.346,"START RequestId: 48d7f554-5e59-47e9-8baa-f4c1245ae992 Version: $LATEST
+"
+2020-07-27 11:17:13.288,"END RequestId: cdc830dd-c213-457b-a8a0-9f120d6dac97
+"
+2020-07-27 11:17:13.288,"REPORT RequestId: cdc830dd-c213-457b-a8a0-9f120d6dac97	Duration: 311.99 ms	Billed Duration: 400 ms	Memory Size: 128 MB	Max Memory Used: 79 MB	
+"
+2020-07-27 11:17:12.994,"b'3.236.223.121
+'
+"
+2020-07-27 11:17:12.994,"us-east-1
+"
+2020-07-27 11:17:12.987,"169.254.76.1
+"
+2020-07-27 11:17:12.979,"169.254.91.69
+"
+2020-07-27 11:17:12.977,"MemTotal:192480kB,MemFree:47472kB,MemAvailable:132084kB,Buffers:11468kB,Cached:75400kB,SwapCached:0kB,Active:65516kB,Inactive:58168kB,Active(anon):36812kB,Inactive(anon):52kB,Active(file):28704kB,Inactive(file):58116kB,Unevictable:0kB,Mlocked:0kB,SwapTotal:0kB,SwapFree:0kB,Dirty:0kB,Writeback:0kB,AnonPages:36848kB,Mapped:39096kB,Shmem:52kB,Slab:13984kB,SReclaimable:5384kB,SUnreclaim:8600kB,KernelStack:1276kB,PageTables:1108kB,NFS_Unstable:0kB,Bounce:0kB,WritebackTmp:0kB,CommitLimit:96240kB,Committed_AS:403320kB,VmallocTotal:34359738367kB,VmallocUsed:0kB,VmallocChunk:0kB,AnonHugePages:0kB,ShmemHugePages:0kB,ShmemPmdMapped:0kB,HugePages_Total:0,HugePages_Free:0,HugePages_Rsvd:0,HugePages_Surp:0,Hugepagesize:2048kB,DirectMap4k:16384kB,DirectMap2M:196608kB
+"
+2020-07-27 11:17:12.977,"processor: 0;vendor_id: GenuineIntel;cpu family: 6;model: 62;model name: Intel(R) Xeon(R) Processor @ 2.50GHz;stepping: 4;microcode: 0x1;cpu MHz: 2500.008;cache size: 33792 KB;physical id: 0;siblings: 2;core id: 0;cpu cores: 2;apicid: 0;initial apicid: 0;fpu: yes;fpu_exception: yes;cpuid level: 13;wp: yes;flags: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx rdtscp lm constant_tsc rep_good nopl xtopology nonstop_tsc cpuid tsc_known_freq pni pclmulqdq ssse3 cx16 pcid sse4_1 sse4_2 x2apic popcnt tsc_deadline_timer aes xsave avx f16c rdrand hypervisor lahf_lm cpuid_fault pti ssbd ibrs ibpb stibp fsgsbase tsc_adjust smep erms smap xsaveopt arat md_clear arch_capabilities;bugs: cpu_meltdown spectre_v1 spectre_v2 spec_store_bypass l1tf mds swapgs;bogomips: 5000.01;clflush size: 64;cache_alignment: 64;address sizes: 46 bits physical, 48 bits virtual;power management:;;processor: 1;vendor_id: GenuineIntel;cpu family: 6;model: 62;model name: Intel(R) Xeon(R) Processor @ 2.50GHz;stepping: 4;microcode: 0x1;cpu MHz: 2500.008;cache size: 33792 KB;physical id: 0;siblings: 2;core id: 1;cpu cores: 2;apicid: 1;initial apicid: 1;fpu: yes;fpu_exception: yes;cpuid level: 13;wp: yes;flags: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx rdtscp lm constant_tsc rep_good nopl xtopology nonstop_tsc cpuid tsc_known_freq pni pclmulqdq ssse3 cx16 pcid sse4_1 sse4_2 x2apic popcnt tsc_deadline_timer aes xsave avx f16c rdrand hypervisor lahf_lm cpuid_fault pti ssbd ibrs ibpb stibp fsgsbase tsc_adjust smep erms smap xsaveopt arat md_clear arch_capabilities;bugs: cpu_meltdown spectre_v1 spectre_v2 spec_store_bypass l1tf mds swapgs;bogomips: 5000.01;clflush size: 64;cache_alignment: 64;address sizes: 46 bits physical, 48 bits virtual;power management:;;
+"
+2020-07-27 11:17:12.977,"2854.75,5706.91
+"
+2020-07-27 11:17:12.972,"START RequestId: cdc830dd-c213-457b-a8a0-9f120d6dac97 Version: $LATEST
+"
+2020-07-27 11:05:12.046,"END RequestId: cf520cf3-4f6e-4aeb-b588-27e6f41148ae
+"
+2020-07-27 11:05:12.046,"REPORT RequestId: cf520cf3-4f6e-4aeb-b588-27e6f41148ae	Duration: 1661.53 ms	Billed Duration: 1700 ms	Memory Size: 128 MB	Max Memory Used: 78 MB	Init Duration: 301.74 ms	
+"
+2020-07-27 11:05:10.408,"b'3.236.223.121
+'
+"
+2020-07-27 11:05:10.408,"us-east-1
+"
+2020-07-27 11:05:10.388,"169.254.91.69
+"
+2020-07-27 11:05:10.388,"169.254.76.1
+"
+2020-07-27 11:05:10.386,"MemTotal:192480kB,MemFree:63140kB,MemAvailable:140588kB,Buffers:9176kB,Cached:71676kB,SwapCached:0kB,Active:52632kB,Inactive:57332kB,Active(anon):29104kB,Inactive(anon):52kB,Active(file):23528kB,Inactive(file):57280kB,Unevictable:0kB,Mlocked:0kB,SwapTotal:0kB,SwapFree:0kB,Dirty:72kB,Writeback:0kB,AnonPages:29120kB,Mapped:37856kB,Shmem:52kB,Slab:12448kB,SReclaimable:4132kB,SUnreclaim:8316kB,KernelStack:1280kB,PageTables:1060kB,NFS_Unstable:0kB,Bounce:0kB,WritebackTmp:0kB,CommitLimit:96240kB,Committed_AS:387012kB,VmallocTotal:34359738367kB,VmallocUsed:0kB,VmallocChunk:0kB,AnonHugePages:0kB,ShmemHugePages:0kB,ShmemPmdMapped:0kB,HugePages_Total:0,HugePages_Free:0,HugePages_Rsvd:0,HugePages_Surp:0,Hugepagesize:2048kB,DirectMap4k:16384kB,DirectMap2M:196608kB
+"
+2020-07-27 11:05:10.386,"processor: 0;vendor_id: GenuineIntel;cpu family: 6;model: 62;model name: Intel(R) Xeon(R) Processor @ 2.50GHz;stepping: 4;microcode: 0x1;cpu MHz: 2500.008;cache size: 33792 KB;physical id: 0;siblings: 2;core id: 0;cpu cores: 2;apicid: 0;initial apicid: 0;fpu: yes;fpu_exception: yes;cpuid level: 13;wp: yes;flags: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx rdtscp lm constant_tsc rep_good nopl xtopology nonstop_tsc cpuid tsc_known_freq pni pclmulqdq ssse3 cx16 pcid sse4_1 sse4_2 x2apic popcnt tsc_deadline_timer aes xsave avx f16c rdrand hypervisor lahf_lm cpuid_fault pti ssbd ibrs ibpb stibp fsgsbase tsc_adjust smep erms smap xsaveopt arat md_clear arch_capabilities;bugs: cpu_meltdown spectre_v1 spectre_v2 spec_store_bypass l1tf mds swapgs;bogomips: 5000.01;clflush size: 64;cache_alignment: 64;address sizes: 46 bits physical, 48 bits virtual;power management:;;processor: 1;vendor_id: GenuineIntel;cpu family: 6;model: 62;model name: Intel(R) Xeon(R) Processor @ 2.50GHz;stepping: 4;microcode: 0x1;cpu MHz: 2500.008;cache size: 33792 KB;physical id: 0;siblings: 2;core id: 1;cpu cores: 2;apicid: 1;initial apicid: 1;fpu: yes;fpu_exception: yes;cpuid level: 13;wp: yes;flags: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx rdtscp lm constant_tsc rep_good nopl xtopology nonstop_tsc cpuid tsc_known_freq pni pclmulqdq ssse3 cx16 pcid sse4_1 sse4_2 x2apic popcnt tsc_deadline_timer aes xsave avx f16c rdrand hypervisor lahf_lm cpuid_fault pti ssbd ibrs ibpb stibp fsgsbase tsc_adjust smep erms smap xsaveopt arat md_clear arch_capabilities;bugs: cpu_meltdown spectre_v1 spectre_v2 spec_store_bypass l1tf mds swapgs;bogomips: 5000.01;clflush size: 64;cache_alignment: 64;address sizes: 46 bits physical, 48 bits virtual;power management:;;
+"
+2020-07-27 11:05:10.386,"2132.16,4262.94
+"
+2020-07-27 11:05:10.385,"START RequestId: cf520cf3-4f6e-4aeb-b588-27e6f41148ae Version: $LATEST
+"
+2020-07-27 11:05:10.272,"END RequestId: cd922c1d-c3cd-4c3a-b76c-d1bfde1495b6
+"
+2020-07-27 11:05:10.272,"REPORT RequestId: cd922c1d-c3cd-4c3a-b76c-d1bfde1495b6	Duration: 293.68 ms	Billed Duration: 300 ms	Memory Size: 128 MB	Max Memory Used: 79 MB	
+"
+2020-07-27 11:05:10.000,"b'54.173.65.75
+'
+"
+2020-07-27 11:05:10.000,"us-east-1
+"
+2020-07-27 11:05:09.982,"169.254.30.213
+"
+2020-07-27 11:05:09.982,"169.254.76.1
+"
+2020-07-27 11:05:09.980,"MemTotal:192480kB,MemFree:47904kB,MemAvailable:132120kB,Buffers:11244kB,Cached:75136kB,SwapCached:0kB,Active:65304kB,Inactive:57764kB,Active(anon):36692kB,Inactive(anon):52kB,Active(file):28612kB,Inactive(file):57712kB,Unevictable:0kB,Mlocked:0kB,SwapTotal:0kB,SwapFree:0kB,Dirty:16kB,Writeback:0kB,AnonPages:36688kB,Mapped:39236kB,Shmem:52kB,Slab:14220kB,SReclaimable:5484kB,SUnreclaim:8736kB,KernelStack:1276kB,PageTables:1104kB,NFS_Unstable:0kB,Bounce:0kB,WritebackTmp:0kB,CommitLimit:96240kB,Committed_AS:403328kB,VmallocTotal:34359738367kB,VmallocUsed:0kB,VmallocChunk:0kB,AnonHugePages:0kB,ShmemHugePages:0kB,ShmemPmdMapped:0kB,HugePages_Total:0,HugePages_Free:0,HugePages_Rsvd:0,HugePages_Surp:0,Hugepagesize:2048kB,DirectMap4k:16384kB,DirectMap2M:196608kB
+"
+2020-07-27 11:05:09.980,"processor: 0;vendor_id: GenuineIntel;cpu family: 6;model: 62;model name: Intel(R) Xeon(R) Processor @ 2.50GHz;stepping: 4;microcode: 0x1;cpu MHz: 2500.010;cache size: 33792 KB;physical id: 0;siblings: 2;core id: 0;cpu cores: 2;apicid: 0;initial apicid: 0;fpu: yes;fpu_exception: yes;cpuid level: 13;wp: yes;flags: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx rdtscp lm constant_tsc rep_good nopl xtopology nonstop_tsc cpuid tsc_known_freq pni pclmulqdq ssse3 cx16 pcid sse4_1 sse4_2 x2apic popcnt tsc_deadline_timer aes xsave avx f16c rdrand hypervisor lahf_lm cpuid_fault pti ssbd ibrs ibpb stibp fsgsbase tsc_adjust smep erms smap xsaveopt arat md_clear arch_capabilities;bugs: cpu_meltdown spectre_v1 spectre_v2 spec_store_bypass l1tf mds swapgs;bogomips: 5000.02;clflush size: 64;cache_alignment: 64;address sizes: 46 bits physical, 48 bits virtual;power management:;;processor: 1;vendor_id: GenuineIntel;cpu family: 6;model: 62;model name: Intel(R) Xeon(R) Processor @ 2.50GHz;stepping: 4;microcode: 0x1;cpu MHz: 2500.010;cache size: 33792 KB;physical id: 0;siblings: 2;core id: 1;cpu cores: 2;apicid: 1;initial apicid: 1;fpu: yes;fpu_exception: yes;cpuid level: 13;wp: yes;flags: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx rdtscp lm constant_tsc rep_good nopl xtopology nonstop_tsc cpuid tsc_known_freq pni pclmulqdq ssse3 cx16 pcid sse4_1 sse4_2 x2apic popcnt tsc_deadline_timer aes xsave avx f16c rdrand hypervisor lahf_lm cpuid_fault pti ssbd ibrs ibpb stibp fsgsbase tsc_adjust smep erms smap xsaveopt arat md_clear arch_capabilities;bugs: cpu_meltdown spectre_v1 spectre_v2 spec_store_bypass l1tf mds swapgs;bogomips: 5000.02;clflush size: 64;cache_alignment: 64;address sizes: 46 bits physical, 48 bits virtual;power management:;;
+"
+2020-07-27 11:05:09.980,"1176.34,2350.31
+"
+2020-07-27 11:05:09.976,"START RequestId: cd922c1d-c3cd-4c3a-b76c-d1bfde1495b6 Version: $LATEST
+"

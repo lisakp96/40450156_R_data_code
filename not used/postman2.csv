@@ -1,0 +1,22 @@
+timestamp,message
+1595597419421,"START RequestId: 662291c1-1d66-479f-bffd-cf98b6b3d4a4 Version: $LATEST
+"
+1595597419422,"MemTotal:192480kB,MemFree:63224kB,MemAvailable:140396kB,Buffers:9060kB,Cached:71524kB,SwapCached:0kB,Active:52232kB,Inactive:57316kB,Active(anon):29000kB,Inactive(anon):52kB,Active(file):23232kB,Inactive(file):57264kB,Unevictable:0kB,Mlocked:0kB,SwapTotal:0kB,SwapFree:0kB,Dirty:68kB,Writeback:0kB,AnonPages:29060kB,Mapped:37688kB,Shmem:52kB,Slab:12664kB,SReclaimable:4208kB,SUnreclaim:8456kB,KernelStack:1280kB,PageTables:1052kB,NFS_Unstable:0kB,Bounce:0kB,WritebackTmp:0kB,CommitLimit:96240kB,Committed_AS:387272kB,VmallocTotal:34359738367kB,VmallocUsed:0kB,VmallocChunk:0kB,AnonHugePages:0kB,ShmemHugePages:0kB,ShmemPmdMapped:0kB,HugePages_Total:0,HugePages_Free:0,HugePages_Rsvd:0,HugePages_Surp:0,Hugepagesize:2048kB,DirectMap4k:14336kB,DirectMap2M:198656kB
+"
+1595597419423,"processor: 0;vendor_id: GenuineIntel;cpu family: 6;model: 62;model name: Intel(R) Xeon(R) Processor @ 2.50GHz;stepping: 4;microcode: 0x1;cpu MHz: 2500.010;cache size: 33792 KB;physical id: 0;siblings: 2;core id: 0;cpu cores: 2;apicid: 0;initial apicid: 0;fpu: yes;fpu_exception: yes;cpuid level: 13;wp: yes;flags: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx rdtscp lm constant_tsc rep_good nopl xtopology nonstop_tsc cpuid tsc_known_freq pni pclmulqdq ssse3 cx16 pcid sse4_1 sse4_2 x2apic popcnt tsc_deadline_timer aes xsave avx f16c rdrand hypervisor lahf_lm cpuid_fault pti ssbd ibrs ibpb stibp fsgsbase tsc_adjust smep erms smap xsaveopt arat md_clear arch_capabilities;bugs: cpu_meltdown spectre_v1 spectre_v2 spec_store_bypass l1tf mds swapgs;bogomips: 5000.02;clflush size: 64;cache_alignment: 64;address sizes: 46 bits physical, 48 bits virtual;power management:;;processor: 1;vendor_id: GenuineIntel;cpu family: 6;model: 62;model name: Intel(R) Xeon(R) Processor @ 2.50GHz;stepping: 4;microcode: 0x1;cpu MHz: 2500.010;cache size: 33792 KB;physical id: 0;siblings: 2;core id: 1;cpu cores: 2;apicid: 1;initial apicid: 1;fpu: yes;fpu_exception: yes;cpuid level: 13;wp: yes;flags: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx rdtscp lm constant_tsc rep_good nopl xtopology nonstop_tsc cpuid tsc_known_freq pni pclmulqdq ssse3 cx16 pcid sse4_1 sse4_2 x2apic popcnt tsc_deadline_timer aes xsave avx f16c rdrand hypervisor lahf_lm cpuid_fault pti ssbd ibrs ibpb stibp fsgsbase tsc_adjust smep erms smap xsaveopt arat md_clear arch_capabilities;bugs: cpu_meltdown spectre_v1 spectre_v2 spec_store_bypass l1tf mds swapgs;bogomips: 5000.02;clflush size: 64;cache_alignment: 64;address sizes: 46 bits physical, 48 bits virtual;power management:;;
+"
+1595597419423,"1071.13,2140.91
+"
+1595597419430,"169.254.8.205
+"
+1595597419430,"169.254.76.1
+"
+1595597419450,"b'3.235.177.94
+'
+"
+1595597419450,"us-east-1
+"
+1595597421210,"END RequestId: 662291c1-1d66-479f-bffd-cf98b6b3d4a4
+"
+1595597421210,"REPORT RequestId: 662291c1-1d66-479f-bffd-cf98b6b3d4a4	Duration: 1787.82 ms	Billed Duration: 1800 ms	Memory Size: 128 MB	Max Memory Used: 78 MB	Init Duration: 333.95 ms	
+"
