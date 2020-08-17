@@ -8,31 +8,6 @@ library(Hmisc)
 library(iptools)
 library(xtable)
 
-# https://www.rdocumentation.org
-# https://github.com/rstudio/cheatsheets/blob/master/data-visualization-2.1.pdf
-# https://statistics.berkeley.edu/computing/r-t-tests
-# https://rstudio-pubs-static.s3.amazonaws.com/240657_5157ff98e8204c358b2118fa69162e18.html
-# https://www.pluralsight.com/guides/finding-relationships-data-with-r
-
-# MEAN VS MEDIAN ???
-# Coefficient of Variation (CV) = sd/mean -> higher CV = performance of instances differ more  -> calculate
-# CORRELTAION TEST = LINIAR 
-# null hypothesis. This is simply the hypothesis that nothing has happened.
-# high p-value then you can say that it is reasonable that this result happened under the null hypothesis, 
-# so the null hypothesis may well be true.
-# convention you normally declare that whenever the p-value is less than 0.05 then that is a low enough 
-# probability to reject the null hypothesis
-
-# Chi Quadrat: Kategorical https://www.beratung-statistik.de/statistik-beratung-infos/r-tutorial/statistik-r-chiquadrat/
-
-chisq.test(coldstart_pythonversions$runtime, coldstart_pythonversions$response_processing_time)
-chisq.test(coldstart_pythonversions$requestid, coldstart_pythonversions$response_processing_time)
-chisq.test(coldstart_pythonversions$response_processing_time, coldstart_pythonversions$request_rrt)
-#p-value > 0.05 -> kein Zusammenhang
-
-cordata = coldstart_pythonversions[,c(18,20)]
-corr <- round(cor(cordata), 1)
-corr
 
 ########################################################################################################
 
