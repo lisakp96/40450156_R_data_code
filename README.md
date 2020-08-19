@@ -1,4 +1,4 @@
-# MASTER PROJECT
+# MASTER'S PROJECT
 
 This project contains code for the investigation of traffic on AWS Lambda.
 
