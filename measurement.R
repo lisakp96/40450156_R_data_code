@@ -8,6 +8,12 @@ library(Hmisc)
 library(iptools)
 library(xtable)
 
+# Some Inspriation, alongside documentation, has been taken from:
+
+# https://github.com/rstudio/cheatsheets/blob/master/data-visualization-2.1.pdf
+# https://statistics.berkeley.edu/computing/r-t-tests
+# https://rstudio-pubs-static.s3.amazonaws.com/240657_5157ff98e8204c358b2118fa69162e18.html
+# https://www.pluralsight.com/guides/finding-relationships-data-with-r
 
 ########################################################################################################
 
